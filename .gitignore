@@ -1,3 +1,7 @@
+.idea/
+target/
+starterapp.iml
+
 # Compiled class file
 *.class
 
