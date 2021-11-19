@@ -1,0 +1,2073 @@
+{
+  "repositories": [
+    "http://localhost/",
+    "http://localhost1111/"
+  ],
+  "resources": [
+    {
+      "sha1": "a889fe9183cdfac32849fe674425e383421958eb",
+      "size": 424,
+      "path": "jre-8u281-linux-x64/release",
+      "relativeUrl": "jre-8u281-linux-x64/release"
+    },
+    {
+      "sha1": "c67d1a06cb37b66e69560c9f5e4be7cf08af0493",
+      "size": 8841,
+      "path": "jre-8u281-linux-x64/lib/fontconfig.RedHat.5.properties.src",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fontconfig.RedHat.5.properties.src"
+    },
+    {
+      "sha1": "c9b1af1c229e54b2d8a3d642d4f0bb31dc15be79",
+      "size": 4507,
+      "path": "jre-8u281-linux-x64/lib/deploy/MixedCodeMainDialog.ui",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/MixedCodeMainDialog.ui"
+    },
+    {
+      "sha1": "8def364e07f40142822df84b5bb4f50846cb5e4e",
+      "size": 7805,
+      "path": "jre-8u281-linux-x64/lib/deploy/splash_11-lic.gif",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/splash_11-lic.gif"
+    },
+    {
+      "sha1": "ad6337fb6d46750e14c12b439a5856f4b6864d0d",
+      "size": 6110,
+      "path": "jre-8u281-linux-x64/lib/deploy/MixedCodeMainDialogJs.ui",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/MixedCodeMainDialogJs.ui"
+    },
+    {
+      "sha1": "0ae4a5bda2a6d628fac51462390b503c99509fdc",
+      "size": 15276,
+      "path": "jre-8u281-linux-x64/lib/deploy/splash@2x.gif",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/splash@2x.gif"
+    },
+    {
+      "sha1": "24e4951743521ab9a11381c77bd0cdb1ed30f5b5",
+      "size": 3285,
+      "path": "jre-8u281-linux-x64/lib/deploy/messages_pt_BR.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/messages_pt_BR.properties"
+    },
+    {
+      "sha1": "1de7ed5d5fc75aa1bcede088c655bee3bde64c38",
+      "size": 3588,
+      "path": "jre-8u281-linux-x64/lib/deploy/cautionshield.icns",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/cautionshield.icns"
+    },
+    {
+      "sha1": "d989fe1b8f7904888d5102294ebefd28d932ecdb",
+      "size": 3306,
+      "path": "jre-8u281-linux-x64/lib/deploy/messages_de.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/messages_de.properties"
+    },
+    {
+      "sha1": "2997ceb26ff49a7d7c5e7a2405b5fb50b62c7914",
+      "size": 29926,
+      "path": "jre-8u281-linux-x64/lib/deploy/java-icon.ico",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/java-icon.ico"
+    },
+    {
+      "sha1": "37a57aad121c14c25e149206179728fa62203bf0",
+      "size": 3752,
+      "path": "jre-8u281-linux-x64/lib/deploy/messages_zh_HK.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/messages_zh_HK.properties"
+    },
+    {
+      "sha1": "20e7aec75f6d036d504277542e507eb7dc24aae8",
+      "size": 8590,
+      "path": "jre-8u281-linux-x64/lib/deploy/splash.gif",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/splash.gif"
+    },
+    {
+      "sha1": "dbe49949308f28540a42ae6cd2ad58afbf615592",
+      "size": 3223,
+      "path": "jre-8u281-linux-x64/lib/deploy/messages_it.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/messages_it.properties"
+    },
+    {
+      "sha1": "d2bff9bbf7920ca743b81a0ee23b0719b4d057ca",
+      "size": 12250,
+      "path": "jre-8u281-linux-x64/lib/deploy/splash_11@2x-lic.gif",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/splash_11@2x-lic.gif"
+    },
+    {
+      "sha1": "69bd2d03c2064f8679de5b4e430ea61b567c69c5",
+      "size": 3409,
+      "path": "jre-8u281-linux-x64/lib/deploy/messages_fr.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/messages_fr.properties"
+    },
+    {
+      "sha1": "751170a7cdefcb1226604ac3f8196e06a04fd7ac",
+      "size": 6349,
+      "path": "jre-8u281-linux-x64/lib/deploy/messages_ja.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/messages_ja.properties"
+    },
+    {
+      "sha1": "dc52841c708e3c1eb2a044088a43396d1291bb5e",
+      "size": 2860,
+      "path": "jre-8u281-linux-x64/lib/deploy/messages.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/messages.properties"
+    },
+    {
+      "sha1": "37a57aad121c14c25e149206179728fa62203bf0",
+      "size": 3752,
+      "path": "jre-8u281-linux-x64/lib/deploy/messages_zh_TW.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/messages_zh_TW.properties"
+    },
+    {
+      "sha1": "4604e9f265eec97bccd0151c3a81afa9e69499e5",
+      "size": 3115,
+      "path": "jre-8u281-linux-x64/lib/deploy/mixcode_s.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/mixcode_s.png"
+    },
+    {
+      "sha1": "bb5a4aa0ba499f6b1916a83e3c7922a4583b4adb",
+      "size": 3384,
+      "path": "jre-8u281-linux-x64/lib/deploy/messages_sv.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/messages_sv.properties"
+    },
+    {
+      "sha1": "bf9e055b5ab138ad6d49769e2b7630b7938848d6",
+      "size": 5712,
+      "path": "jre-8u281-linux-x64/lib/deploy/messages_ko.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/messages_ko.properties"
+    },
+    {
+      "sha1": "1c2b96673dddd3596890ef4fc22017d484a1f652",
+      "size": 4072,
+      "path": "jre-8u281-linux-x64/lib/deploy/messages_zh_CN.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/messages_zh_CN.properties"
+    },
+    {
+      "sha1": "1b0334b79db481c3a59be6915d5118d760c97baa",
+      "size": 3600,
+      "path": "jre-8u281-linux-x64/lib/deploy/messages_es.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy/messages_es.properties"
+    },
+    {
+      "sha1": "f6e72e3b2141ccc3dffab10ae14a754e494577ba",
+      "size": 2434,
+      "path": "jre-8u281-linux-x64/lib/locale/it/LC_MESSAGES/sunw_java_plugin.mo",
+      "relativeUrl": "jre-8u281-linux-x64/lib/locale/it/LC_MESSAGES/sunw_java_plugin.mo"
+    },
+    {
+      "sha1": "f9b972dd059eae3cd337dfcef6a178e8ed8a7db6",
+      "size": 2025,
+      "path": "jre-8u281-linux-x64/lib/locale/zh_TW/LC_MESSAGES/sunw_java_plugin.mo",
+      "relativeUrl": "jre-8u281-linux-x64/lib/locale/zh_TW/LC_MESSAGES/sunw_java_plugin.mo"
+    },
+    {
+      "sha1": "7006fe7767b8807441a1f359a90509b3e507b0d1",
+      "size": 2002,
+      "path": "jre-8u281-linux-x64/lib/locale/zh.GBK/LC_MESSAGES/sunw_java_plugin.mo",
+      "relativeUrl": "jre-8u281-linux-x64/lib/locale/zh.GBK/LC_MESSAGES/sunw_java_plugin.mo"
+    },
+    {
+      "sha1": "5b223a3d723ac1cfce63623fb109f2868d47d1b7",
+      "size": 2483,
+      "path": "jre-8u281-linux-x64/lib/locale/de/LC_MESSAGES/sunw_java_plugin.mo",
+      "relativeUrl": "jre-8u281-linux-x64/lib/locale/de/LC_MESSAGES/sunw_java_plugin.mo"
+    },
+    {
+      "sha1": "378881a8cb8dd2aebb43eacd0c68519be4f258b1",
+      "size": 2415,
+      "path": "jre-8u281-linux-x64/lib/locale/ja/LC_MESSAGES/sunw_java_plugin.mo",
+      "relativeUrl": "jre-8u281-linux-x64/lib/locale/ja/LC_MESSAGES/sunw_java_plugin.mo"
+    },
+    {
+      "sha1": "c6023544067278c78599921f1032de353ff7da42",
+      "size": 2025,
+      "path": "jre-8u281-linux-x64/lib/locale/zh_TW.BIG5/LC_MESSAGES/sunw_java_plugin.mo",
+      "relativeUrl": "jre-8u281-linux-x64/lib/locale/zh_TW.BIG5/LC_MESSAGES/sunw_java_plugin.mo"
+    },
+    {
+      "sha1": "12c8a118d150c78f719314df6dec49a967af71e9",
+      "size": 2399,
+      "path": "jre-8u281-linux-x64/lib/locale/ko/LC_MESSAGES/sunw_java_plugin.mo",
+      "relativeUrl": "jre-8u281-linux-x64/lib/locale/ko/LC_MESSAGES/sunw_java_plugin.mo"
+    },
+    {
+      "sha1": "c6023544067278c78599921f1032de353ff7da42",
+      "size": 2025,
+      "path": "jre-8u281-linux-x64/lib/locale/zh_HK.BIG5HK/LC_MESSAGES/sunw_java_plugin.mo",
+      "relativeUrl": "jre-8u281-linux-x64/lib/locale/zh_HK.BIG5HK/LC_MESSAGES/sunw_java_plugin.mo"
+    },
+    {
+      "sha1": "7006fe7767b8807441a1f359a90509b3e507b0d1",
+      "size": 2002,
+      "path": "jre-8u281-linux-x64/lib/locale/zh/LC_MESSAGES/sunw_java_plugin.mo",
+      "relativeUrl": "jre-8u281-linux-x64/lib/locale/zh/LC_MESSAGES/sunw_java_plugin.mo"
+    },
+    {
+      "sha1": "6cc63dc97f2fdb2ed799e48b1dc98c4f37cdecc1",
+      "size": 2477,
+      "path": "jre-8u281-linux-x64/lib/locale/es/LC_MESSAGES/sunw_java_plugin.mo",
+      "relativeUrl": "jre-8u281-linux-x64/lib/locale/es/LC_MESSAGES/sunw_java_plugin.mo"
+    },
+    {
+      "sha1": "d9d5b458db6e83fdf85c3526aeee3f57c4929840",
+      "size": 2746,
+      "path": "jre-8u281-linux-x64/lib/locale/fr/LC_MESSAGES/sunw_java_plugin.mo",
+      "relativeUrl": "jre-8u281-linux-x64/lib/locale/fr/LC_MESSAGES/sunw_java_plugin.mo"
+    },
+    {
+      "sha1": "a3bc0c43994c53c59bba94982cf95f6d36283dd0",
+      "size": 2420,
+      "path": "jre-8u281-linux-x64/lib/locale/pt_BR/LC_MESSAGES/sunw_java_plugin.mo",
+      "relativeUrl": "jre-8u281-linux-x64/lib/locale/pt_BR/LC_MESSAGES/sunw_java_plugin.mo"
+    },
+    {
+      "sha1": "09a47686edec4bbb34e82fbd08559f8bb6266544",
+      "size": 2359,
+      "path": "jre-8u281-linux-x64/lib/locale/sv/LC_MESSAGES/sunw_java_plugin.mo",
+      "relativeUrl": "jre-8u281-linux-x64/lib/locale/sv/LC_MESSAGES/sunw_java_plugin.mo"
+    },
+    {
+      "sha1": "cb19df01c59662dbe2f4050b1290d374b82fe1fa",
+      "size": 2753,
+      "path": "jre-8u281-linux-x64/lib/locale/ko.UTF-8/LC_MESSAGES/sunw_java_plugin.mo",
+      "relativeUrl": "jre-8u281-linux-x64/lib/locale/ko.UTF-8/LC_MESSAGES/sunw_java_plugin.mo"
+    },
+    {
+      "sha1": "84aa425100740722e91f4725caf849e7863d12ba",
+      "size": 13962,
+      "path": "jre-8u281-linux-x64/lib/hijrah-config-umalqura.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/hijrah-config-umalqura.properties"
+    },
+    {
+      "sha1": "5e1372b7508e2a50fac09ce1618ea8e24621af77",
+      "size": 1927488,
+      "path": "jre-8u281-linux-x64/lib/jsse.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/jsse.jar"
+    },
+    {
+      "sha1": "4e66e8fe12d7f8b3b0c4e1a1915f329bb1fbf6d2",
+      "size": 3901,
+      "path": "jre-8u281-linux-x64/lib/flavormap.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/flavormap.properties"
+    },
+    {
+      "sha1": "720e0c8e96684d0ae58b330cb753f2ecc6528d26",
+      "size": 2257670,
+      "path": "jre-8u281-linux-x64/lib/deploy.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/deploy.jar"
+    },
+    {
+      "sha1": "fb806ada6e68f16a9fe2b726a39d9ef5a835c0c2",
+      "size": 4532,
+      "path": "jre-8u281-linux-x64/lib/fontconfig.RedHat.5.bfc",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fontconfig.RedHat.5.bfc"
+    },
+    {
+      "sha1": "e2ab9b21bed47a7863566f4f4a1587f2fde744d7",
+      "size": 107865,
+      "path": "jre-8u281-linux-x64/lib/tzdb.dat",
+      "relativeUrl": "jre-8u281-linux-x64/lib/tzdb.dat"
+    },
+    {
+      "sha1": "89da8094484891f9ec1fa40c6c8b61f94c5869d0",
+      "size": 2455,
+      "path": "jre-8u281-linux-x64/lib/logging.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/logging.properties"
+    },
+    {
+      "sha1": "320fe8e9fb2203256f95ed86b4b7591aa7f5beac",
+      "size": 12904,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjsdt.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjsdt.so"
+    },
+    {
+      "sha1": "33824051db1ccb6332e22c2b63231055240d0af0",
+      "size": 12760,
+      "path": "jre-8u281-linux-x64/lib/amd64/libbci.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libbci.so"
+    },
+    {
+      "sha1": "b2fd9f764f60ebc6b16d24b94018ba5b03618e17",
+      "size": 50912,
+      "path": "jre-8u281-linux-x64/lib/amd64/libavplugin-ffmpeg-58.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libavplugin-ffmpeg-58.so"
+    },
+    {
+      "sha1": "4dda8e073ca0dd8e6eeeb063f106abecaebc7466",
+      "size": 2266880,
+      "path": "jre-8u281-linux-x64/lib/amd64/libgstreamer-lite.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libgstreamer-lite.so"
+    },
+    {
+      "sha1": "faea80beac940ad5bba8afd8fba689337a0e2b22",
+      "size": 50912,
+      "path": "jre-8u281-linux-x64/lib/amd64/libavplugin-57.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libavplugin-57.so"
+    },
+    {
+      "sha1": "50274e0dcc30241ba09b38302c9bec64b6525e3f",
+      "size": 26144,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjava_crw_demo.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjava_crw_demo.so"
+    },
+    {
+      "sha1": "5fe4efc31d845607bd0152f752de22a895c674ab",
+      "size": 531536,
+      "path": "jre-8u281-linux-x64/lib/amd64/liblcms.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/liblcms.so"
+    },
+    {
+      "sha1": "cbce4a302b255d4d1924ef7606f038af766c5e86",
+      "size": 47688,
+      "path": "jre-8u281-linux-x64/lib/amd64/libj2gss.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libj2gss.so"
+    },
+    {
+      "sha1": "28929057342ebccf1ba5f0b73777665d84700aca",
+      "size": 2082472,
+      "path": "jre-8u281-linux-x64/lib/amd64/libglassgtk3.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libglassgtk3.so"
+    },
+    {
+      "sha1": "d10ea314b475e2761218a69431b0a93dee6aa61e",
+      "size": 759184,
+      "path": "jre-8u281-linux-x64/lib/amd64/libawt.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libawt.so"
+    },
+    {
+      "sha1": "a70540f68f163dfe55e3392ae859bd5fe8e95477",
+      "size": 108616,
+      "path": "jre-8u281-linux-x64/lib/amd64/jli/libjli.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/jli/libjli.so"
+    },
+    {
+      "sha1": "ca56b5fead1a4463070132ed9d01859d00a3f035",
+      "size": 2084016,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjfxmedia.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjfxmedia.so"
+    },
+    {
+      "sha1": "6983727eafe140f9dd793c78aa6f3e007438243a",
+      "size": 1423,
+      "path": "jre-8u281-linux-x64/lib/amd64/server/Xusage.txt",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/server/Xusage.txt"
+    },
+    {
+      "sha1": "ab10227fda6e64137f3b534575eeffff4db7ac29",
+      "size": 13336,
+      "path": "jre-8u281-linux-x64/lib/amd64/server/libjsig.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/server/libjsig.so"
+    },
+    {
+      "sha1": "50027ab9007db31b7dc7b4c64ff5cd90d40e758d",
+      "size": 17105112,
+      "path": "jre-8u281-linux-x64/lib/amd64/server/libjvm.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/server/libjvm.so"
+    },
+    {
+      "sha1": "604f6851885bbf3e317b88eea307746110b28e86",
+      "size": 470648,
+      "path": "jre-8u281-linux-x64/lib/amd64/libawt_xawt.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libawt_xawt.so"
+    },
+    {
+      "sha1": "cadb3b10504111cb4be1086bade93f2e8d365cd9",
+      "size": 272248,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjdwp.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjdwp.so"
+    },
+    {
+      "sha1": "d559c40416a757118a768159db835938fe180382",
+      "size": 50800,
+      "path": "jre-8u281-linux-x64/lib/amd64/libavplugin-53.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libavplugin-53.so"
+    },
+    {
+      "sha1": "fc77a638a095a42ae357779d2f1e26c4c6e6d648",
+      "size": 1048136,
+      "path": "jre-8u281-linux-x64/lib/amd64/libmlib_image.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libmlib_image.so"
+    },
+    {
+      "sha1": "4c75480525d87c7e45a8881eea7320e6422e529e",
+      "size": 1472168,
+      "path": "jre-8u281-linux-x64/lib/amd64/libglib-lite.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libglib-lite.so"
+    },
+    {
+      "sha1": "49178b311eddf6cb71ff84befbc0a563f1c6bb5a",
+      "size": 283368,
+      "path": "jre-8u281-linux-x64/lib/amd64/libsunec.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libsunec.so"
+    },
+    {
+      "sha1": "c10f4bffdbe5ba0d6da8f00e1b204fc934c86be0",
+      "size": 50912,
+      "path": "jre-8u281-linux-x64/lib/amd64/libavplugin-56.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libavplugin-56.so"
+    },
+    {
+      "sha1": "586a4e89dca8ce6b3ee7295c4b38022ee8287348",
+      "size": 66112,
+      "path": "jre-8u281-linux-x64/lib/amd64/libverify.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libverify.so"
+    },
+    {
+      "sha1": "61dbfd393af3d2f03935a4b2d93b280b9184895e",
+      "size": 127016,
+      "path": "jre-8u281-linux-x64/lib/amd64/libzip.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libzip.so"
+    },
+    {
+      "sha1": "159304424d38fa85a405d59de8897a04d517b16e",
+      "size": 17504,
+      "path": "jre-8u281-linux-x64/lib/amd64/libnpt.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libnpt.so"
+    },
+    {
+      "sha1": "3f9f1d8a131d87edadbb7f9a36896ac5126b3358",
+      "size": 51984,
+      "path": "jre-8u281-linux-x64/lib/amd64/libmanagement.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libmanagement.so"
+    },
+    {
+      "sha1": "c5bb0273ced89f96ba8470ceb63a81a136c17dd3",
+      "size": 175504,
+      "path": "jre-8u281-linux-x64/lib/amd64/libhprof.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libhprof.so"
+    },
+    {
+      "sha1": "51ade1272a7cbcb6ec6e206b8dd79c5ddc76a387",
+      "size": 50912,
+      "path": "jre-8u281-linux-x64/lib/amd64/libavplugin-ffmpeg-57.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libavplugin-ffmpeg-57.so"
+    },
+    {
+      "sha1": "85c38e581ce16dec59c9d42cf6ef33807a2a7e71",
+      "size": 50912,
+      "path": "jre-8u281-linux-x64/lib/amd64/libavplugin-ffmpeg-56.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libavplugin-ffmpeg-56.so"
+    },
+    {
+      "sha1": "83325102557e7de98ae98a7db972107220094c9c",
+      "size": 12456,
+      "path": "jre-8u281-linux-x64/lib/amd64/libglass.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libglass.so"
+    },
+    {
+      "sha1": "312392dd186b11c418183e818f1928e8685a07e5",
+      "size": 28384,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjfr.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjfr.so"
+    },
+    {
+      "sha1": "6c227f6226ba28ac79bc4f79b46d2e87b1b15172",
+      "size": 16656,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjavafx_font.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjavafx_font.so"
+    },
+    {
+      "sha1": "57490353ad0d83ab1930355213dea269795434fe",
+      "size": 13456,
+      "path": "jre-8u281-linux-x64/lib/amd64/libresource.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libresource.so"
+    },
+    {
+      "sha1": "38f0a014a2b8bcab66a5d5781ea6ced2dd0f3451",
+      "size": 74376,
+      "path": "jre-8u281-linux-x64/lib/amd64/libdecora_sse.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libdecora_sse.so"
+    },
+    {
+      "sha1": "c466f8d7eba209d3cf1946a75e2e7c3b52291dc3",
+      "size": 504840,
+      "path": "jre-8u281-linux-x64/lib/amd64/libt2k.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libt2k.so"
+    },
+    {
+      "sha1": "434ad82d793c9b17d1d513696daa1f049791e2d7",
+      "size": 25088,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjavafx_font_pango.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjavafx_font_pango.so"
+    },
+    {
+      "sha1": "06d1de599347468973fda168dc904b2d7cc00a4a",
+      "size": 29552,
+      "path": "jre-8u281-linux-x64/lib/amd64/libsctp.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libsctp.so"
+    },
+    {
+      "sha1": "2224aaa9b1e6af9cfce4bb0f39277c31fd4f1c12",
+      "size": 197840,
+      "path": "jre-8u281-linux-x64/lib/amd64/libunpack.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libunpack.so"
+    },
+    {
+      "sha1": "c824be09ed930459f05dd791bb8784fcd7acc984",
+      "size": 84360,
+      "path": "jre-8u281-linux-x64/lib/amd64/libj2pkcs11.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libj2pkcs11.so"
+    },
+    {
+      "sha1": "64089b0e348ae529a17a8d4659af14b237b7c149",
+      "size": 63152,
+      "path": "jre-8u281-linux-x64/lib/amd64/libprism_es2.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libprism_es2.so"
+    },
+    {
+      "sha1": "6ae0a07a3adc5a90ec2b3c21091dc292697f12f5",
+      "size": 50880,
+      "path": "jre-8u281-linux-x64/lib/amd64/libavplugin-54.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libavplugin-54.so"
+    },
+    {
+      "sha1": "36ab8764788d87371df3b22a7643c8e6a18edcf7",
+      "size": 151008,
+      "path": "jre-8u281-linux-x64/lib/amd64/libfxplugins.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libfxplugins.so"
+    },
+    {
+      "sha1": "0c0fc63b92d7b83c9960fa80d45c80553ea20254",
+      "size": 8232,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjsound.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjsound.so"
+    },
+    {
+      "sha1": "7a5b1c5e0c511a13831e84d41c51bdb48a54a844",
+      "size": 642408,
+      "path": "jre-8u281-linux-x64/lib/amd64/libdeploy.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libdeploy.so"
+    },
+    {
+      "sha1": "926fa382df8530a815cff9b994b5992d20911a34",
+      "size": 26944,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjavafx_font_freetype.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjavafx_font_freetype.so"
+    },
+    {
+      "sha1": "fcadc8ba093fa441f8f787fa4d46305a11838029",
+      "size": 101571904,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjfxwebkit.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjfxwebkit.so"
+    },
+    {
+      "sha1": "ab10227fda6e64137f3b534575eeffff4db7ac29",
+      "size": 13336,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjsig.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjsig.so"
+    },
+    {
+      "sha1": "8c20727844248cf5e9bc80413de9dd7ed38421df",
+      "size": 39176,
+      "path": "jre-8u281-linux-x64/lib/amd64/libawt_headless.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libawt_headless.so"
+    },
+    {
+      "sha1": "10ed197bcc9f68021fc69fcaffc7128120652460",
+      "size": 24616,
+      "path": "jre-8u281-linux-x64/lib/amd64/libdt_socket.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libdt_socket.so"
+    },
+    {
+      "sha1": "5230dba0aa01ff8ef3ad4c47bb858cc466b47071",
+      "size": 498864,
+      "path": "jre-8u281-linux-x64/lib/amd64/libfontmanager.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libfontmanager.so"
+    },
+    {
+      "sha1": "dadadf3daf8c87e68c8588168969c64a278fa42e",
+      "size": 66736,
+      "path": "jre-8u281-linux-x64/lib/amd64/libprism_sw.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libprism_sw.so"
+    },
+    {
+      "sha1": "f46c8c9212987e15af98d385093d8888a661eae0",
+      "size": 51560,
+      "path": "jre-8u281-linux-x64/lib/amd64/libinstrument.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libinstrument.so"
+    },
+    {
+      "sha1": "5232c72fa3056b801fc9eb10c3de530a332553b0",
+      "size": 292520,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjpeg.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjpeg.so"
+    },
+    {
+      "sha1": "ea4f0445abfaee83757127fe4e5dcdfd7e98a868",
+      "size": 113008,
+      "path": "jre-8u281-linux-x64/lib/amd64/libnet.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libnet.so"
+    },
+    {
+      "sha1": "746a93d60d25050bcdd2efd3b427df5a8433f130",
+      "size": 58392,
+      "path": "jre-8u281-linux-x64/lib/amd64/libprism_common.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libprism_common.so"
+    },
+    {
+      "sha1": "fa7001bc5d80579e2716590f3eee8027da0beae7",
+      "size": 204456,
+      "path": "jre-8u281-linux-x64/lib/amd64/libdcpr.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libdcpr.so"
+    },
+    {
+      "sha1": "c5032f2c6fa40bea24e56605cf76b26a27e87b67",
+      "size": 8048,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjawt.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjawt.so"
+    },
+    {
+      "sha1": "4c517925c7d464a5b719898eb0bea1b04df31f1f",
+      "size": 8192,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjaas_unix.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjaas_unix.so"
+    },
+    {
+      "sha1": "281d37f0326d4a12dc7ea316ead09c198ff7bdf7",
+      "size": 83256,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjsoundalsa.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjsoundalsa.so"
+    },
+    {
+      "sha1": "44b241c893b3c19fbf5da349bff5e8d669eddbcf",
+      "size": 441464,
+      "path": "jre-8u281-linux-x64/lib/amd64/libsplashscreen.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libsplashscreen.so"
+    },
+    {
+      "sha1": "573bf8f64dbcc397f8abd3e1da28f90ab0679f5b",
+      "size": 93872,
+      "path": "jre-8u281-linux-x64/lib/amd64/libnio.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libnio.so"
+    },
+    {
+      "sha1": "7a9ad46962d444fcba36dee8fb01729c0a7ef493",
+      "size": 2081720,
+      "path": "jre-8u281-linux-x64/lib/amd64/libglassgtk2.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libglassgtk2.so"
+    },
+    {
+      "sha1": "e9606dbc33df9fca67947e4802f0d5cea8704a54",
+      "size": 231960,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjava.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjava.so"
+    },
+    {
+      "sha1": "dd563a1015d1698fc310f93071dceb7d6221938d",
+      "size": 50912,
+      "path": "jre-8u281-linux-x64/lib/amd64/libavplugin-55.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libavplugin-55.so"
+    },
+    {
+      "sha1": "e38018161a360667f6edd61ccf3ab1db08443298",
+      "size": 255664,
+      "path": "jre-8u281-linux-x64/lib/amd64/libjavafx_iio.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libjavafx_iio.so"
+    },
+    {
+      "sha1": "1274178492e7a3e997e12f67794616f7c3d8d0b9",
+      "size": 18296,
+      "path": "jre-8u281-linux-x64/lib/amd64/libj2pcsc.so",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/libj2pcsc.so"
+    },
+    {
+      "sha1": "84b38bdc745de446ba0ca0232ea3aaf2efd721da",
+      "size": 627,
+      "path": "jre-8u281-linux-x64/lib/amd64/jvm.cfg",
+      "relativeUrl": "jre-8u281-linux-x64/lib/amd64/jvm.cfg"
+    },
+    {
+      "sha1": "9afceb218059d981d0fa9f07aad3c5097cf41b0c",
+      "size": 1210,
+      "path": "jre-8u281-linux-x64/lib/sound.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/sound.properties"
+    },
+    {
+      "sha1": "0a44ce3b93bf88f4abaa198c44884931332551af",
+      "size": 488181,
+      "path": "jre-8u281-linux-x64/lib/javaws.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/javaws.jar"
+    },
+    {
+      "sha1": "53e4e12a675ac222469341c3dbc102464a1be4c7",
+      "size": 91352,
+      "path": "jre-8u281-linux-x64/lib/oblique-fonts/LucidaSansDemiOblique.ttf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/oblique-fonts/LucidaSansDemiOblique.ttf"
+    },
+    {
+      "sha1": "f331fc8b0cc494702bc46b690f2b8eed36469a02",
+      "size": 63168,
+      "path": "jre-8u281-linux-x64/lib/oblique-fonts/LucidaTypewriterBoldOblique.ttf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/oblique-fonts/LucidaTypewriterBoldOblique.ttf"
+    },
+    {
+      "sha1": "5aee54ffba9e33de56fd84ef64fa496b898585bb",
+      "size": 2115,
+      "path": "jre-8u281-linux-x64/lib/oblique-fonts/fonts.dir",
+      "relativeUrl": "jre-8u281-linux-x64/lib/oblique-fonts/fonts.dir"
+    },
+    {
+      "sha1": "95a195ad4fc520b3e395c85b747fc3024d118dd9",
+      "size": 253724,
+      "path": "jre-8u281-linux-x64/lib/oblique-fonts/LucidaSansOblique.ttf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/oblique-fonts/LucidaSansOblique.ttf"
+    },
+    {
+      "sha1": "f8ea00db73f8a89a27674d050edc37c2280930e1",
+      "size": 137484,
+      "path": "jre-8u281-linux-x64/lib/oblique-fonts/LucidaTypewriterOblique.ttf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/oblique-fonts/LucidaTypewriterOblique.ttf"
+    },
+    {
+      "sha1": "bf204f09242203e713c31785158a0792f9edb600",
+      "size": 2034,
+      "path": "jre-8u281-linux-x64/lib/meta-index",
+      "relativeUrl": "jre-8u281-linux-x64/lib/meta-index"
+    },
+    {
+      "sha1": "183cb72e7bf7118d870e549e9ca1fc096a2e3107",
+      "size": 4102,
+      "path": "jre-8u281-linux-x64/lib/currency.data",
+      "relativeUrl": "jre-8u281-linux-x64/lib/currency.data"
+    },
+    {
+      "sha1": "38009ad83ad427e13aee9491b4cda805b94251a7",
+      "size": 3135658,
+      "path": "jre-8u281-linux-x64/lib/charsets.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/charsets.jar"
+    },
+    {
+      "sha1": "56ed1c661eeede17b4fae8c9de7b5edbad387abc",
+      "size": 2796,
+      "path": "jre-8u281-linux-x64/lib/psfont.properties.ja",
+      "relativeUrl": "jre-8u281-linux-x64/lib/psfont.properties.ja"
+    },
+    {
+      "sha1": "d54fcfa7ff189f38aefcec77e65e7ab3e3b3a6be",
+      "size": 8286,
+      "path": "jre-8u281-linux-x64/lib/ext/dnsns.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/ext/dnsns.jar"
+    },
+    {
+      "sha1": "eb733aa15f70957bd41948acf043ed90a1e4f4f1",
+      "size": 283206,
+      "path": "jre-8u281-linux-x64/lib/ext/sunpkcs11.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/ext/sunpkcs11.jar"
+    },
+    {
+      "sha1": "334649c6e2d5d7248211f30855e97cfcb4558851",
+      "size": 1269,
+      "path": "jre-8u281-linux-x64/lib/ext/meta-index",
+      "relativeUrl": "jre-8u281-linux-x64/lib/ext/meta-index"
+    },
+    {
+      "sha1": "94149820a6a8258b903e57bf8d37a65a842b5a48",
+      "size": 285868,
+      "path": "jre-8u281-linux-x64/lib/ext/sunjce_provider.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/ext/sunjce_provider.jar"
+    },
+    {
+      "sha1": "ed3c94466d16efc351e5d6aef96ac99244c8471f",
+      "size": 3860563,
+      "path": "jre-8u281-linux-x64/lib/ext/cldrdata.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/ext/cldrdata.jar"
+    },
+    {
+      "sha1": "ee59a579023f892774f8078f2a7395df2075411e",
+      "size": 1179273,
+      "path": "jre-8u281-linux-x64/lib/ext/localedata.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/ext/localedata.jar"
+    },
+    {
+      "sha1": "2dfc8984e13a84aa39b1766072219f6df1a58228",
+      "size": 43191,
+      "path": "jre-8u281-linux-x64/lib/ext/sunec.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/ext/sunec.jar"
+    },
+    {
+      "sha1": "cae967f8d562ef049f1dc07ad6bc8bdefb89534e",
+      "size": 44516,
+      "path": "jre-8u281-linux-x64/lib/ext/jaccess.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/ext/jaccess.jar"
+    },
+    {
+      "sha1": "8ee7796f6f30f8ceb47d006da63bd9bb23f1108f",
+      "size": 18511189,
+      "path": "jre-8u281-linux-x64/lib/ext/jfxrt.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/ext/jfxrt.jar"
+    },
+    {
+      "sha1": "10470e5cc9aa0d6c60289f571671ffd32b9d8cd3",
+      "size": 69394,
+      "path": "jre-8u281-linux-x64/lib/ext/zipfs.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/ext/zipfs.jar"
+    },
+    {
+      "sha1": "8d1de5279cf5fda1261e6127aea69334f4251785",
+      "size": 2034152,
+      "path": "jre-8u281-linux-x64/lib/ext/nashorn.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/ext/nashorn.jar"
+    },
+    {
+      "sha1": "9a19ba0215506c8dae33279f6521a02395c62084",
+      "size": 573191,
+      "path": "jre-8u281-linux-x64/lib/jfr.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/jfr.jar"
+    },
+    {
+      "sha1": "2dda28b9bddc9b5b018e3e8a8b062a99d9b2f887",
+      "size": 3777,
+      "path": "jre-8u281-linux-x64/lib/images/icons/sun-java_HighContrastInverse.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/images/icons/sun-java_HighContrastInverse.png"
+    },
+    {
+      "sha1": "d101b693aa054f51097eebdfeed8b8a6ca7b55b8",
+      "size": 4707,
+      "path": "jre-8u281-linux-x64/lib/images/icons/sun-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/images/icons/sun-java.png"
+    },
+    {
+      "sha1": "7714cc4e894c3626c8da6fe742ed22b2829122d9",
+      "size": 4012,
+      "path": "jre-8u281-linux-x64/lib/images/icons/sun-java_LowContrast.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/images/icons/sun-java_LowContrast.png"
+    },
+    {
+      "sha1": "a6b1e418d6b5d03719b96f61f0c5236a60970151",
+      "size": 3729,
+      "path": "jre-8u281-linux-x64/lib/images/icons/sun-java_HighContrast.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/images/icons/sun-java_HighContrast.png"
+    },
+    {
+      "sha1": "259edc45b4569427e8319895a444f4295d54348f",
+      "size": 153,
+      "path": "jre-8u281-linux-x64/lib/images/cursors/motif_CopyNoDrop32x32.gif",
+      "relativeUrl": "jre-8u281-linux-x64/lib/images/cursors/motif_CopyNoDrop32x32.gif"
+    },
+    {
+      "sha1": "259edc45b4569427e8319895a444f4295d54348f",
+      "size": 153,
+      "path": "jre-8u281-linux-x64/lib/images/cursors/invalid32x32.gif",
+      "relativeUrl": "jre-8u281-linux-x64/lib/images/cursors/invalid32x32.gif"
+    },
+    {
+      "sha1": "f2b9a22ddd0a77869497a64f28f07e89a7d41f48",
+      "size": 1274,
+      "path": "jre-8u281-linux-x64/lib/images/cursors/cursors.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/images/cursors/cursors.properties"
+    },
+    {
+      "sha1": "eb7620fae702172aa663a19d170a0b929d3b11d1",
+      "size": 158,
+      "path": "jre-8u281-linux-x64/lib/images/cursors/motif_CopyDrop32x32.gif",
+      "relativeUrl": "jre-8u281-linux-x64/lib/images/cursors/motif_CopyDrop32x32.gif"
+    },
+    {
+      "sha1": "259edc45b4569427e8319895a444f4295d54348f",
+      "size": 153,
+      "path": "jre-8u281-linux-x64/lib/images/cursors/motif_LinkNoDrop32x32.gif",
+      "relativeUrl": "jre-8u281-linux-x64/lib/images/cursors/motif_LinkNoDrop32x32.gif"
+    },
+    {
+      "sha1": "03c1617ce3c5ab8af03e46d30a8c8f31ab57fb1b",
+      "size": 141,
+      "path": "jre-8u281-linux-x64/lib/images/cursors/motif_MoveDrop32x32.gif",
+      "relativeUrl": "jre-8u281-linux-x64/lib/images/cursors/motif_MoveDrop32x32.gif"
+    },
+    {
+      "sha1": "9699137f990c240e714481563181069c8f6c17bb",
+      "size": 162,
+      "path": "jre-8u281-linux-x64/lib/images/cursors/motif_LinkDrop32x32.gif",
+      "relativeUrl": "jre-8u281-linux-x64/lib/images/cursors/motif_LinkDrop32x32.gif"
+    },
+    {
+      "sha1": "259edc45b4569427e8319895a444f4295d54348f",
+      "size": 153,
+      "path": "jre-8u281-linux-x64/lib/images/cursors/motif_MoveNoDrop32x32.gif",
+      "relativeUrl": "jre-8u281-linux-x64/lib/images/cursors/motif_MoveNoDrop32x32.gif"
+    },
+    {
+      "sha1": "357599147da13284f329264b671ca4e087a1ced8",
+      "size": 950939,
+      "path": "jre-8u281-linux-x64/lib/plugin.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/plugin.jar"
+    },
+    {
+      "sha1": "e60d9aaa39c5f0ef4a54da5107b0c75ab491df0e",
+      "size": 20848,
+      "path": "jre-8u281-linux-x64/lib/jfr/default.jfc",
+      "relativeUrl": "jre-8u281-linux-x64/lib/jfr/default.jfc"
+    },
+    {
+      "sha1": "5ae707011fb0adaf564d2c71d8e6443aaddd6809",
+      "size": 20804,
+      "path": "jre-8u281-linux-x64/lib/jfr/profile.jfc",
+      "relativeUrl": "jre-8u281-linux-x64/lib/jfr/profile.jfc"
+    },
+    {
+      "sha1": "35d22f93250afe552fc5cceaf8f40d30c196f5e4",
+      "size": 3559360,
+      "path": "jre-8u281-linux-x64/lib/resources.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/resources.jar"
+    },
+    {
+      "sha1": "aa327a22a49967f4d74afeee6726f505f209692f",
+      "size": 10393,
+      "path": "jre-8u281-linux-x64/lib/psfontj2d.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/psfontj2d.properties"
+    },
+    {
+      "sha1": "63fcc1e2822007f1d8721863a3dadabe7d0bfd55",
+      "size": 56,
+      "path": "jre-8u281-linux-x64/lib/javafx.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/javafx.properties"
+    },
+    {
+      "sha1": "b21698017c4a2866b5fabe59681b7592e72c83b1",
+      "size": 5916,
+      "path": "jre-8u281-linux-x64/lib/content-types.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/content-types.properties"
+    },
+    {
+      "sha1": "a38dbdbbc514567b8281e1aea726865f37e97894",
+      "size": 16772,
+      "path": "jre-8u281-linux-x64/lib/fontconfig.SuSE.10.properties.src",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fontconfig.SuSE.10.properties.src"
+    },
+    {
+      "sha1": "ffd0dfbd1553e15b11649a73a0b3f48318138e0d",
+      "size": 6702,
+      "path": "jre-8u281-linux-x64/lib/fontconfig.SuSE.10.bfc",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fontconfig.SuSE.10.bfc"
+    },
+    {
+      "sha1": "fbd61d52534cdd0c15df332114d469c65d001e33",
+      "size": 4226,
+      "path": "jre-8u281-linux-x64/lib/jvm.hprof.txt",
+      "relativeUrl": "jre-8u281-linux-x64/lib/jvm.hprof.txt"
+    },
+    {
+      "sha1": "e0451d8d7d9e84d7b1c39ec7d00993307a5cbbf1",
+      "size": 14630,
+      "path": "jre-8u281-linux-x64/lib/management/management.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/management/management.properties"
+    },
+    {
+      "sha1": "2e9f9ac287274532eb1f0d1afcefd7f3e97cc794",
+      "size": 3376,
+      "path": "jre-8u281-linux-x64/lib/management/snmp.acl.template",
+      "relativeUrl": "jre-8u281-linux-x64/lib/management/snmp.acl.template"
+    },
+    {
+      "sha1": "21200eaad898ba4a2a8834a032efb6616fabb930",
+      "size": 3998,
+      "path": "jre-8u281-linux-x64/lib/management/jmxremote.access",
+      "relativeUrl": "jre-8u281-linux-x64/lib/management/jmxremote.access"
+    },
+    {
+      "sha1": "c1e0f01408bf20fbbb8b4810520c725f70050db5",
+      "size": 2856,
+      "path": "jre-8u281-linux-x64/lib/management/jmxremote.password.template",
+      "relativeUrl": "jre-8u281-linux-x64/lib/management/jmxremote.password.template"
+    },
+    {
+      "sha1": "2bb7258bed7ccd4f117e4e5f892c9b13424b0c82",
+      "size": 9192,
+      "path": "jre-8u281-linux-x64/lib/fontconfig.Turbo.properties.src",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fontconfig.Turbo.properties.src"
+    },
+    {
+      "sha1": "3617ff1424fd204415242565541facf862b16eb4",
+      "size": 1938,
+      "path": "jre-8u281-linux-x64/lib/fontconfig.properties.src",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fontconfig.properties.src"
+    },
+    {
+      "sha1": "d346dfe90505603ce5aff5a3c6c2e4a23d5bd990",
+      "size": 777,
+      "path": "jre-8u281-linux-x64/lib/desktop/applications/sun-java.desktop",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/applications/sun-java.desktop"
+    },
+    {
+      "sha1": "79120ee8160ad6f3c9b90c2641fb7edf3af96b5d",
+      "size": 624,
+      "path": "jre-8u281-linux-x64/lib/desktop/applications/sun_java.desktop",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/applications/sun_java.desktop"
+    },
+    {
+      "sha1": "50ce8e519b836e0f53d58ce1a359d98b6cafdda6",
+      "size": 619,
+      "path": "jre-8u281-linux-x64/lib/desktop/applications/sun-javaws.desktop",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/applications/sun-javaws.desktop"
+    },
+    {
+      "sha1": "d2f6abe8e498aeecb334fb43f63001d34dbf6ea5",
+      "size": 783,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png"
+    },
+    {
+      "sha1": "d2f6abe8e498aeecb334fb43f63001d34dbf6ea5",
+      "size": 783,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-application-x-java-archive.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-application-x-java-archive.png"
+    },
+    {
+      "sha1": "d2f6abe8e498aeecb334fb43f63001d34dbf6ea5",
+      "size": 783,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-text-x-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-text-x-java.png"
+    },
+    {
+      "sha1": "e91d05bfe9b889bf8a227908b597cab4630da8f2",
+      "size": 383,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/16x16/apps/sun-jcontrol.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/16x16/apps/sun-jcontrol.png"
+    },
+    {
+      "sha1": "e91d05bfe9b889bf8a227908b597cab4630da8f2",
+      "size": 383,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/16x16/apps/sun-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/16x16/apps/sun-java.png"
+    },
+    {
+      "sha1": "e91d05bfe9b889bf8a227908b597cab4630da8f2",
+      "size": 383,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/16x16/apps/sun-javaws.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/16x16/apps/sun-javaws.png"
+    },
+    {
+      "sha1": "4d5e6e0c41d1076bc86f3ab157c88a41a5716997",
+      "size": 3202,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png"
+    },
+    {
+      "sha1": "4d5e6e0c41d1076bc86f3ab157c88a41a5716997",
+      "size": 3202,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-application-x-java-archive.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-application-x-java-archive.png"
+    },
+    {
+      "sha1": "4d5e6e0c41d1076bc86f3ab157c88a41a5716997",
+      "size": 3202,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-text-x-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-text-x-java.png"
+    },
+    {
+      "sha1": "6c90a38eaada9c32a678a282be18ec5b43a84264",
+      "size": 1439,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/48x48/apps/sun-jcontrol.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/48x48/apps/sun-jcontrol.png"
+    },
+    {
+      "sha1": "6c90a38eaada9c32a678a282be18ec5b43a84264",
+      "size": 1439,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/48x48/apps/sun-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/48x48/apps/sun-java.png"
+    },
+    {
+      "sha1": "6c90a38eaada9c32a678a282be18ec5b43a84264",
+      "size": 1439,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/48x48/apps/sun-javaws.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/hicolor/48x48/apps/sun-javaws.png"
+    },
+    {
+      "sha1": "629c48907368ecf32d2395b6459c367f79d84689",
+      "size": 464,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png"
+    },
+    {
+      "sha1": "629c48907368ecf32d2395b6459c367f79d84689",
+      "size": 464,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-application-x-java-archive.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-application-x-java-archive.png"
+    },
+    {
+      "sha1": "629c48907368ecf32d2395b6459c367f79d84689",
+      "size": 464,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-text-x-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-text-x-java.png"
+    },
+    {
+      "sha1": "366e7a48e9e4fb92eaeabbcaeb4626122a66cecb",
+      "size": 417,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/16x16/apps/sun-jcontrol.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/16x16/apps/sun-jcontrol.png"
+    },
+    {
+      "sha1": "366e7a48e9e4fb92eaeabbcaeb4626122a66cecb",
+      "size": 417,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/16x16/apps/sun-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/16x16/apps/sun-java.png"
+    },
+    {
+      "sha1": "366e7a48e9e4fb92eaeabbcaeb4626122a66cecb",
+      "size": 417,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/16x16/apps/sun-javaws.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/16x16/apps/sun-javaws.png"
+    },
+    {
+      "sha1": "56a4996519f8f3541eba7b7a7a69bcdcd8ed0410",
+      "size": 2088,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png"
+    },
+    {
+      "sha1": "56a4996519f8f3541eba7b7a7a69bcdcd8ed0410",
+      "size": 2088,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-application-x-java-archive.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-application-x-java-archive.png"
+    },
+    {
+      "sha1": "56a4996519f8f3541eba7b7a7a69bcdcd8ed0410",
+      "size": 2088,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-text-x-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-text-x-java.png"
+    },
+    {
+      "sha1": "8373482d072684e09830dbdb97a76ea264c9f4e9",
+      "size": 3451,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/48x48/apps/sun-jcontrol.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/48x48/apps/sun-jcontrol.png"
+    },
+    {
+      "sha1": "8373482d072684e09830dbdb97a76ea264c9f4e9",
+      "size": 3451,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/48x48/apps/sun-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/48x48/apps/sun-java.png"
+    },
+    {
+      "sha1": "8373482d072684e09830dbdb97a76ea264c9f4e9",
+      "size": 3451,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/48x48/apps/sun-javaws.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrast/48x48/apps/sun-javaws.png"
+    },
+    {
+      "sha1": "0aa1605877280b88de1f1cc3e7e4bdbeed968a73",
+      "size": 525,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png"
+    },
+    {
+      "sha1": "0aa1605877280b88de1f1cc3e7e4bdbeed968a73",
+      "size": 525,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-application-x-java-archive.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-application-x-java-archive.png"
+    },
+    {
+      "sha1": "0aa1605877280b88de1f1cc3e7e4bdbeed968a73",
+      "size": 525,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-text-x-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-text-x-java.png"
+    },
+    {
+      "sha1": "f93b7cf0a6d27d664a7f09dab6933b2768536f52",
+      "size": 519,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/16x16/apps/sun-jcontrol.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/16x16/apps/sun-jcontrol.png"
+    },
+    {
+      "sha1": "f93b7cf0a6d27d664a7f09dab6933b2768536f52",
+      "size": 519,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/16x16/apps/sun-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/16x16/apps/sun-java.png"
+    },
+    {
+      "sha1": "f93b7cf0a6d27d664a7f09dab6933b2768536f52",
+      "size": 519,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/16x16/apps/sun-javaws.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/16x16/apps/sun-javaws.png"
+    },
+    {
+      "sha1": "e36636b1c04dc283c18adf669b892d54b15d3ee6",
+      "size": 1948,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png"
+    },
+    {
+      "sha1": "e36636b1c04dc283c18adf669b892d54b15d3ee6",
+      "size": 1948,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-application-x-java-archive.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-application-x-java-archive.png"
+    },
+    {
+      "sha1": "e36636b1c04dc283c18adf669b892d54b15d3ee6",
+      "size": 1948,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-text-x-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-text-x-java.png"
+    },
+    {
+      "sha1": "1fcf4fd6da61873b5f21b39412da26509734b7cc",
+      "size": 1507,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/48x48/apps/sun-jcontrol.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/48x48/apps/sun-jcontrol.png"
+    },
+    {
+      "sha1": "1fcf4fd6da61873b5f21b39412da26509734b7cc",
+      "size": 1507,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/48x48/apps/sun-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/48x48/apps/sun-java.png"
+    },
+    {
+      "sha1": "1fcf4fd6da61873b5f21b39412da26509734b7cc",
+      "size": 1507,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/48x48/apps/sun-javaws.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/LowContrast/48x48/apps/sun-javaws.png"
+    },
+    {
+      "sha1": "1477eceda25e162fcda2e69ee3906091973d8344",
+      "size": 473,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png"
+    },
+    {
+      "sha1": "1477eceda25e162fcda2e69ee3906091973d8344",
+      "size": 473,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-application-x-java-archive.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-application-x-java-archive.png"
+    },
+    {
+      "sha1": "1477eceda25e162fcda2e69ee3906091973d8344",
+      "size": 473,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-text-x-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-text-x-java.png"
+    },
+    {
+      "sha1": "bf0995acb94aa794e73c5b971282ff13ffe42793",
+      "size": 402,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/16x16/apps/sun-jcontrol.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/16x16/apps/sun-jcontrol.png"
+    },
+    {
+      "sha1": "bf0995acb94aa794e73c5b971282ff13ffe42793",
+      "size": 402,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/16x16/apps/sun-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/16x16/apps/sun-java.png"
+    },
+    {
+      "sha1": "bf0995acb94aa794e73c5b971282ff13ffe42793",
+      "size": 402,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/16x16/apps/sun-javaws.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/16x16/apps/sun-javaws.png"
+    },
+    {
+      "sha1": "d66e04dfa25c196bec2e201547325b79846ab674",
+      "size": 2085,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png"
+    },
+    {
+      "sha1": "d66e04dfa25c196bec2e201547325b79846ab674",
+      "size": 2085,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-application-x-java-archive.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-application-x-java-archive.png"
+    },
+    {
+      "sha1": "d66e04dfa25c196bec2e201547325b79846ab674",
+      "size": 2085,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-text-x-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-text-x-java.png"
+    },
+    {
+      "sha1": "413da160dd9899b95f53d4cc11f5ee0550cc6585",
+      "size": 3410,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/48x48/apps/sun-jcontrol.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/48x48/apps/sun-jcontrol.png"
+    },
+    {
+      "sha1": "413da160dd9899b95f53d4cc11f5ee0550cc6585",
+      "size": 3410,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/48x48/apps/sun-java.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/48x48/apps/sun-java.png"
+    },
+    {
+      "sha1": "413da160dd9899b95f53d4cc11f5ee0550cc6585",
+      "size": 3410,
+      "path": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/48x48/apps/sun-javaws.png",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/icons/HighContrastInverse/48x48/apps/sun-javaws.png"
+    },
+    {
+      "sha1": "72f03da83ddb76c9105f619fcfa4dbdad70e6b30",
+      "size": 412,
+      "path": "jre-8u281-linux-x64/lib/desktop/mime/packages/x-java-jnlp-file.xml",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/mime/packages/x-java-jnlp-file.xml"
+    },
+    {
+      "sha1": "b6297fd36efa799312961f95ebf0c85c920d5037",
+      "size": 1822,
+      "path": "jre-8u281-linux-x64/lib/desktop/mime/packages/x-java-archive.xml",
+      "relativeUrl": "jre-8u281-linux-x64/lib/desktop/mime/packages/x-java-archive.xml"
+    },
+    {
+      "sha1": "9c0404b63c87e2fed35e3a6cd137d6cf876c42bd",
+      "size": 84311,
+      "path": "jre-8u281-linux-x64/lib/classlist",
+      "relativeUrl": "jre-8u281-linux-x64/lib/classlist"
+    },
+    {
+      "sha1": "c144dcafe4faf2e79cfd74d8134a631f30234db1",
+      "size": 242700,
+      "path": "jre-8u281-linux-x64/lib/fonts/LucidaTypewriterRegular.ttf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fonts/LucidaTypewriterRegular.ttf"
+    },
+    {
+      "sha1": "b5c97f985639e19a3b712193ee48b55dda581fd1",
+      "size": 75144,
+      "path": "jre-8u281-linux-x64/lib/fonts/LucidaBrightDemiBold.ttf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fonts/LucidaBrightDemiBold.ttf"
+    },
+    {
+      "sha1": "aa5c037865c563726ecd63d61ca26443589be425",
+      "size": 80856,
+      "path": "jre-8u281-linux-x64/lib/fonts/LucidaBrightItalic.ttf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fonts/LucidaBrightItalic.ttf"
+    },
+    {
+      "sha1": "a5da2eb49448f461470387c939f0e69119310e0b",
+      "size": 234068,
+      "path": "jre-8u281-linux-x64/lib/fonts/LucidaTypewriterBold.ttf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fonts/LucidaTypewriterBold.ttf"
+    },
+    {
+      "sha1": "97f40cca185c954adf5cc582345a7cb8e4c50578",
+      "size": 4041,
+      "path": "jre-8u281-linux-x64/lib/fonts/fonts.dir",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fonts/fonts.dir"
+    },
+    {
+      "sha1": "5d7ed564791c900a8786936930ba99385653139c",
+      "size": 344908,
+      "path": "jre-8u281-linux-x64/lib/fonts/LucidaBrightRegular.ttf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fonts/LucidaBrightRegular.ttf"
+    },
+    {
+      "sha1": "39cc8bcb8d4a71d4657fc92ef0b9f4e3e9e67add",
+      "size": 698236,
+      "path": "jre-8u281-linux-x64/lib/fonts/LucidaSansRegular.ttf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fonts/LucidaSansRegular.ttf"
+    },
+    {
+      "sha1": "1fd1f757febf3e5f5fbb7fbf7a56587a40d57de7",
+      "size": 75124,
+      "path": "jre-8u281-linux-x64/lib/fonts/LucidaBrightDemiItalic.ttf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fonts/LucidaBrightDemiItalic.ttf"
+    },
+    {
+      "sha1": "92b79fefc35e96190250c602a8fed85276b32a95",
+      "size": 317896,
+      "path": "jre-8u281-linux-x64/lib/fonts/LucidaSansDemiBold.ttf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fonts/LucidaSansDemiBold.ttf"
+    },
+    {
+      "sha1": "4ea9bb0dcec926f6a2237d381d6af3f40d1a7bcd",
+      "size": 381,
+      "path": "jre-8u281-linux-x64/lib/management-agent.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/management-agent.jar"
+    },
+    {
+      "sha1": "12c253196450b34fb205ec51adb09cf83bbddacc",
+      "size": 67063338,
+      "path": "jre-8u281-linux-x64/lib/rt.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/rt.jar"
+    },
+    {
+      "sha1": "9ba3b3e2c621c31d0ef1b2053c80f77419a19965",
+      "size": 4250,
+      "path": "jre-8u281-linux-x64/lib/fontconfig.RedHat.6.bfc",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fontconfig.RedHat.6.bfc"
+    },
+    {
+      "sha1": "768e58d4d314621c38daf9fde6d67119f370acd9",
+      "size": 8735,
+      "path": "jre-8u281-linux-x64/lib/fontconfig.RedHat.6.properties.src",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fontconfig.RedHat.6.properties.src"
+    },
+    {
+      "sha1": "c4b69589e41a7279a71866a9134213be19cdf88d",
+      "size": 16781,
+      "path": "jre-8u281-linux-x64/lib/fontconfig.SuSE.11.properties.src",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fontconfig.SuSE.11.properties.src"
+    },
+    {
+      "sha1": "a4d8500fcb47f6327460a95851b1368660da8302",
+      "size": 7032,
+      "path": "jre-8u281-linux-x64/lib/fontconfig.SuSE.11.bfc",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fontconfig.SuSE.11.bfc"
+    },
+    {
+      "sha1": "9151a3cfcddae96d13b31129283e108a1533485f",
+      "size": 33915,
+      "path": "jre-8u281-linux-x64/lib/jfxswt.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/jfxswt.jar"
+    },
+    {
+      "sha1": "27f93961d66b8230d0cdb8b166bc8b4153d5bc2d",
+      "size": 632,
+      "path": "jre-8u281-linux-x64/lib/cmm/GRAY.pf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/cmm/GRAY.pf"
+    },
+    {
+      "sha1": "4f7eed05b8f0eea7bcdc8f8f7aaeb1925ce7b144",
+      "size": 274474,
+      "path": "jre-8u281-linux-x64/lib/cmm/PYCC.pf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/cmm/PYCC.pf"
+    },
+    {
+      "sha1": "9eaea0911d89d63e39e95f2e2116eaec7e0bb91e",
+      "size": 3144,
+      "path": "jre-8u281-linux-x64/lib/cmm/sRGB.pf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/cmm/sRGB.pf"
+    },
+    {
+      "sha1": "7913274c2f73bafcf888f09ff60990b100214ede",
+      "size": 1044,
+      "path": "jre-8u281-linux-x64/lib/cmm/LINEAR_RGB.pf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/cmm/LINEAR_RGB.pf"
+    },
+    {
+      "sha1": "b7779924c70554647b87c2a86159ca7781e929f8",
+      "size": 51236,
+      "path": "jre-8u281-linux-x64/lib/cmm/CIEXYZ.pf",
+      "relativeUrl": "jre-8u281-linux-x64/lib/cmm/CIEXYZ.pf"
+    },
+    {
+      "sha1": "5a3512369271c5962a46dbefe559f8bb9970868f",
+      "size": 108679,
+      "path": "jre-8u281-linux-x64/lib/security/cacerts",
+      "relativeUrl": "jre-8u281-linux-x64/lib/security/cacerts"
+    },
+    {
+      "sha1": "308de36d375bb2b7c2fd53e51a9184fe0a912afc",
+      "size": 49481,
+      "path": "jre-8u281-linux-x64/lib/security/java.security",
+      "relativeUrl": "jre-8u281-linux-x64/lib/security/java.security"
+    },
+    {
+      "sha1": "7d0a29932b496edbdd1fc55572014bc89703ad07",
+      "size": 3984,
+      "path": "jre-8u281-linux-x64/lib/security/policy/limited/local_policy.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/security/policy/limited/local_policy.jar"
+    },
+    {
+      "sha1": "58875d7463460d7998c4013912fb89965e823044",
+      "size": 3482,
+      "path": "jre-8u281-linux-x64/lib/security/policy/limited/US_export_policy.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/security/policy/limited/US_export_policy.jar"
+    },
+    {
+      "sha1": "aee6515eede2ad7c697ba8a61bdd9359be3319d2",
+      "size": 3490,
+      "path": "jre-8u281-linux-x64/lib/security/policy/unlimited/local_policy.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/security/policy/unlimited/local_policy.jar"
+    },
+    {
+      "sha1": "0135b30ebec03fb69d79cdc3126e608d9effb8b2",
+      "size": 3482,
+      "path": "jre-8u281-linux-x64/lib/security/policy/unlimited/US_export_policy.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/security/policy/unlimited/US_export_policy.jar"
+    },
+    {
+      "sha1": "c0112209a567b3b523cfed7041709f9440227968",
+      "size": 2466,
+      "path": "jre-8u281-linux-x64/lib/security/java.policy",
+      "relativeUrl": "jre-8u281-linux-x64/lib/security/java.policy"
+    },
+    {
+      "sha1": "d4ffb3857eab403955ce9d156e46d056061e6a5a",
+      "size": 4054,
+      "path": "jre-8u281-linux-x64/lib/security/blacklist",
+      "relativeUrl": "jre-8u281-linux-x64/lib/security/blacklist"
+    },
+    {
+      "sha1": "ee0288462fc32992a0f9dfab5aeb3385412f0c4f",
+      "size": 2488,
+      "path": "jre-8u281-linux-x64/lib/security/blacklisted.certs",
+      "relativeUrl": "jre-8u281-linux-x64/lib/security/blacklisted.certs"
+    },
+    {
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0,
+      "path": "jre-8u281-linux-x64/lib/security/trusted.libraries",
+      "relativeUrl": "jre-8u281-linux-x64/lib/security/trusted.libraries"
+    },
+    {
+      "sha1": "4384ca5e4d32f7dd86d8baddd1e690730d74e694",
+      "size": 98,
+      "path": "jre-8u281-linux-x64/lib/security/javaws.policy",
+      "relativeUrl": "jre-8u281-linux-x64/lib/security/javaws.policy"
+    },
+    {
+      "sha1": "fd9471742eb759f4478bb1de9a0dc0527265b6ea",
+      "size": 5352,
+      "path": "jre-8u281-linux-x64/lib/net.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/net.properties"
+    },
+    {
+      "sha1": "d4b086f0601fa73f73a8281f65bb6e6b35d6b87d",
+      "size": 13656,
+      "path": "jre-8u281-linux-x64/lib/jexec",
+      "relativeUrl": "jre-8u281-linux-x64/lib/jexec"
+    },
+    {
+      "sha1": "f24368deeb85cc9d0781083bc56e773518d72219",
+      "size": 4668,
+      "path": "jre-8u281-linux-x64/lib/fontconfig.Turbo.bfc",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fontconfig.Turbo.bfc"
+    },
+    {
+      "sha1": "de39b0e19637f58d92a0188122514aa7247ebb5b",
+      "size": 1678,
+      "path": "jre-8u281-linux-x64/lib/fontconfig.bfc",
+      "relativeUrl": "jre-8u281-linux-x64/lib/fontconfig.bfc"
+    },
+    {
+      "sha1": "cf4be57ad520baa55d9e526c411c4a6e41a029cd",
+      "size": 118047,
+      "path": "jre-8u281-linux-x64/lib/jce.jar",
+      "relativeUrl": "jre-8u281-linux-x64/lib/jce.jar"
+    },
+    {
+      "sha1": "531a6316953fc152809601806fec55e1be806700",
+      "size": 1482,
+      "path": "jre-8u281-linux-x64/lib/calendars.properties",
+      "relativeUrl": "jre-8u281-linux-x64/lib/calendars.properties"
+    },
+    {
+      "sha1": "be2174703b4c54d1919b76f9e9e98556c1f6cb5c",
+      "size": 1177,
+      "path": "jre-8u281-linux-x64/legal/javafx/libffi.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/javafx/libffi.md"
+    },
+    {
+      "sha1": "2484425df3be1049de4016ed88e5518aa9751b35",
+      "size": 1165,
+      "path": "jre-8u281-linux-x64/legal/javafx/directshow.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/javafx/directshow.md"
+    },
+    {
+      "sha1": "252c1e15d4233210901e4e286af89643dbf31d09",
+      "size": 27646,
+      "path": "jre-8u281-linux-x64/legal/javafx/gstreamer.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/javafx/gstreamer.md"
+    },
+    {
+      "sha1": "6c4ee4d392efdad007ff360d28ee9964c7aae379",
+      "size": 21086,
+      "path": "jre-8u281-linux-x64/legal/javafx/icu_web.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/javafx/icu_web.md"
+    },
+    {
+      "sha1": "81912ee0166ac5df7d52c10a75b33cf5f5472297",
+      "size": 3031,
+      "path": "jre-8u281-linux-x64/legal/javafx/libxslt.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/javafx/libxslt.md"
+    },
+    {
+      "sha1": "3438ab2bd0029853ae64d59eac1b7a0e07b8dad6",
+      "size": 27570,
+      "path": "jre-8u281-linux-x64/legal/javafx/webkit.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/javafx/webkit.md"
+    },
+    {
+      "sha1": "9f1a38cfbfd6561b0129a80e5ea939ddee62c5a6",
+      "size": 27618,
+      "path": "jre-8u281-linux-x64/legal/javafx/glib.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/javafx/glib.md"
+    },
+    {
+      "sha1": "65de4035dbd83b087d420936b8e9ad806f49b217",
+      "size": 1346,
+      "path": "jre-8u281-linux-x64/legal/javafx/libxml2.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/javafx/libxml2.md"
+    },
+    {
+      "sha1": "f95b93cf73eb9ca8a0ce94b8114bb81932dce8f3",
+      "size": 2158,
+      "path": "jre-8u281-linux-x64/legal/javafx/jpeg_fx.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/javafx/jpeg_fx.md"
+    },
+    {
+      "sha1": "61efa1786c6871f9c2f53678dcfc144752ad01ce",
+      "size": 5732,
+      "path": "jre-8u281-linux-x64/legal/javafx/mesa3d.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/javafx/mesa3d.md"
+    },
+    {
+      "sha1": "b1783ddcb9e112987deb97e14d30be27df7061d0",
+      "size": 2126,
+      "path": "jre-8u281-linux-x64/legal/jdk/pkcs11wrapper.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/pkcs11wrapper.md"
+    },
+    {
+      "sha1": "a68353b6ae21632813bb8cfacc5741703b16fc7e",
+      "size": 1115,
+      "path": "jre-8u281-linux-x64/legal/jdk/jopt-simple.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/jopt-simple.md"
+    },
+    {
+      "sha1": "b40cdb05866dac35107b6b1b1a4f74ef6a5e5da6",
+      "size": 11493,
+      "path": "jre-8u281-linux-x64/legal/jdk/bcel.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/bcel.md"
+    },
+    {
+      "sha1": "b290a0b013bd477efa51c2f32b6380ad18c1a722",
+      "size": 1006,
+      "path": "jre-8u281-linux-x64/legal/jdk/zlib.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/zlib.md"
+    },
+    {
+      "sha1": "cccc59ce234d3911dfd1ca4fac9dac17ec2ed55b",
+      "size": 11686,
+      "path": "jre-8u281-linux-x64/legal/jdk/xmlresolver.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/xmlresolver.md"
+    },
+    {
+      "sha1": "31656532c09b14db067b27f61ac2204ae85101b2",
+      "size": 1153,
+      "path": "jre-8u281-linux-x64/legal/jdk/jcup.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/jcup.md"
+    },
+    {
+      "sha1": "9b16ad5c7eeac982ab077569bd73a15625e66693",
+      "size": 1104,
+      "path": "jre-8u281-linux-x64/legal/jdk/joni.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/joni.md"
+    },
+    {
+      "sha1": "1003665d1b3b1c0aeeec8297f6810988f242f1d1",
+      "size": 3182,
+      "path": "jre-8u281-linux-x64/legal/jdk/cldr.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/cldr.md"
+    },
+    {
+      "sha1": "303a33d78c0b836681e2dd01313084dae2208f5c",
+      "size": 1580,
+      "path": "jre-8u281-linux-x64/legal/jdk/asm.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/asm.md"
+    },
+    {
+      "sha1": "80b2b391c1ff687d693218d72aca31c190b4fdad",
+      "size": 1341,
+      "path": "jre-8u281-linux-x64/legal/jdk/thaidict.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/thaidict.md"
+    },
+    {
+      "sha1": "2927514cb727874819dc25ae9bf781ca6ad11b9b",
+      "size": 5820,
+      "path": "jre-8u281-linux-x64/legal/jdk/libpng.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/libpng.md"
+    },
+    {
+      "sha1": "4337452d96ac8371f0a91837317ee95c02c0f764",
+      "size": 1173,
+      "path": "jre-8u281-linux-x64/legal/jdk/lcms.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/lcms.md"
+    },
+    {
+      "sha1": "b0cb2ab480cadb37fd0502e2ebd7fa52b1d36ecb",
+      "size": 11842,
+      "path": "jre-8u281-linux-x64/legal/jdk/xerces.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/xerces.md"
+    },
+    {
+      "sha1": "7890596300f139834f6a32d16210337261fb5498",
+      "size": 1293,
+      "path": "jre-8u281-linux-x64/legal/jdk/giflib.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/giflib.md"
+    },
+    {
+      "sha1": "cc76c0a7b630f1fa56dd457f54cfdab531031986",
+      "size": 1158,
+      "path": "jre-8u281-linux-x64/legal/jdk/relaxngom.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/relaxngom.md"
+    },
+    {
+      "sha1": "37bba4f3af6197ccd2fb73fbe74a211b52513492",
+      "size": 11960,
+      "path": "jre-8u281-linux-x64/legal/jdk/santuario.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/santuario.md"
+    },
+    {
+      "sha1": "31d49e4a563baf6bb41f436638ab1e4d657da95d",
+      "size": 4455,
+      "path": "jre-8u281-linux-x64/legal/jdk/xorgproto.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/xorgproto.md"
+    },
+    {
+      "sha1": "03698bddf01c463ed4add5707136a067f9446551",
+      "size": 2126,
+      "path": "jre-8u281-linux-x64/legal/jdk/relaxngcc.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/relaxngcc.md"
+    },
+    {
+      "sha1": "2b95e8949e7d1dca8dcfc4d822357863fe67341e",
+      "size": 1597,
+      "path": "jre-8u281-linux-x64/legal/jdk/relaxngdatatype.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/relaxngdatatype.md"
+    },
+    {
+      "sha1": "8f958ab754dcf1357bc9113fc39550059484f630",
+      "size": 1859,
+      "path": "jre-8u281-linux-x64/legal/jdk/pkcs11cryptotoken.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/pkcs11cryptotoken.md"
+    },
+    {
+      "sha1": "8eabfcd5c0de57f253a016618ebf3e02543c85dd",
+      "size": 2398,
+      "path": "jre-8u281-linux-x64/legal/jdk/unicode.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/unicode.md"
+    },
+    {
+      "sha1": "00bfa41589df1df7aef74ae8eb54122a5d203daa",
+      "size": 1644,
+      "path": "jre-8u281-linux-x64/legal/jdk/pcsclite.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/pcsclite.md"
+    },
+    {
+      "sha1": "d07f52befde05615a38cde5947f0b4f09d57b5a9",
+      "size": 12261,
+      "path": "jre-8u281-linux-x64/legal/jdk/xalan.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/xalan.md"
+    },
+    {
+      "sha1": "93f5b4d5b0beaaca3cb9832645ed8b2dafc0072a",
+      "size": 3023,
+      "path": "jre-8u281-linux-x64/legal/jdk/dom.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/dom.md"
+    },
+    {
+      "sha1": "2001e86fffa7f026168f7df0d3a2ded886200398",
+      "size": 1518,
+      "path": "jre-8u281-linux-x64/legal/jdk/libxrandr.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/libxrandr.md"
+    },
+    {
+      "sha1": "b68aaa10b324bd30cbcf1bf887fee91b0ad9a667",
+      "size": 1383,
+      "path": "jre-8u281-linux-x64/legal/jdk/xwd.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/xwd.md"
+    },
+    {
+      "sha1": "3a2280a0fc1b05a3ccdcd328e6c9d9d47abdbc66",
+      "size": 3992,
+      "path": "jre-8u281-linux-x64/legal/jdk/jpeg.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/jpeg.md"
+    },
+    {
+      "sha1": "be09fa29c875f3957947a3a93b2d5f4063fcbd82",
+      "size": 2930,
+      "path": "jre-8u281-linux-x64/legal/jdk/icu.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/icu.md"
+    },
+    {
+      "sha1": "293e0e53e2e49bcc7665eaf5f2e839b086caea76",
+      "size": 29228,
+      "path": "jre-8u281-linux-x64/legal/jdk/ecc.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/ecc.md"
+    },
+    {
+      "sha1": "0d5706cb3c0bd0a7c036cd03e4751d132a0e4074",
+      "size": 162,
+      "path": "jre-8u281-linux-x64/legal/jdk/colorimaging.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/colorimaging.md"
+    },
+    {
+      "sha1": "7f9c85ac9d5a2b534d427bb6ca3f7e1c28b86e99",
+      "size": 1415,
+      "path": "jre-8u281-linux-x64/legal/jdk/cryptix.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/cryptix.md"
+    },
+    {
+      "sha1": "0c9427f433e516e7cd2a2f292eb9d0a0a61010d3",
+      "size": 2957,
+      "path": "jre-8u281-linux-x64/legal/jdk/freebxml.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/freebxml.md"
+    },
+    {
+      "sha1": "dcc9c36e4ffb3ae40e8ac97c4be457cb2580aef3",
+      "size": 5732,
+      "path": "jre-8u281-linux-x64/legal/jdk/mesa3d.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/mesa3d.md"
+    },
+    {
+      "sha1": "7e5cb50c5a1daca603061e00d38193d1c50b72af",
+      "size": 1497,
+      "path": "jre-8u281-linux-x64/legal/jdk/dynalink.md",
+      "relativeUrl": "jre-8u281-linux-x64/legal/jdk/dynalink.md"
+    },
+    {
+      "sha1": "79120ee8160ad6f3c9b90c2641fb7edf3af96b5d",
+      "size": 624,
+      "path": "jre-8u281-linux-x64/plugin/desktop/sun_java.desktop",
+      "relativeUrl": "jre-8u281-linux-x64/plugin/desktop/sun_java.desktop"
+    },
+    {
+      "sha1": "699c41e97a35414e72a80327a54d6e14e874e951",
+      "size": 4351,
+      "path": "jre-8u281-linux-x64/plugin/desktop/sun_java.png",
+      "relativeUrl": "jre-8u281-linux-x64/plugin/desktop/sun_java.png"
+    },
+    {
+      "sha1": "6c5f8a9ebab689f905fefe44aca0a1f77d39e425",
+      "size": 44,
+      "path": "jre-8u281-linux-x64/LICENSE",
+      "relativeUrl": "jre-8u281-linux-x64/LICENSE"
+    },
+    {
+      "sha1": "f90331df1e5badeadc501d8dd70714c62a920204",
+      "size": 46,
+      "path": "jre-8u281-linux-x64/README",
+      "relativeUrl": "jre-8u281-linux-x64/README"
+    },
+    {
+      "sha1": "0ff70aad905069978c0d83728621fc982fd492fa",
+      "size": 190,
+      "path": "jre-8u281-linux-x64/THIRDPARTYLICENSEREADME-JAVAFX.txt",
+      "relativeUrl": "jre-8u281-linux-x64/THIRDPARTYLICENSEREADME-JAVAFX.txt"
+    },
+    {
+      "sha1": "bd9f7a797e0fca53892f9fc5ea87727d8da41da5",
+      "size": 190,
+      "path": "jre-8u281-linux-x64/THIRDPARTYLICENSEREADME.txt",
+      "relativeUrl": "jre-8u281-linux-x64/THIRDPARTYLICENSEREADME.txt"
+    },
+    {
+      "sha1": "23a33c82a0e3b7909eb3ad8e4d60e77d54d18ac0",
+      "size": 8832,
+      "path": "jre-8u281-linux-x64/bin/pack200",
+      "relativeUrl": "jre-8u281-linux-x64/bin/pack200"
+    },
+    {
+      "sha1": "cd127102e921497460be25e817e292d2c93294ea",
+      "size": 8904,
+      "path": "jre-8u281-linux-x64/bin/tnameserv",
+      "relativeUrl": "jre-8u281-linux-x64/bin/tnameserv"
+    },
+    {
+      "sha1": "05e8a5322f20db095de452228ddb2ae96aa804b8",
+      "size": 186960,
+      "path": "jre-8u281-linux-x64/bin/unpack200",
+      "relativeUrl": "jre-8u281-linux-x64/bin/unpack200"
+    },
+    {
+      "sha1": "2737ec0d90d67bce3a7110a22367b0f153eadc6e",
+      "size": 8904,
+      "path": "jre-8u281-linux-x64/bin/orbd",
+      "relativeUrl": "jre-8u281-linux-x64/bin/orbd"
+    },
+    {
+      "sha1": "3e10b7374622ffce8636e8782c0fd92f4985474f",
+      "size": 8832,
+      "path": "jre-8u281-linux-x64/bin/keytool",
+      "relativeUrl": "jre-8u281-linux-x64/bin/keytool"
+    },
+    {
+      "sha1": "38fb3c2147edc7722519e74634ad7ded780274fa",
+      "size": 8712,
+      "path": "jre-8u281-linux-x64/bin/java",
+      "relativeUrl": "jre-8u281-linux-x64/bin/java"
+    },
+    {
+      "sha1": "62f680bf2f36a25e0d65e68e85ea708d7ea6c5aa",
+      "size": 8840,
+      "path": "jre-8u281-linux-x64/bin/servertool",
+      "relativeUrl": "jre-8u281-linux-x64/bin/servertool"
+    },
+    {
+      "sha1": "ed541733c8b51e34349c1f8010b277e58ad73f1e",
+      "size": 6264,
+      "path": "jre-8u281-linux-x64/bin/ControlPanel",
+      "relativeUrl": "jre-8u281-linux-x64/bin/ControlPanel"
+    },
+    {
+      "sha1": "66f01cbf6dd41c4325cb33b208ec0c0fb3c8367b",
+      "size": 8840,
+      "path": "jre-8u281-linux-x64/bin/policytool",
+      "relativeUrl": "jre-8u281-linux-x64/bin/policytool"
+    },
+    {
+      "sha1": "29b80ae5aa062be1c60a5bd81968b371d4dfc0da",
+      "size": 8832,
+      "path": "jre-8u281-linux-x64/bin/jjs",
+      "relativeUrl": "jre-8u281-linux-x64/bin/jjs"
+    },
+    {
+      "sha1": "ed541733c8b51e34349c1f8010b277e58ad73f1e",
+      "size": 6264,
+      "path": "jre-8u281-linux-x64/bin/jcontrol",
+      "relativeUrl": "jre-8u281-linux-x64/bin/jcontrol"
+    },
+    {
+      "sha1": "17a66b791701cf0959a2d2515c4937031feac87f",
+      "size": 8832,
+      "path": "jre-8u281-linux-x64/bin/rmid",
+      "relativeUrl": "jre-8u281-linux-x64/bin/rmid"
+    },
+    {
+      "sha1": "6feeb1d2cff6f1d0de09d4b7f61eb51975a03f55",
+      "size": 148896,
+      "path": "jre-8u281-linux-x64/bin/javaws",
+      "relativeUrl": "jre-8u281-linux-x64/bin/javaws"
+    },
+    {
+      "sha1": "76af23055c6ee7a00db3a55f1803d5388b6fbdbb",
+      "size": 8840,
+      "path": "jre-8u281-linux-x64/bin/rmiregistry",
+      "relativeUrl": "jre-8u281-linux-x64/bin/rmiregistry"
+    },
+    {
+      "sha1": "cc410c7a5757559442268906846e8f4d6c7d7973",
+      "size": 3244,
+      "path": "jre-8u281-linux-x64/COPYRIGHT",
+      "relativeUrl": "jre-8u281-linux-x64/COPYRIGHT"
+    },
+    {
+      "sha1": "01e714671ecd1167edcb5310b16a9c59c33c3eaa",
+      "size": 17722,
+      "path": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/tnameserv.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/tnameserv.1"
+    },
+    {
+      "sha1": "7c882bba0067367a41ad84868d18793b8a7397a3",
+      "size": 5382,
+      "path": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/unpack200.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/unpack200.1"
+    },
+    {
+      "sha1": "80879c74e072a98fad6f32b3283331aaf9bd002f",
+      "size": 4020,
+      "path": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/policytool.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/policytool.1"
+    },
+    {
+      "sha1": "e023322a2013912315a2bd1034e6f829a27c76e0",
+      "size": 11365,
+      "path": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/jjs.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/jjs.1"
+    },
+    {
+      "sha1": "148583c837eaaf6333ccfd8c9e8df08574e14b0c",
+      "size": 111033,
+      "path": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/keytool.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/keytool.1"
+    },
+    {
+      "sha1": "7e40cb8003d098d6e36f45640b26f979ac94b5c5",
+      "size": 19715,
+      "path": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/rmid.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/rmid.1"
+    },
+    {
+      "sha1": "aa21a0ab75707f7fc66e83c7a392e69b37ddf80e",
+      "size": 14482,
+      "path": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/pack200.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/pack200.1"
+    },
+    {
+      "sha1": "95651622d33c08286858ec337edd3ea72acd93dc",
+      "size": 16092,
+      "path": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/orbd.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/orbd.1"
+    },
+    {
+      "sha1": "b0b12a0bb66e6171771ca4b1dfca32fb759bcaec",
+      "size": 148688,
+      "path": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/java.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/java.1"
+    },
+    {
+      "sha1": "8f39d928870268ace07bedfebd18db1e1d07fc37",
+      "size": 6641,
+      "path": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/javaws.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/javaws.1"
+    },
+    {
+      "sha1": "c53c52f3ae7a011c135894c9fc51b741e729c33d",
+      "size": 4557,
+      "path": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/rmiregistry.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/rmiregistry.1"
+    },
+    {
+      "sha1": "50ab8bcd9dd9d0b1a3d81348fbce1c8f82e7189e",
+      "size": 9081,
+      "path": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/servertool.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/ja_JP.UTF-8/man1/servertool.1"
+    },
+    {
+      "sha1": "a31dbbe800d49cb371fab9a4b73d22c3bf8799ad",
+      "size": 15747,
+      "path": "jre-8u281-linux-x64/man/man1/tnameserv.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/man1/tnameserv.1"
+    },
+    {
+      "sha1": "437f7233d738cb9b822e99003127049005663e0f",
+      "size": 4244,
+      "path": "jre-8u281-linux-x64/man/man1/unpack200.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/man1/unpack200.1"
+    },
+    {
+      "sha1": "ab296625155d9a2b25ecc2b4feff2f741b3ad136",
+      "size": 3235,
+      "path": "jre-8u281-linux-x64/man/man1/policytool.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/man1/policytool.1"
+    },
+    {
+      "sha1": "78d419bd3a7f3e0802d5220e690429194b5d1beb",
+      "size": 4932,
+      "path": "jre-8u281-linux-x64/man/man1/jjs.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/man1/jjs.1"
+    },
+    {
+      "sha1": "1c27d2df070d56c5a66326d1181753ad6bc40fe6",
+      "size": 86761,
+      "path": "jre-8u281-linux-x64/man/man1/keytool.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/man1/keytool.1"
+    },
+    {
+      "sha1": "6f10e214d7950a6a8460524e41dc700f112f89e5",
+      "size": 15979,
+      "path": "jre-8u281-linux-x64/man/man1/rmid.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/man1/rmid.1"
+    },
+    {
+      "sha1": "26826cf52b89924f2d2a60d6cda798891875eae6",
+      "size": 11623,
+      "path": "jre-8u281-linux-x64/man/man1/pack200.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/man1/pack200.1"
+    },
+    {
+      "sha1": "64201e1846fcf1dcc45c786ffeab89426d1c7742",
+      "size": 12180,
+      "path": "jre-8u281-linux-x64/man/man1/orbd.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/man1/orbd.1"
+    },
+    {
+      "sha1": "69fec7a341aa91f18dbdcdb95952dede7e1b689a",
+      "size": 124796,
+      "path": "jre-8u281-linux-x64/man/man1/java.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/man1/java.1"
+    },
+    {
+      "sha1": "e61e44e101b1bc119c2d2d4b10320f38b36a8036",
+      "size": 4897,
+      "path": "jre-8u281-linux-x64/man/man1/javaws.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/man1/javaws.1"
+    },
+    {
+      "sha1": "d9a3d23fab689df5bb9a792b88f462f939b49f70",
+      "size": 3449,
+      "path": "jre-8u281-linux-x64/man/man1/rmiregistry.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/man1/rmiregistry.1"
+    },
+    {
+      "sha1": "e6c7b510740ac8681a9bfb5f4ee1f0306125b728",
+      "size": 7237,
+      "path": "jre-8u281-linux-x64/man/man1/servertool.1",
+      "relativeUrl": "jre-8u281-linux-x64/man/man1/servertool.1"
+    },
+    {
+      "sha1": "b3f41c7b42daba14268b5dc4ca1ced8ef4a2c329",
+      "size": 955,
+      "path": "jre-8u281-linux-x64/Welcome.html",
+      "relativeUrl": "jre-8u281-linux-x64/Welcome.html"
+    }
+  ],
+  "remoteServerSHA1": false
+}
