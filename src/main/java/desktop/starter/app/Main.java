@@ -17,18 +17,21 @@ public class Main extends Application {
     public static void main(String[] args) {
         launch(args);
     }
-
+  //TODO разобраться как правильно указывать пути для прилодения со среды и отдельные приложения запуска, какой аргумент надо добавить для ресурсов
+  //TODO добавить надпись в инструкцию стартер апп
+    // правильно запускать приложения это с среды, для этого надо запускаемую папку в конфиге запуска указать /target/classes
+    
     public void start(Stage primaryStage) throws Exception {
 //        ResourceBundle bundle = ResourceBundle.getBundle("bundles/lang",new Locale("ru"));
     	System.out.println("dir " + new File("").getAbsolutePath());
     	ResourceBundle bundle = test();
-        Parent root = FXMLLoader.load(Paths.get("src/main/resources/resources/sample.fxml").toUri().toURL(),bundle);
+        Parent root = FXMLLoader.load(Paths.get("resources/sample.fxml").toUri().toURL(),bundle);
         primaryStage.setTitle("Hello World");
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
     }
     public static PropertyResourceBundle test() throws IOException {
-    	try (FileInputStream fis = new FileInputStream("src/main/resources/resources/bundles/lang_ru.properties")) {
+    	try (FileInputStream fis = new FileInputStream("resources/bundles/lang_ru.properties")) {
   		  return new PropertyResourceBundle(fis);
   		}
     }
