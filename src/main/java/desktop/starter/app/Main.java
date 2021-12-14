@@ -17,9 +17,6 @@ public class Main extends Application {
     public static void main(String[] args) {
         launch(args);
     }
-  //TODO разобраться как правильно указывать пути для прилодения со среды и отдельные приложения запуска, какой аргумент надо добавить для ресурсов
-  //TODO добавить надпись в инструкцию стартер апп
-    // правильно запускать приложения это с среды, для этого надо запускаемую папку в конфиге запуска указать /target/classes
     
     public void start(Stage primaryStage) throws Exception {
 //        ResourceBundle bundle = ResourceBundle.getBundle("bundles/lang",new Locale("ru"));
@@ -29,6 +26,8 @@ public class Main extends Application {
         primaryStage.setTitle("Hello World");
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
+        System.out.println("starter can be closed");
+        
     }
     public static PropertyResourceBundle test() throws IOException {
     	try (FileInputStream fis = new FileInputStream("resources/bundles/lang_ru.properties")) {
