@@ -1,0 +1,74 @@
+{
+  "comment": "Config file for desktop-starter example",
+  "appName": "starter-app",
+  "appVersion": 1.0,
+  "mainClass": "desktop.starter.app.Main",
+  "appArguments": [
+    "",
+    ""
+  ],
+  "jvmArguments": [
+    "-Xmx512m",
+    "-Dfile.encoding\u003dUTF8"
+  ],
+  "appFileRepo": {
+    "repositories": [
+      "http://localhost:81/"
+    ],
+    "resources": [
+      {
+        "sha1": "175364bda6554ac1cdc7192f875f80000d32165f",
+        "size": 4952,
+        "path": "starter-app-1.0.jar",
+        "relativeUrl": "starter-app/1.0/starter-app-1.0.jar",
+        "executable": false
+      }
+    ],
+    "remoteServerSHA1": false
+  },
+  "appResources": {
+    "repositories": [
+      "http://localhost:81/"
+    ],
+    "resources": [
+      {
+        "sha1": "79e0329ee2221d18d0b09b180887ef562ad069d5",
+        "size": 1710,
+        "path": "resources.json",
+        "relativeUrl": "starter-app/1.0/resources.json",
+        "executable": false
+      }
+    ],
+    "remoteServerSHA1": false
+  },
+  "appDependencies": {
+    "repositories": [
+      "http://localhost:81/"
+    ],
+    "resources": [
+      {
+        "sha1": "84b59a72b5dfd3206ff512d9e21cac701ae58823",
+        "size": 849,
+        "path": "dependencies.json",
+        "relativeUrl": "starter-app/1.0/dependencies.json",
+        "executable": false
+      }
+    ],
+    "remoteServerSHA1": false
+  },
+  "javaRepo": {
+    "repositories": [
+      "http://localhost:81/"
+    ],
+    "resources": [
+      {
+        "sha1": "73803f93c95e695e3da6c038d7e9dc4c33d911a8",
+        "size": 2715,
+        "path": "starter-app/javaConfig.json",
+        "relativeUrl": "starter-app/javaConfig.json",
+        "executable": false
+      }
+    ],
+    "remoteServerSHA1": false
+  }
+}

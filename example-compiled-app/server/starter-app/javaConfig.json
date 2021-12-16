@@ -1,0 +1,95 @@
+{
+  "jvms": {
+    "WINDOWS": {
+      "x32": {
+        "jre_default": {
+          "repositories": [
+            "http://localhost:81/"
+          ],
+          "resources": [
+            {
+              "sha1": "f8e7e992ae93438e0aa92236ba20053a6b101b6c",
+              "size": 0,
+              "path": "jvms/windows/x32/jre_default/jre-8u111-windows-i586.json",
+              "relativeUrl": "jvms/windows/x32/jre_default/jre-8u111-windows-i586.json",
+              "executable": false
+            }
+          ],
+          "remoteServerSHA1": false
+        }
+      },
+      "x64": {
+        "jre_default": {
+          "repositories": [
+            "http://localhost:81/"
+          ],
+          "resources": [
+            {
+              "sha1": "4882b76ba944466c07b688a9b0164c9330b5e11d",
+              "size": 0,
+              "path": "jvms/windows/x64/jre_default/jre-8u281-windows-x64.json",
+              "relativeUrl": "jvms/windows/x64/jre_default/jre-8u281-windows-x64.json",
+              "executable": false
+            }
+          ],
+          "remoteServerSHA1": false
+        }
+      }
+    },
+    "MACOSX": {
+      "x64": {
+        "jre_default": {
+          "repositories": [
+            "http://localhost:81/"
+          ],
+          "resources": [
+            {
+              "sha1": "c58e7b413578a96a53e3791d969bebb44c92c541",
+              "size": 0,
+              "path": "jvms/macosx/x64/jre_default/jdk1.8.0_202.jdk.json",
+              "relativeUrl": "jvms/macosx/x64/jre_default/jdk1.8.0_202.jdk.json",
+              "executable": false
+            }
+          ],
+          "remoteServerSHA1": false
+        }
+      }
+    },
+    "LINUX": {
+      "x32": {
+        "jre_default": {
+          "repositories": [
+            "http://localhost:81/"
+          ],
+          "resources": [
+            {
+              "sha1": "8a275ea25eeb0d5c48d53eabc42d2df5f4ad5273",
+              "size": 0,
+              "path": "jvms/linux/x32/jre_default/jre-8u281-linux-i586.json",
+              "relativeUrl": "jvms/linux/x32/jre_default/jre-8u281-linux-i586.json",
+              "executable": false
+            }
+          ],
+          "remoteServerSHA1": false
+        }
+      },
+      "x64": {
+        "jre_default": {
+          "repositories": [
+            "http://localhost:81/"
+          ],
+          "resources": [
+            {
+              "sha1": "5af7ca3982dcae15f81d29e418ff13e7ff21a1b5",
+              "size": 0,
+              "path": "jvms/linux/x64/jre_default/jre-8u281-linux-x64.json",
+              "relativeUrl": "jvms/linux/x64/jre_default/jre-8u281-linux-x64.json",
+              "executable": false
+            }
+          ],
+          "remoteServerSHA1": false
+        }
+      }
+    }
+  }
+}
