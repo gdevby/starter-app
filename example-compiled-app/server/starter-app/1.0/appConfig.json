@@ -13,7 +13,7 @@
   ],
   "appFileRepo": {
     "repositories": [
-      "http://localhost:81/"
+      "https://github.com/gdevby/starter-app/tree/master/example-compiled-app/server/"
     ],
     "resources": [
       {
@@ -28,7 +28,7 @@
   },
   "appResources": {
     "repositories": [
-      "http://localhost:81/"
+      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
     ],
     "resources": [
       {
@@ -43,7 +43,7 @@
   },
   "appDependencies": {
     "repositories": [
-      "http://localhost:81/"
+      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
     ],
     "resources": [
       {
@@ -58,7 +58,7 @@
   },
   "javaRepo": {
     "repositories": [
-      "http://localhost:81/"
+      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
     ],
     "resources": [
       {

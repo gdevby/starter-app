@@ -1,6 +1,6 @@
 {
   "repositories": [
-    "http://localhost:81/"
+     "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
   ],
   "resources": [
     {
