@@ -4,7 +4,7 @@
       "x32": {
         "jre_default": {
           "repositories": [
-             "https://github.com/gdevby/starter-app/raw/master/example-compiled-app/server/"
+             "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
           ],
           "resources": [
             {
@@ -21,7 +21,7 @@
       "x64": {
         "jre_default": {
           "repositories": [
-             "https://github.com/gdevby/starter-app/raw/master/example-compiled-app/server/"
+             "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
           ],
           "resources": [
             {
@@ -40,7 +40,7 @@
       "x64": {
         "jre_default": {
           "repositories": [
-             "https://github.com/gdevby/starter-app/raw/master/example-compiled-app/server/"
+             "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
           ],
           "resources": [
             {
@@ -59,7 +59,7 @@
       "x32": {
         "jre_default": {
           "repositories": [
-             "https://github.com/gdevby/starter-app/raw/master/example-compiled-app/server/"
+             "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
           ],
           "resources": [
             {
@@ -76,7 +76,7 @@
       "x64": {
         "jre_default": {
           "repositories": [
-             "https://github.com/gdevby/starter-app/raw/master/example-compiled-app/server/"
+             "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
           ],
           "resources": [
             {
