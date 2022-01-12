@@ -8,1946 +8,2224 @@
       "size": 5548,
       "path": "jre_default/jre-8u281-windows-x64/lib/content-types.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/content-types.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "d18014cc830fa07c6dbb7d8b6edbdb4178b9d241",
       "size": 10578,
       "path": "jre_default/jre-8u281-windows-x64/lib/fontconfig.properties.src",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/fontconfig.properties.src",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "88cbf37d05f28691b7f82e74fa891792e93b41b9",
       "size": 3778,
       "path": "jre_default/jre-8u281-windows-x64/lib/fontconfig.bfc",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/fontconfig.bfc",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "2d5ed3b53072b184d67b1a4e26aec2df908ddc55",
       "size": 3928,
       "path": "jre_default/jre-8u281-windows-x64/lib/flavormap.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/flavormap.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "872297c77a7d1d3c706761404aedbdce24f694c1",
       "size": 64579566,
       "path": "jre_default/jre-8u281-windows-x64/lib/rt.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/rt.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "56ed1c661eeede17b4fae8c9de7b5edbad387abc",
       "size": 2796,
       "path": "jre_default/jre-8u281-windows-x64/lib/psfont.properties.ja",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/psfont.properties.ja",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "96fc2e84cc95d4f39455e842d745874892d4b7df",
       "size": 1011568,
       "path": "jre_default/jre-8u281-windows-x64/lib/plugin.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/plugin.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "fbd61d52534cdd0c15df332114d469c65d001e33",
       "size": 4226,
       "path": "jre_default/jre-8u281-windows-x64/lib/jvm.hprof.txt",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/jvm.hprof.txt",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "3be2febe28723b1033ccdaa110eaf59bbd6d1f96",
       "size": 2126,
       "path": "jre_default/jre-8u281-windows-x64/lib/meta-index",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/meta-index",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "aa327a22a49967f4d74afeee6726f505f209692f",
       "size": 10393,
       "path": "jre_default/jre-8u281-windows-x64/lib/psfontj2d.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/psfontj2d.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "382c4f1f46189f9e67fc918ab6b8c5453716866d",
       "size": 33917,
       "path": "jre_default/jre-8u281-windows-x64/lib/jfxswt.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/jfxswt.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "89da8094484891f9ec1fa40c6c8b61f94c5869d0",
       "size": 2455,
       "path": "jre_default/jre-8u281-windows-x64/lib/logging.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/logging.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "21200eaad898ba4a2a8834a032efb6616fabb930",
       "size": 3998,
       "path": "jre_default/jre-8u281-windows-x64/lib/management/jmxremote.access",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/management/jmxremote.access",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "c1e0f01408bf20fbbb8b4810520c725f70050db5",
       "size": 2856,
       "path": "jre_default/jre-8u281-windows-x64/lib/management/jmxremote.password.template",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/management/jmxremote.password.template",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "e0451d8d7d9e84d7b1c39ec7d00993307a5cbbf1",
       "size": 14630,
       "path": "jre_default/jre-8u281-windows-x64/lib/management/management.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/management/management.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "2e9f9ac287274532eb1f0d1afcefd7f3e97cc794",
       "size": 3376,
       "path": "jre_default/jre-8u281-windows-x64/lib/management/snmp.acl.template",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/management/snmp.acl.template",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "2dfc8984e13a84aa39b1766072219f6df1a58228",
       "size": 43191,
       "path": "jre_default/jre-8u281-windows-x64/lib/ext/sunec.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/ext/sunec.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "9f5c887e0505e1bb06bd1fc7975a3219709d061d",
       "size": 1461,
       "path": "jre_default/jre-8u281-windows-x64/lib/ext/meta-index",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/ext/meta-index",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "98ebf3b46c728ec7b9b70ef70fde73fb49159957",
       "size": 49287,
       "path": "jre_default/jre-8u281-windows-x64/lib/ext/sunmscapi.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/ext/sunmscapi.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "94149820a6a8258b903e57bf8d37a65a842b5a48",
       "size": 285868,
       "path": "jre_default/jre-8u281-windows-x64/lib/ext/sunjce_provider.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/ext/sunjce_provider.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "c6c4f344f469f490bc6fa4e618307cd82bfd32d9",
       "size": 44516,
       "path": "jre_default/jre-8u281-windows-x64/lib/ext/jaccess.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/ext/jaccess.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "c0b6aa831169a437fe493e86a562d7ec2d635f73",
       "size": 18254575,
       "path": "jre_default/jre-8u281-windows-x64/lib/ext/jfxrt.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/ext/jfxrt.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "d6fe96755f4471c3a8ffdbbb35524824139cd369",
       "size": 1179273,
       "path": "jre_default/jre-8u281-windows-x64/lib/ext/localedata.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/ext/localedata.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "403849771c976cba4d41c1f9f87c9f6006f3e1d7",
       "size": 197119,
       "path": "jre_default/jre-8u281-windows-x64/lib/ext/access-bridge-64.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/ext/access-bridge-64.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "12e45c243c46a85acf3b8dc32c0ed00f9d15584f",
       "size": 69394,
       "path": "jre_default/jre-8u281-windows-x64/lib/ext/zipfs.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/ext/zipfs.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "05088bf2f6d228e2f5679265481a7d373f69c188",
       "size": 8286,
       "path": "jre_default/jre-8u281-windows-x64/lib/ext/dnsns.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/ext/dnsns.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "eb733aa15f70957bd41948acf043ed90a1e4f4f1",
       "size": 283206,
       "path": "jre_default/jre-8u281-windows-x64/lib/ext/sunpkcs11.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/ext/sunpkcs11.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "b92ec67e3eac281a5e5f7c5c84c6ef4d33f472b7",
       "size": 3860563,
       "path": "jre_default/jre-8u281-windows-x64/lib/ext/cldrdata.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/ext/cldrdata.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "a3742067ab37da101af34b3ab9e42c692291433a",
       "size": 2034152,
       "path": "jre_default/jre-8u281-windows-x64/lib/ext/nashorn.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/ext/nashorn.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "73e85e6d2a8e5d50265392fc59afb8d0adf95656",
       "size": 2302624,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "234537e4eb503680683d447fccc6e6cb6ef6d58e",
       "size": 1927488,
       "path": "jre_default/jre-8u281-windows-x64/lib/jsse.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/jsse.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "5ae707011fb0adaf564d2c71d8e6443aaddd6809",
       "size": 20804,
       "path": "jre_default/jre-8u281-windows-x64/lib/jfr/profile.jfc",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/jfr/profile.jfc",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "e60d9aaa39c5f0ef4a54da5107b0c75ab491df0e",
       "size": 20848,
       "path": "jre_default/jre-8u281-windows-x64/lib/jfr/default.jfc",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/jfr/default.jfc",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "146b136e70a1d39829130c0c31a789f551086501",
       "size": 381,
       "path": "jre_default/jre-8u281-windows-x64/lib/management-agent.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/management-agent.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "531a6316953fc152809601806fec55e1be806700",
       "size": 1482,
       "path": "jre_default/jre-8u281-windows-x64/lib/calendars.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/calendars.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "e2469cbe07e92d817637be4e889ebb74c3c46253",
       "size": 634,
       "path": "jre_default/jre-8u281-windows-x64/lib/amd64/jvm.cfg",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/amd64/jvm.cfg",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "d4ec09c71649c578648bbcb487ab4d89d8cdfd39",
       "size": 3546593,
       "path": "jre_default/jre-8u281-windows-x64/lib/resources.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/resources.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "750cc36b35487d6054e039469039aece3a0cc9e9",
       "size": 9577,
       "path": "jre_default/jre-8u281-windows-x64/lib/tzmappings",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/tzmappings",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "08d82c6684351b73220d25d8dec22107d033a772",
       "size": 573191,
       "path": "jre_default/jre-8u281-windows-x64/lib/jfr.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/jfr.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "199dccaa94e9129a3649a09f8667b552803e1d0e",
       "size": 84355,
       "path": "jre_default/jre-8u281-windows-x64/lib/classlist",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/classlist",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "84aa425100740722e91f4725caf849e7863d12ba",
       "size": 13962,
       "path": "jre_default/jre-8u281-windows-x64/lib/hijrah-config-umalqura.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/hijrah-config-umalqura.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "e2ab9b21bed47a7863566f4f4a1587f2fde744d7",
       "size": 107865,
       "path": "jre_default/jre-8u281-windows-x64/lib/tzdb.dat",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/tzdb.dat",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "63fcc1e2822007f1d8721863a3dadabe7d0bfd55",
       "size": 56,
       "path": "jre_default/jre-8u281-windows-x64/lib/javafx.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/javafx.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "a4e92db3d9d0dca3b248f8539e04ef09c8b4fdf3",
       "size": 3092151,
       "path": "jre_default/jre-8u281-windows-x64/lib/charsets.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/charsets.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "713acb9eff5f0b14a109e6c2771f62eac9b57d7c",
       "size": 1280,
       "path": "jre_default/jre-8u281-windows-x64/lib/images/cursors/cursors.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/images/cursors/cursors.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "259edc45b4569427e8319895a444f4295d54348f",
       "size": 153,
       "path": "jre_default/jre-8u281-windows-x64/lib/images/cursors/win32_CopyNoDrop32x32.gif",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/images/cursors/win32_CopyNoDrop32x32.gif",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "ae813939f9a52e7b59927f531ce8757636ff8082",
       "size": 165,
       "path": "jre_default/jre-8u281-windows-x64/lib/images/cursors/win32_CopyDrop32x32.gif",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/images/cursors/win32_CopyDrop32x32.gif",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "4b3843cbd4f112a90d112a37957684c843d68e83",
       "size": 168,
       "path": "jre_default/jre-8u281-windows-x64/lib/images/cursors/win32_LinkDrop32x32.gif",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/images/cursors/win32_LinkDrop32x32.gif",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "1333f489ac0506d7dc98656a515feeb6e87e27f9",
       "size": 147,
       "path": "jre_default/jre-8u281-windows-x64/lib/images/cursors/win32_MoveDrop32x32.gif",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/images/cursors/win32_MoveDrop32x32.gif",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "259edc45b4569427e8319895a444f4295d54348f",
       "size": 153,
       "path": "jre_default/jre-8u281-windows-x64/lib/images/cursors/win32_MoveNoDrop32x32.gif",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/images/cursors/win32_MoveNoDrop32x32.gif",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "259edc45b4569427e8319895a444f4295d54348f",
       "size": 153,
       "path": "jre_default/jre-8u281-windows-x64/lib/images/cursors/invalid32x32.gif",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/images/cursors/invalid32x32.gif",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "259edc45b4569427e8319895a444f4295d54348f",
       "size": 153,
       "path": "jre_default/jre-8u281-windows-x64/lib/images/cursors/win32_LinkNoDrop32x32.gif",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/images/cursors/win32_LinkNoDrop32x32.gif",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "fd9471742eb759f4478bb1de9a0dc0527265b6ea",
       "size": 5352,
       "path": "jre_default/jre-8u281-windows-x64/lib/net.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/net.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "4384ca5e4d32f7dd86d8baddd1e690730d74e694",
       "size": 98,
       "path": "jre_default/jre-8u281-windows-x64/lib/security/javaws.policy",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/security/javaws.policy",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "58875d7463460d7998c4013912fb89965e823044",
       "size": 3482,
       "path": "jre_default/jre-8u281-windows-x64/lib/security/policy/limited/US_export_policy.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/security/policy/limited/US_export_policy.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "7d0a29932b496edbdd1fc55572014bc89703ad07",
       "size": 3984,
       "path": "jre_default/jre-8u281-windows-x64/lib/security/policy/limited/local_policy.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/security/policy/limited/local_policy.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "0135b30ebec03fb69d79cdc3126e608d9effb8b2",
       "size": 3482,
       "path": "jre_default/jre-8u281-windows-x64/lib/security/policy/unlimited/US_export_policy.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/security/policy/unlimited/US_export_policy.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "aee6515eede2ad7c697ba8a61bdd9359be3319d2",
       "size": 3490,
       "path": "jre_default/jre-8u281-windows-x64/lib/security/policy/unlimited/local_policy.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/security/policy/unlimited/local_policy.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "c0112209a567b3b523cfed7041709f9440227968",
       "size": 2466,
       "path": "jre_default/jre-8u281-windows-x64/lib/security/java.policy",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/security/java.policy",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
       "size": 0,
       "path": "jre_default/jre-8u281-windows-x64/lib/security/trusted.libraries",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/security/trusted.libraries",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "d4ffb3857eab403955ce9d156e46d056061e6a5a",
       "size": 4054,
       "path": "jre_default/jre-8u281-windows-x64/lib/security/blacklist",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/security/blacklist",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "aeaebb14fbf146fbb0aaf347446c08766c86ca7f",
       "size": 2527,
       "path": "jre_default/jre-8u281-windows-x64/lib/security/blacklisted.certs",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/security/blacklisted.certs",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "5a3512369271c5962a46dbefe559f8bb9970868f",
       "size": 108679,
       "path": "jre_default/jre-8u281-windows-x64/lib/security/cacerts",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/security/cacerts",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "9d2da007c0747c6dcf7b27e70805fc38f6f521d4",
       "size": 50764,
       "path": "jre_default/jre-8u281-windows-x64/lib/security/java.security",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/security/java.security",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "183cb72e7bf7118d870e549e9ca1fc096a2e3107",
       "size": 4102,
       "path": "jre_default/jre-8u281-windows-x64/lib/currency.data",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/currency.data",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "1b0334b79db481c3a59be6915d5118d760c97baa",
       "size": 3600,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/messages_es.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/messages_es.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "1c2b96673dddd3596890ef4fc22017d484a1f652",
       "size": 4072,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/messages_zh_CN.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/messages_zh_CN.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "37a57aad121c14c25e149206179728fa62203bf0",
       "size": 3752,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/messages_zh_HK.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/messages_zh_HK.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "20e7aec75f6d036d504277542e507eb7dc24aae8",
       "size": 8590,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/splash.gif",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/splash.gif",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "d989fe1b8f7904888d5102294ebefd28d932ecdb",
       "size": 3306,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/messages_de.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/messages_de.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "69bd2d03c2064f8679de5b4e430ea61b567c69c5",
       "size": 3409,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/messages_fr.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/messages_fr.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "24e4951743521ab9a11381c77bd0cdb1ed30f5b5",
       "size": 3285,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/messages_pt_BR.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/messages_pt_BR.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "bf9e055b5ab138ad6d49769e2b7630b7938848d6",
       "size": 5712,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/messages_ko.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/messages_ko.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "0ae4a5bda2a6d628fac51462390b503c99509fdc",
       "size": 15276,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/splash@2x.gif",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/splash@2x.gif",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "37a57aad121c14c25e149206179728fa62203bf0",
       "size": 3752,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/messages_zh_TW.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/messages_zh_TW.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "bb5a4aa0ba499f6b1916a83e3c7922a4583b4adb",
       "size": 3384,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/messages_sv.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/messages_sv.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "dbe49949308f28540a42ae6cd2ad58afbf615592",
       "size": 3223,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/messages_it.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/messages_it.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "769e82d5863286dc2335ae4d532c33c8ddcb58c2",
       "size": 14156,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/ffjcext.zip",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/ffjcext.zip",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "751170a7cdefcb1226604ac3f8196e06a04fd7ac",
       "size": 6349,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/messages_ja.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/messages_ja.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "d2bff9bbf7920ca743b81a0ee23b0719b4d057ca",
       "size": 12250,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/splash_11@2x-lic.gif",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/splash_11@2x-lic.gif",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "dc52841c708e3c1eb2a044088a43396d1291bb5e",
       "size": 2860,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/messages.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/messages.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "8def364e07f40142822df84b5bb4f50846cb5e4e",
       "size": 7805,
       "path": "jre_default/jre-8u281-windows-x64/lib/deploy/splash_11-lic.gif",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/deploy/splash_11-lic.gif",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "27c9b302d2d47aae04fc1f4ef9127a2835a77853",
       "size": 149,
       "path": "jre_default/jre-8u281-windows-x64/lib/accessibility.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/accessibility.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "7913274c2f73bafcf888f09ff60990b100214ede",
       "size": 1044,
       "path": "jre_default/jre-8u281-windows-x64/lib/cmm/LINEAR_RGB.pf",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/cmm/LINEAR_RGB.pf",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "4f7eed05b8f0eea7bcdc8f8f7aaeb1925ce7b144",
       "size": 274474,
       "path": "jre_default/jre-8u281-windows-x64/lib/cmm/PYCC.pf",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/cmm/PYCC.pf",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "27f93961d66b8230d0cdb8b166bc8b4153d5bc2d",
       "size": 632,
       "path": "jre_default/jre-8u281-windows-x64/lib/cmm/GRAY.pf",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/cmm/GRAY.pf",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "b7779924c70554647b87c2a86159ca7781e929f8",
       "size": 51236,
       "path": "jre_default/jre-8u281-windows-x64/lib/cmm/CIEXYZ.pf",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/cmm/CIEXYZ.pf",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "9eaea0911d89d63e39e95f2e2116eaec7e0bb91e",
       "size": 3144,
       "path": "jre_default/jre-8u281-windows-x64/lib/cmm/sRGB.pf",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/cmm/sRGB.pf",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "1fd1f757febf3e5f5fbb7fbf7a56587a40d57de7",
       "size": 75124,
       "path": "jre_default/jre-8u281-windows-x64/lib/fonts/LucidaBrightDemiItalic.ttf",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/fonts/LucidaBrightDemiItalic.ttf",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "a5da2eb49448f461470387c939f0e69119310e0b",
       "size": 234068,
       "path": "jre_default/jre-8u281-windows-x64/lib/fonts/LucidaTypewriterBold.ttf",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/fonts/LucidaTypewriterBold.ttf",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "aa5c037865c563726ecd63d61ca26443589be425",
       "size": 80856,
       "path": "jre_default/jre-8u281-windows-x64/lib/fonts/LucidaBrightItalic.ttf",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/fonts/LucidaBrightItalic.ttf",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "92b79fefc35e96190250c602a8fed85276b32a95",
       "size": 317896,
       "path": "jre_default/jre-8u281-windows-x64/lib/fonts/LucidaSansDemiBold.ttf",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/fonts/LucidaSansDemiBold.ttf",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "5d7ed564791c900a8786936930ba99385653139c",
       "size": 344908,
       "path": "jre_default/jre-8u281-windows-x64/lib/fonts/LucidaBrightRegular.ttf",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/fonts/LucidaBrightRegular.ttf",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "c144dcafe4faf2e79cfd74d8134a631f30234db1",
       "size": 242700,
       "path": "jre_default/jre-8u281-windows-x64/lib/fonts/LucidaTypewriterRegular.ttf",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/fonts/LucidaTypewriterRegular.ttf",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "39cc8bcb8d4a71d4657fc92ef0b9f4e3e9e67add",
       "size": 698236,
       "path": "jre_default/jre-8u281-windows-x64/lib/fonts/LucidaSansRegular.ttf",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/fonts/LucidaSansRegular.ttf",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "b5c97f985639e19a3b712193ee48b55dda581fd1",
       "size": 75144,
       "path": "jre_default/jre-8u281-windows-x64/lib/fonts/LucidaBrightDemiBold.ttf",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/fonts/LucidaBrightDemiBold.ttf",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "8de65da2291ffb29d00a8f11b97025e925944cf7",
       "size": 483687,
       "path": "jre_default/jre-8u281-windows-x64/lib/javaws.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/javaws.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "9afceb218059d981d0fa9f07aad3c5097cf41b0c",
       "size": 1210,
       "path": "jre_default/jre-8u281-windows-x64/lib/sound.properties",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/sound.properties",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "cf4be57ad520baa55d9e526c411c4a6e41a029cd",
       "size": 118047,
       "path": "jre_default/jre-8u281-windows-x64/lib/jce.jar",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/lib/jce.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "6c5f8a9ebab689f905fefe44aca0a1f77d39e425",
       "size": 44,
       "path": "jre_default/jre-8u281-windows-x64/LICENSE",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/LICENSE",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "ebb35e9136ab0bff7a3686ee2576162eb995f4dc",
       "size": 62523,
       "path": "jre_default/jre-8u281-windows-x64/release.json",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/release.json",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "bd9f7a797e0fca53892f9fc5ea87727d8da41da5",
       "size": 190,
       "path": "jre_default/jre-8u281-windows-x64/THIRDPARTYLICENSEREADME.txt",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/THIRDPARTYLICENSEREADME.txt",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "0ff70aad905069978c0d83728621fc982fd492fa",
       "size": 190,
       "path": "jre_default/jre-8u281-windows-x64/THIRDPARTYLICENSEREADME-JAVAFX.txt",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/THIRDPARTYLICENSEREADME-JAVAFX.txt",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "b5f24ba94b910e30b511332f3a96729cb0a539d9",
       "size": 276648,
       "path": "jre_default/jre-8u281-windows-x64/bin/java.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/java.exe",
-      "executable": true
+      "executable": true,
+      "link": ""
     },
     {
       "sha1": "663154c1437acf66480518068fbc756f5cabb72f",
       "size": 12232,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-locale-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-locale-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "1197c9c31eb06bcf81d265c33d11c6db016c7378",
       "size": 64680,
       "path": "jre_default/jre-8u281-windows-x64/bin/nio.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/nio.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "bf3e9853a3e20c79fef2e04a24a0be87421edc76",
       "size": 453288,
       "path": "jre_default/jre-8u281-windows-x64/bin/javaws.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/javaws.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "e5c6541d4a133d434192155f758b750a17a532c5",
       "size": 276648,
       "path": "jre_default/jre-8u281-windows-x64/bin/javaw.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/javaw.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "15c6d65837c9979af7ec143e034923884c3b0dbd",
       "size": 20928,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-math-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-math-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "f73ae3e39fc2bc815279ddf5e57536efd26e9427",
       "size": 31912,
       "path": "jre_default/jre-8u281-windows-x64/bin/java_crw_demo.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/java_crw_demo.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "d22fc56f02558b3ca051e07bb88f4e8712223ac9",
       "size": 147624,
       "path": "jre_default/jre-8u281-windows-x64/bin/jfxmedia.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jfxmedia.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "fe20ec142c126ac9ac851bd64bb6cba84ffbc678",
       "size": 332456,
       "path": "jre_default/jre-8u281-windows-x64/bin/plugin2/npjp2.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/plugin2/npjp2.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "8b3b943e79c40bc81fdac1e038a276d034bbe812",
       "size": 627992,
       "path": "jre_default/jre-8u281-windows-x64/bin/plugin2/msvcp140.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/plugin2/msvcp140.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "29fb9af50458df43ef40bfc8f0f516d0c0a106fd",
       "size": 85784,
       "path": "jre_default/jre-8u281-windows-x64/bin/plugin2/vcruntime140.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/plugin2/vcruntime140.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "5427d57d0354a103d4bb8b655c31e3189192fc6a",
       "size": 11200,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-profile-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-profile-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "f88f5c79d8f24d140ffbf88cd245cd9277f69887",
       "size": 83624,
       "path": "jre_default/jre-8u281-windows-x64/bin/zip.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/zip.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "df22928e43ea6a9a41c1b2b5bfcab5ba58d2a83a",
       "size": 15816,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-convert-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-convert-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "284112dccf35913b93a175840e4baaacdc39aaec",
       "size": 18600,
       "path": "jre_default/jre-8u281-windows-x64/bin/resource.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/resource.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "f0e98e2d594054e8a836bd9c6f68c3fe5048f870",
       "size": 12744,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-heap-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-heap-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "eee1747b3ade5a9b985467512215caf7e0d4cb9b",
       "size": 12232,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-timezone-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-timezone-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "15b55097e54028d1466e46febca1dbb8dbefea4f",
       "size": 13760,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-synch-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-synch-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "bbcad0148ff008e984a75937aaddf1ef6fda5e0c",
       "size": 11712,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-file-l1-2-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-file-l1-2-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "4b2a0c6e36429687ad4d4b8b647e71f82b487254",
       "size": 62120,
       "path": "jre_default/jre-8u281-windows-x64/bin/prism_common.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/prism_common.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "fdb5954ee91583a5a4cbb0054fb8b3bf6235eed3",
       "size": 12232,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-environment-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-environment-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "e0cdc9d87c7b8b25a47828db6ffc965ae2e44def",
       "size": 734376,
       "path": "jre_default/jre-8u281-windows-x64/bin/ssv.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/ssv.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "4f7397b957956a7db66e31ee95e698b109cd04d0",
       "size": 243880,
       "path": "jre_default/jre-8u281-windows-x64/bin/jli.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jli.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "e43dd814e90330880ee75259809eee7b91b4ffa6",
       "size": 64456,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-private-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-private-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "bc8312b511e45338522314644cfe879d7e868efb",
       "size": 163496,
       "path": "jre_default/jre-8u281-windows-x64/bin/dcpr.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/dcpr.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "b3f131ca5a2517474099f02c79cc61dfe37064ba",
       "size": 153768,
       "path": "jre_default/jre-8u281-windows-x64/bin/JavaAccessBridge-64.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/JavaAccessBridge-64.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "a36169d7b8fa248a6647571c0319c7ac54e815a8",
       "size": 284328,
       "path": "jre_default/jre-8u281-windows-x64/bin/fontmanager.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/fontmanager.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "1de48dc27b1684d5ef5c4a925f4aec1590d1ec47",
       "size": 85152,
       "path": "jre_default/jre-8u281-windows-x64/bin/unpack.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/unpack.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "cbe5a5487661a64f38e05f226241a8ddb84083df",
       "size": 188072,
       "path": "jre_default/jre-8u281-windows-x64/bin/instrument.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/instrument.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "09249700495e919468331d3c6a9a8eaece8858c5",
       "size": 35496,
       "path": "jre_default/jre-8u281-windows-x64/bin/jsoundds.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jsoundds.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "21855c9a5ac053143a6953a953bccb2556536362",
       "size": 535720,
       "path": "jre_default/jre-8u281-windows-x64/bin/deploy.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/deploy.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "2914b84226f5996161eb3646e62973b1e6c9e596",
       "size": 12736,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-process-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-process-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "7f17fbdcef12042d215828c1d6675e483a4c62b1",
       "size": 12232,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-synch-l1-2-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-synch-l1-2-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "89b28107c39bb216da00507ffd8adb7838d883f6",
       "size": 11720,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-file-l2-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-file-l2-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "cf23d59674286d3dc7a3b10cd8689490f583f15f",
       "size": 12744,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-conio-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-conio-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "bff3b1c05c72de725eae5396d63043454965d72c",
       "size": 20648,
       "path": "jre_default/jre-8u281-windows-x64/bin/orbd.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/orbd.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "3aaf7431274da063441854b12b2eee9327714d7f",
       "size": 88744,
       "path": "jre_default/jre-8u281-windows-x64/bin/decora_sse.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/decora_sse.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "ee11b16a659df2ba905e8e913cafa603598c0e47",
       "size": 20648,
       "path": "jre_default/jre-8u281-windows-x64/bin/pack200.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/pack200.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "ab488bc6dd912a4107ee6753d760fa2a0c9ca2f0",
       "size": 102568,
       "path": "jre_default/jre-8u281-windows-x64/bin/net.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/net.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "da8749639fb4e7bfc2020342a2aff26d622bc4a8",
       "size": 692904,
       "path": "jre_default/jre-8u281-windows-x64/bin/mlib_image.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/mlib_image.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "eff2d4ff97e2b8d7ed0e456cb53b74199118a2e2",
       "size": 12224,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-console-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-console-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "97f5b6d7d2352369ed4b28a2eb8adbe0eaf64316",
       "size": 22696,
       "path": "jre_default/jre-8u281-windows-x64/bin/jsdt.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jsdt.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "39dff196e5df61f669bc7c164c44241609dd3b95",
       "size": 24232,
       "path": "jre_default/jre-8u281-windows-x64/bin/jaas_nt.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jaas_nt.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "e814b3f0cc61bbc1345c111235a38473fc88b214",
       "size": 244392,
       "path": "jre_default/jre-8u281-windows-x64/bin/lcms.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/lcms.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "117d66360c84a0088626e22d8b3b4b685cb70d56",
       "size": 12224,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-utility-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-utility-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "8b3b943e79c40bc81fdac1e038a276d034bbe812",
       "size": 627992,
       "path": "jre_default/jre-8u281-windows-x64/bin/msvcp140.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/msvcp140.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "5005454ba8e13bac64189c7a8416ecc1e3834dc6",
       "size": 12232,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-heap-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-heap-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "ea54fd05a5a69b20fa73dc6dc017ec927ebc3de2",
       "size": 28328,
       "path": "jre_default/jre-8u281-windows-x64/bin/w2k_lsa_auth.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/w2k_lsa_auth.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "3094832b393416f212db9107add80a6e93a37947",
       "size": 11720,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-handle-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-handle-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "cd2b2a0f6bc6c770778b8d0795f9dd1be692b0a5",
       "size": 1273512,
       "path": "jre_default/jre-8u281-windows-x64/bin/dtplugin/deployJava1.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/dtplugin/deployJava1.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "13bc19a74199e1b065791481ef566517d60b79d5",
       "size": 1930920,
       "path": "jre_default/jre-8u281-windows-x64/bin/dtplugin/npdeployJava1.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/dtplugin/npdeployJava1.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "7487b68b6440265609eb1e181a3eb7e61f90376d",
       "size": 272552,
       "path": "jre_default/jre-8u281-windows-x64/bin/glass.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/glass.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "21a1bea01f6ca7e9828a522c696853706d0a457b",
       "size": 1011656,
       "path": "jre_default/jre-8u281-windows-x64/bin/ucrtbase.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/ucrtbase.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "238b369dfc7eb8f0dc6a85cdd080ed4b78388ca8",
       "size": 1423,
       "path": "jre_default/jre-8u281-windows-x64/bin/server/Xusage.txt",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/server/Xusage.txt",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "e0448d8ac5a0ddee4ad91c6d373ae6467b3b4595",
       "size": 8557736,
       "path": "jre_default/jre-8u281-windows-x64/bin/server/jvm.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/server/jvm.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "2c5292f7bb2c851261f504de57d094c5ab36e333",
       "size": 41640,
       "path": "jre_default/jre-8u281-windows-x64/bin/jabswitch.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jabswitch.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "837a4a0aa46f6e54604f7002bb74bab252a69367",
       "size": 356008,
       "path": "jre_default/jre-8u281-windows-x64/bin/jp2iexp.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jp2iexp.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "e1ccc066d8d4b1eb76d68baa64049b0b8db7e6f3",
       "size": 40104,
       "path": "jre_default/jre-8u281-windows-x64/bin/jsound.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jsound.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "fc5c9fa077eceb5886e3b88fc94ad08937f6387b",
       "size": 52392,
       "path": "jre_default/jre-8u281-windows-x64/bin/verify.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/verify.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "d28266c7ede971dc875360eb1f5ea8571693603e",
       "size": 12224,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-rtlsupport-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-rtlsupport-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "13fa9458be298dde5573e83f0eaa099d88c4fe59",
       "size": 190120,
       "path": "jre_default/jre-8u281-windows-x64/bin/fxplugins.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/fxplugins.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "9b43a40a7b498e02f96107e1524fe2f4112d36ae",
       "size": 14280,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-localization-l1-2-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-localization-l1-2-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "88110286f8ccb34e590f2810d052b92063a29354",
       "size": 70312,
       "path": "jre_default/jre-8u281-windows-x64/bin/j2pkcs11.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/j2pkcs11.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "3613a572b462845d6478a92a94769885da0843af",
       "size": 13768,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-filesystem-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-filesystem-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "c6251abff887789f1f4fc6b9d85705788379d149",
       "size": 12224,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-memory-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-memory-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "f3cb3ee4635df14b99525f1ec1bf287bcef4e722",
       "size": 100008,
       "path": "jre_default/jre-8u281-windows-x64/bin/prism_sw.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/prism_sw.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "b11cd13b385201dcfc0c0a493c4590975159b902",
       "size": 41128,
       "path": "jre_default/jre-8u281-windows-x64/bin/management.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/management.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "3fae25b81dc65923c1911649ed19f193adc7bdde",
       "size": 19904,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-multibyte-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-multibyte-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "f801d4f4683216f397a4a7de068093ef9d721689",
       "size": 33448,
       "path": "jre_default/jre-8u281-windows-x64/bin/dt_shmem.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/dt_shmem.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "29cd67219b65339b637a1716a78221915ceb4370",
       "size": 11712,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-interlocked-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-interlocked-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "0913ab720bd692abcdb18a2609df6a7f85d96db3",
       "size": 12232,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-processthreads-l1-1-1.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-processthreads-l1-1-1.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "8f847a4ca5b1ae13a6c8ae966d1b16c569a3a17f",
       "size": 96936,
       "path": "jre_default/jre-8u281-windows-x64/bin/ssvagent.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/ssvagent.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "4c4ee011714f08a0171173a9ccfcba63e68622de",
       "size": 254632,
       "path": "jre_default/jre-8u281-windows-x64/bin/javacpl.cpl",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/javacpl.cpl",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "af3b172ed825dbffc86b6bac3db15c4313e9ac08",
       "size": 28840,
       "path": "jre_default/jre-8u281-windows-x64/bin/dt_socket.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/dt_socket.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "5d1fc0885a6ffde2803f8080696afbb3ebcda8c8",
       "size": 163496,
       "path": "jre_default/jre-8u281-windows-x64/bin/hprof.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/hprof.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "ce7e3f06f7e74c5ec367cc7c9fa3f0c38cd2f307",
       "size": 102568,
       "path": "jre_default/jre-8u281-windows-x64/bin/javacpl.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/javacpl.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "cb85cae8d5aa5992a7a25ec6ce7799662d90daaf",
       "size": 18600,
       "path": "jre_default/jre-8u281-windows-x64/bin/JAWTAccessBridge-64.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/JAWTAccessBridge-64.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "04b3f21cbba6d59a61cd839ae3192ea111856f65",
       "size": 15304,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-file-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-file-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "192c06bafc5a45bd2f98e7c385853d255157afa8",
       "size": 17576,
       "path": "jre_default/jre-8u281-windows-x64/bin/jawt.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jawt.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "38db711db8f27276eb5c96156289b1d323333663",
       "size": 132776,
       "path": "jre_default/jre-8u281-windows-x64/bin/prism_d3d.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/prism_d3d.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "7889ca20462fec79cfcef497639c037e99350a7f",
       "size": 20648,
       "path": "jre_default/jre-8u281-windows-x64/bin/java-rmi.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/java-rmi.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "587834e0ca8670cfcb178f79564a4d17f21599a1",
       "size": 150696,
       "path": "jre_default/jre-8u281-windows-x64/bin/jp2launcher.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jp2launcher.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "de29cbbd23a98bcf7bb5aef750cac42b8172e567",
       "size": 262312,
       "path": "jre_default/jre-8u281-windows-x64/bin/t2k.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/t2k.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "e4fa6254623a2b4cdea61712cdfa9c91aa905f18",
       "size": 16328,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-runtime-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-runtime-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "32dd5fdab96a6693c27c8b6cd8914ce213164336",
       "size": 20648,
       "path": "jre_default/jre-8u281-windows-x64/bin/keytool.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/keytool.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "170904855f49308efeef76abcbecb1c70c9f38b2",
       "size": 20648,
       "path": "jre_default/jre-8u281-windows-x64/bin/klist.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/klist.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "41d496159e826e894988ad1dcca7918d10e793e5",
       "size": 164008,
       "path": "jre_default/jre-8u281-windows-x64/bin/java.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/java.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "492bb8c231aae9d5f5af565abb208a706fb2b130",
       "size": 17864,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-stdio-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-stdio-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "554891d7f158d51c5b2d801804740569cc632c54",
       "size": 20648,
       "path": "jre_default/jre-8u281-windows-x64/bin/rmid.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/rmid.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "e51ffbddbf63dde1b216dccc753ad810e91abc58",
       "size": 11720,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-util-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-util-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "c09ac014155a9c6a7153817e1abf07193703a375",
       "size": 213672,
       "path": "jre_default/jre-8u281-windows-x64/bin/splashscreen.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/splashscreen.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "c1a4ce4ded47740d3518cd1ff9e9ce277d959335",
       "size": 11720,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-debug-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-debug-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "04c49fb609982375ede216303f18abac14d0d4d0",
       "size": 20648,
       "path": "jre_default/jre-8u281-windows-x64/bin/jjs.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jjs.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "7922932d87d3e32ce708f071c02fb86d33562530",
       "size": 14272,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-processthreads-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-processthreads-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "07ce4b878c25b2d9d1c48c462f1623ae3821fcef",
       "size": 12744,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-sysinfo-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-sysinfo-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "aa2dfeae2d584994a2411c9c61e70b73c3c4e88d",
       "size": 21160,
       "path": "jre_default/jre-8u281-windows-x64/bin/tnameserv.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/tnameserv.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "3e0189d2a1968d7f54e721b1c8949487ef11b871",
       "size": 12744,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-processenvironment-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-processenvironment-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "b7674cd5b71527691cc1108ed76a3a05a83d1a1b",
       "size": 140968,
       "path": "jre_default/jre-8u281-windows-x64/bin/sunec.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/sunec.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "2f72c178781ea9f9b549a407a2590f5255cc441b",
       "size": 25256,
       "path": "jre_default/jre-8u281-windows-x64/bin/jp2native.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jp2native.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "132c9ade61d574aa318e835eb78c4cccddefdea2",
       "size": 12736,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-libraryloader-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-libraryloader-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "079218bb58f2256148a0aa04a7adf10a1849cd50",
       "size": 20648,
       "path": "jre_default/jre-8u281-windows-x64/bin/bci.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/bci.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "29fb9af50458df43ef40bfc8f0f516d0c0a106fd",
       "size": 85784,
       "path": "jre_default/jre-8u281-windows-x64/bin/vcruntime140.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/vcruntime140.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "752365939c5f4a1f378ab136e6474bbdda1af19a",
       "size": 31400,
       "path": "jre_default/jre-8u281-windows-x64/bin/jfr.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jfr.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "0ac7054b9a46aeaae965aa5f6a9ee423e9fca1b7",
       "size": 619176,
       "path": "jre_default/jre-8u281-windows-x64/bin/glib-lite.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/glib-lite.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "0fb2a7e7f93c77cb7c73b705376b5d9e25c02975",
       "size": 22696,
       "path": "jre_default/jre-8u281-windows-x64/bin/j2pcsc.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/j2pcsc.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "a55d2db79bb903c2d3f78da1d7cfda141064590b",
       "size": 73384,
       "path": "jre_default/jre-8u281-windows-x64/bin/javafx_font.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/javafx_font.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "c76913bc9dabe37b927a1857705705bbceab809e",
       "size": 166568,
       "path": "jre_default/jre-8u281-windows-x64/bin/javafx_iio.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/javafx_iio.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "5557293b3bf1aa8357617d3ea331c85a9d44bb24",
       "size": 348328,
       "path": "jre_default/jre-8u281-windows-x64/bin/jp2ssv.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jp2ssv.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "5bdf9e3f1ccd272c20e85dc3782065ce2cda4285",
       "size": 218280,
       "path": "jre_default/jre-8u281-windows-x64/bin/unpack200.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/unpack200.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "956ac5a6127622b99dcf8e6e1256b0d7ec0d5a34",
       "size": 20648,
       "path": "jre_default/jre-8u281-windows-x64/bin/kinit.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/kinit.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "60cf810b7ad8f460d0b8783ce5e5bbcd61c82f1a",
       "size": 11712,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-datetime-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-datetime-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "d52aa48e73bf59cd790ba4c2f5cda631822e4a04",
       "size": 164008,
       "path": "jre_default/jre-8u281-windows-x64/bin/eula.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/eula.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "906ac1f3a933dd57798ae826bbefa3096c20d424",
       "size": 14280,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-time-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-time-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "0122c4b13235882f538752c5a8daa3e1fbae9463",
       "size": 230568,
       "path": "jre_default/jre-8u281-windows-x64/bin/wsdetect.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/wsdetect.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "71e0036364fd49e3e535093e665f15e05a3bde8f",
       "size": 11720,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-namedpipe-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-namedpipe-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "34f0db8efc41a14e57b5d03410400709cf8d3141",
       "size": 20648,
       "path": "jre_default/jre-8u281-windows-x64/bin/servertool.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/servertool.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "23f7adb866001d83c4471d09256a1b97d2c33e09",
       "size": 20648,
       "path": "jre_default/jre-8u281-windows-x64/bin/policytool.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/policytool.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "088c5848a407342474dc3b3b78a76b016ef9b06f",
       "size": 908968,
       "path": "jre_default/jre-8u281-windows-x64/bin/gstreamer-lite.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/gstreamer-lite.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "eae814c9c41e3d333f43890ed7dafa3575e4c50e",
       "size": 18368,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-string-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-crt-string-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "4a7a7a99900e41ff8a359ca85949acd828ddb068",
       "size": 12224,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-console-l1-2-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-console-l1-2-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "202e5d5f1ecada4fdb93f1908b7498dc307b640b",
       "size": 192168,
       "path": "jre_default/jre-8u281-windows-x64/bin/WindowsAccessBridge-64.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/WindowsAccessBridge-64.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "b0ba0c4cf1d8b2b94532aa1880310f28e87756ec",
       "size": 11720,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-errorhandling-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-errorhandling-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "cf778a77ae869d32bda9e8f07cf7cee184b9db45",
       "size": 197800,
       "path": "jre_default/jre-8u281-windows-x64/bin/jpeg.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jpeg.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "efb55b885b4dae389919f3cb5cadf7eebce62a63",
       "size": 208040,
       "path": "jre_default/jre-8u281-windows-x64/bin/jdwp.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jdwp.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "22cb9005419bf2af52fd50823ce16791dbaf740d",
       "size": 20648,
       "path": "jre_default/jre-8u281-windows-x64/bin/ktab.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/ktab.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "0feb824d22b6beeb97bce58225688cb84ac809c7",
       "size": 11720,
       "path": "jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-string-l1-1-0.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/api-ms-win-core-string-l1-1-0.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "685485b7cfd294c23a49a67951c082b76472631c",
       "size": 1502888,
       "path": "jre_default/jre-8u281-windows-x64/bin/awt.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/awt.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "8a47c02495f39188846d351cc28c7619af8f08e4",
       "size": 60867752,
       "path": "jre_default/jre-8u281-windows-x64/bin/jfxwebkit.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/jfxwebkit.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "5899265b5197108e482479bb73607b529b7b6803",
       "size": 20648,
       "path": "jre_default/jre-8u281-windows-x64/bin/rmiregistry.exe",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/rmiregistry.exe",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "999219efc3178cd9c23dadfb5c63dbc7052cb755",
       "size": 43176,
       "path": "jre_default/jre-8u281-windows-x64/bin/sunmscapi.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/sunmscapi.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "e5158f961a27a3d7e93f03a6b78dd13696bff1ff",
       "size": 23208,
       "path": "jre_default/jre-8u281-windows-x64/bin/npt.dll",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/bin/npt.dll",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "a68353b6ae21632813bb8cfacc5741703b16fc7e",
       "size": 1115,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/jopt-simple.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/jopt-simple.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "03698bddf01c463ed4add5707136a067f9446551",
       "size": 2126,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/relaxngcc.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/relaxngcc.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "3a2280a0fc1b05a3ccdcd328e6c9d9d47abdbc66",
       "size": 3992,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/jpeg.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/jpeg.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "2b95e8949e7d1dca8dcfc4d822357863fe67341e",
       "size": 1597,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/relaxngdatatype.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/relaxngdatatype.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "4337452d96ac8371f0a91837317ee95c02c0f764",
       "size": 1173,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/lcms.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/lcms.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "b40cdb05866dac35107b6b1b1a4f74ef6a5e5da6",
       "size": 11493,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/bcel.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/bcel.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "80b2b391c1ff687d693218d72aca31c190b4fdad",
       "size": 1341,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/thaidict.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/thaidict.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "7890596300f139834f6a32d16210337261fb5498",
       "size": 1293,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/giflib.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/giflib.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "31656532c09b14db067b27f61ac2204ae85101b2",
       "size": 1153,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/jcup.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/jcup.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "2927514cb727874819dc25ae9bf781ca6ad11b9b",
       "size": 5820,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/libpng.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/libpng.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "cc76c0a7b630f1fa56dd457f54cfdab531031986",
       "size": 1158,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/relaxngom.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/relaxngom.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "7e5cb50c5a1daca603061e00d38193d1c50b72af",
       "size": 1497,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/dynalink.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/dynalink.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "7f9c85ac9d5a2b534d427bb6ca3f7e1c28b86e99",
       "size": 1415,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/cryptix.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/cryptix.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "cccc59ce234d3911dfd1ca4fac9dac17ec2ed55b",
       "size": 11686,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/xmlresolver.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/xmlresolver.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "b290a0b013bd477efa51c2f32b6380ad18c1a722",
       "size": 1006,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/zlib.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/zlib.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "93f5b4d5b0beaaca3cb9832645ed8b2dafc0072a",
       "size": 3023,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/dom.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/dom.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "37bba4f3af6197ccd2fb73fbe74a211b52513492",
       "size": 11960,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/santuario.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/santuario.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "9b16ad5c7eeac982ab077569bd73a15625e66693",
       "size": 1104,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/joni.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/joni.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "303a33d78c0b836681e2dd01313084dae2208f5c",
       "size": 1580,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/asm.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/asm.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "1003665d1b3b1c0aeeec8297f6810988f242f1d1",
       "size": 3182,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/cldr.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/cldr.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "b1783ddcb9e112987deb97e14d30be27df7061d0",
       "size": 2126,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/pkcs11wrapper.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/pkcs11wrapper.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "8eabfcd5c0de57f253a016618ebf3e02543c85dd",
       "size": 2398,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/unicode.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/unicode.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "be09fa29c875f3957947a3a93b2d5f4063fcbd82",
       "size": 2930,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/icu.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/icu.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "dcc9c36e4ffb3ae40e8ac97c4be457cb2580aef3",
       "size": 5732,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/mesa3d.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/mesa3d.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "0c9427f433e516e7cd2a2f292eb9d0a0a61010d3",
       "size": 2957,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/freebxml.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/freebxml.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "0d5706cb3c0bd0a7c036cd03e4751d132a0e4074",
       "size": 162,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/colorimaging.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/colorimaging.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "d07f52befde05615a38cde5947f0b4f09d57b5a9",
       "size": 12261,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/xalan.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/xalan.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "8f958ab754dcf1357bc9113fc39550059484f630",
       "size": 1859,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/pkcs11cryptotoken.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/pkcs11cryptotoken.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "293e0e53e2e49bcc7665eaf5f2e839b086caea76",
       "size": 29228,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/ecc.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/ecc.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "b0cb2ab480cadb37fd0502e2ebd7fa52b1d36ecb",
       "size": 11842,
       "path": "jre_default/jre-8u281-windows-x64/legal/jdk/xerces.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/jdk/xerces.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "9f1a38cfbfd6561b0129a80e5ea939ddee62c5a6",
       "size": 27618,
       "path": "jre_default/jre-8u281-windows-x64/legal/javafx/glib.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/javafx/glib.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "f95b93cf73eb9ca8a0ce94b8114bb81932dce8f3",
       "size": 2158,
       "path": "jre_default/jre-8u281-windows-x64/legal/javafx/jpeg_fx.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/javafx/jpeg_fx.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "3438ab2bd0029853ae64d59eac1b7a0e07b8dad6",
       "size": 27570,
       "path": "jre_default/jre-8u281-windows-x64/legal/javafx/webkit.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/javafx/webkit.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "6c4ee4d392efdad007ff360d28ee9964c7aae379",
       "size": 21086,
       "path": "jre_default/jre-8u281-windows-x64/legal/javafx/icu_web.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/javafx/icu_web.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "2484425df3be1049de4016ed88e5518aa9751b35",
       "size": 1165,
       "path": "jre_default/jre-8u281-windows-x64/legal/javafx/directshow.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/javafx/directshow.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "be2174703b4c54d1919b76f9e9e98556c1f6cb5c",
       "size": 1177,
       "path": "jre_default/jre-8u281-windows-x64/legal/javafx/libffi.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/javafx/libffi.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "81912ee0166ac5df7d52c10a75b33cf5f5472297",
       "size": 3031,
       "path": "jre_default/jre-8u281-windows-x64/legal/javafx/libxslt.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/javafx/libxslt.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "65de4035dbd83b087d420936b8e9ad806f49b217",
       "size": 1346,
       "path": "jre_default/jre-8u281-windows-x64/legal/javafx/libxml2.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/javafx/libxml2.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "61efa1786c6871f9c2f53678dcfc144752ad01ce",
       "size": 5732,
       "path": "jre_default/jre-8u281-windows-x64/legal/javafx/mesa3d.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/javafx/mesa3d.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "252c1e15d4233210901e4e286af89643dbf31d09",
       "size": 27646,
       "path": "jre_default/jre-8u281-windows-x64/legal/javafx/gstreamer.md",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/legal/javafx/gstreamer.md",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "f90331df1e5badeadc501d8dd70714c62a920204",
       "size": 46,
       "path": "jre_default/jre-8u281-windows-x64/README.txt",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/README.txt",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "f3a05b8b40800cdeadcc0d301247cb5c9f8eb6d0",
       "size": 426,
       "path": "jre_default/jre-8u281-windows-x64/release",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/release",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "b3f41c7b42daba14268b5dc4ca1ced8ef4a2c329",
       "size": 955,
       "path": "jre_default/jre-8u281-windows-x64/Welcome.html",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/Welcome.html",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "cc410c7a5757559442268906846e8f4d6c7d7973",
       "size": 3244,
       "path": "jre_default/jre-8u281-windows-x64/COPYRIGHT",
       "relativeUrl": "starter-app/jre_default/jre-8u281-windows-x64/COPYRIGHT",
-      "executable": false
+      "executable": false,
+      "link": ""
     }
   ],
   "remoteServerSHA1": false

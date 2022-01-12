@@ -8,7 +8,7 @@
           ],
           "resources": [
             {
-              "sha1": "64445d7db9dc54824db4725df7e98605f86148a8",
+              "sha1": "4cfead64b05b4852a0289bc5460bf70c7c3a511b",
               "size": 0,
               "path": "jvms/windows/x32/jre_default/jre-8u111-windows-i586.json",
               "relativeUrl": "jvms/windows/x32/jre_default/jre-8u111-windows-i586.json",
@@ -25,7 +25,7 @@
           ],
           "resources": [
             {
-              "sha1": "ff208d4a5b30d0a49fa1a5fdc55f6a74b92c0d24",
+              "sha1": "fdd244604575ae1b273f5b0e17b18a6f8cc28ffe",
               "size": 0,
               "path": "jvms/windows/x64/jre_default/jre-8u281-windows-x64.json",
               "relativeUrl": "jvms/windows/x64/jre_default/jre-8u281-windows-x64.json",
@@ -44,7 +44,7 @@
           ],
           "resources": [
             {
-              "sha1": "52ee7ad2bb6c9ec70f03119d824d28c1eba3e0a2",
+              "sha1": "d2a26ce9644304d07c0c233603959142c2d2614a",
               "size": 0,
               "path": "jvms/macosx/x64/jre_default/jdk1.8.0_301.jdk.json",
               "relativeUrl": "jvms/macosx/x64/jre_default/jdk1.8.0_301.jdk.json",
@@ -63,7 +63,7 @@
           ],
           "resources": [
             {
-              "sha1": "373519ac9ad19f16a127a43ece7015fdf86bdb37",
+              "sha1": "d8646b3d0ffc40169e43f70bfffce3f4bd69e83f",
               "size": 0,
               "path": "jvms/linux/x32/jre_default/jre-8u281-linux-i586.json",
               "relativeUrl": "jvms/linux/x32/jre_default/jre-8u281-linux-i586.json",
@@ -80,7 +80,7 @@
           ],
           "resources": [
             {
-              "sha1": "33e13d2d7e7c48c25b5365d43e55ddfc4e3202f4",
+              "sha1": "88959ca6b65e0172e802c136ce0e3ab2eb47f68e",
               "size": 0,
               "path": "jvms/linux/x64/jre_default/jre-8u281-linux-x64.json",
               "relativeUrl": "jvms/linux/x64/jre_default/jre-8u281-linux-x64.json",

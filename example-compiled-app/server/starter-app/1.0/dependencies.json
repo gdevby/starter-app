@@ -1,6 +1,6 @@
 {
   "repositories": [
-     "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
+    "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
   ],
   "resources": [
     {
@@ -8,21 +8,24 @@
       "size": 290339,
       "path": "dependencies/logback-classic-1.2.3.jar",
       "relativeUrl": "starter-app/1.0/dependencies/logback-classic-1.2.3.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "864344400c3d4d92dfeb0a305dc87d953677c03c",
       "size": 471901,
       "path": "dependencies/logback-core-1.2.3.jar",
       "relativeUrl": "starter-app/1.0/dependencies/logback-core-1.2.3.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     },
     {
       "sha1": "da76ca59f6a57ee3102f8f9bd9cee742973efa8a",
       "size": 41203,
       "path": "dependencies/slf4j-api-1.7.25.jar",
       "relativeUrl": "starter-app/1.0/dependencies/slf4j-api-1.7.25.jar",
-      "executable": false
+      "executable": false,
+      "link": ""
     }
   ],
   "remoteServerSHA1": false

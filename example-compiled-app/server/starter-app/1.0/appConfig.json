@@ -9,7 +9,8 @@
   ],
   "jvmArguments": [
     "-Xmx512m",
-    "-Dfile.encoding\u003dUTF8"
+    "-Dfile.encoding\u003dUTF8",
+    "-Djava.net.preferIPv4Stack\u003dtrue"
   ],
   "appFileRepo": {
     "repositories": [
@@ -21,22 +22,24 @@
         "size": 4952,
         "path": "starter-app-1.0.jar",
         "relativeUrl": "starter-app/1.0/starter-app-1.0.jar",
-        "executable": false
+        "executable": false,
+        "link": ""
       }
     ],
     "remoteServerSHA1": false
   },
   "appResources": {
     "repositories": [
-     "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
+      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
     ],
     "resources": [
       {
-        "sha1": "79e0329ee2221d18d0b09b180887ef562ad069d5",
-        "size": 1710,
+        "sha1": "af92140aed3cb923f17348184f28e5273de9c1c9",
+        "size": 1904,
         "path": "resources.json",
         "relativeUrl": "starter-app/1.0/resources.json",
-        "executable": false
+        "executable": false,
+        "link": ""
       }
     ],
     "remoteServerSHA1": false
@@ -47,26 +50,28 @@
     ],
     "resources": [
       {
-        "sha1": "84b59a72b5dfd3206ff512d9e21cac701ae58823",
-        "size": 849,
+        "sha1": "579dc0a0395a66452f8434f3050d07587a19d568",
+        "size": 971,
         "path": "dependencies.json",
         "relativeUrl": "starter-app/1.0/dependencies.json",
-        "executable": false
+        "executable": false,
+        "link": ""
       }
     ],
     "remoteServerSHA1": false
   },
   "javaRepo": {
     "repositories": [
-     "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
+      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
     ],
     "resources": [
       {
-        "sha1": "73803f93c95e695e3da6c038d7e9dc4c33d911a8",
-        "size": 2715,
+        "sha1": "7c90cdbfc8d40825481abf70ea0ccbc337ea9904",
+        "size": 3055,
         "path": "starter-app/javaConfig.json",
         "relativeUrl": "starter-app/javaConfig.json",
-        "executable": false
+        "executable": false,
+        "link": ""
       }
     ],
     "remoteServerSHA1": false
