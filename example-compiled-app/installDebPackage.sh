@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo apt update
-sudo apt install openjdk-8-jre
+sudo apt install -y openjdk-8-jre
 sudo apt --fix-broken install
 wget https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/bootstrapinstaller.deb
 sudo chmod +x bootstrapinstaller.deb
