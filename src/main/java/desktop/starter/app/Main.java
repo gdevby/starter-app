@@ -25,9 +25,8 @@ public class Main extends Application {
         Parent root = FXMLLoader.load(Paths.get("resources/sample.fxml").toUri().toURL(),bundle);
         primaryStage.setTitle("Hello World");
         primaryStage.setScene(new Scene(root));
-        primaryStage.show();
         System.out.println("starter can be closed");
-        
+        primaryStage.show();
     }
     public static PropertyResourceBundle test() throws IOException {
     	try (FileInputStream fis = new FileInputStream("resources/bundles/lang_ru.properties")) {
