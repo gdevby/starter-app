@@ -36,6 +36,11 @@ root {
 }
 */
 
-.root {
-     -fx-background-image: url("background.jpg");
+.BorderPane {
+    -fx-background-image: url("background.jpg");
 }
+.scroll-pane
+    {
+        -fx-hbar-policy : never;
+        -fx-vbar-policy : never;
+    }

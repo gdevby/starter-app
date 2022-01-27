@@ -4,8 +4,8 @@
   ],
   "resources": [
     {
-      "sha1": "1a9e131b8a3593b094046b770c1524981277943c",
-      "size": 568,
+      "sha1": "2e7db910ba8644012820abda77f856bc9cfa0093",
+      "size": 883,
       "path": "resources/sample.fxml",
       "relativeUrl": "starter-app/1.0/resources/sample.fxml",
       "executable": false,
@@ -20,8 +20,8 @@
       "link": ""
     },
     {
-      "sha1": "3169ce44e9d296b7da16e98748f3ea3b0119787f",
-      "size": 1789,
+      "sha1": "5de523d0d9ec6e3e49015bfa4b59972e71def6a3",
+      "size": 1884,
       "path": "resources/Login.css",
       "relativeUrl": "starter-app/1.0/resources/Login.css",
       "executable": false,
@@ -44,16 +44,16 @@
       "link": ""
     },
     {
-      "sha1": "fd3211e0c3806f423f7c66a1132472b76cb4046e",
-      "size": 34,
+      "sha1": "2669de47b62b634b4a104940b241cc5174fbb004",
+      "size": 179,
       "path": "resources/bundles/lang_en.properties",
       "relativeUrl": "starter-app/1.0/resources/bundles/lang_en.properties",
       "executable": false,
       "link": ""
     },
     {
-      "sha1": "998988fe215478fafbbb3ca12180de27c9b70c54",
-      "size": 202,
+      "sha1": "100c4e37aabed49d11a7ffb586fb4e046efbdb37",
+      "size": 528,
       "path": "resources/bundles/lang_ru.properties",
       "relativeUrl": "starter-app/1.0/resources/bundles/lang_ru.properties",
       "executable": false,
