@@ -14,14 +14,14 @@
   ],
   "appFileRepo": {
     "repositories": [
-      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
+      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
     ],
     "resources": [
       {
         "sha1": "01b537c93ef8d3f9f6df9aa21d8619d3c03c56ed",
         "size": 4942,
         "path": "starter-app-1.0.jar",
-        "relativeUrl": "starter-app/1.0/starter-app-1.0.jar",
+        "relativeUrl": "1.0/starter-app-1.0.jar",
         "executable": false,
         "link": ""
       }
@@ -30,14 +30,14 @@
   },
   "appResources": {
     "repositories": [
-      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
+      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
     ],
     "resources": [
       {
-        "sha1": "69ea99c4678b6712c07adb4762e793c527d2f01e",
-        "size": 1905,
+        "sha1": "f0343e726ddda7625198599e253bcb784b8a7794",
+        "size": 1917,
         "path": "resources.json",
-        "relativeUrl": "starter-app/1.0/resources.json",
+        "relativeUrl": "1.0/resources.json",
         "executable": false,
         "link": ""
       }
@@ -46,14 +46,14 @@
   },
   "appDependencies": {
     "repositories": [
-      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
+      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
     ],
     "resources": [
       {
-        "sha1": "579dc0a0395a66452f8434f3050d07587a19d568",
-        "size": 971,
+        "sha1": "06034d68848dd4ac683f1d92e564ae3b8c646e48",
+        "size": 983,
         "path": "dependencies.json",
-        "relativeUrl": "starter-app/1.0/dependencies.json",
+        "relativeUrl": "1.0/dependencies.json",
         "executable": false,
         "link": ""
       }
@@ -62,14 +62,14 @@
   },
   "javaRepo": {
     "repositories": [
-      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
+      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
     ],
     "resources": [
       {
-        "sha1": "5999b6c1c51a9e939eda48bc6fc080b5ba8fe971",
-        "size": 3055,
-        "path": "starter-app/javaConfig.json",
-        "relativeUrl": "starter-app/javaConfig.json",
+        "sha1": "19633dca228c5b345d815cb2f42a88b1eeacb5bd",
+        "size": 3115,
+        "path": "javaConfig.json",
+        "relativeUrl": "javaConfig.json",
         "executable": false,
         "link": ""
       }

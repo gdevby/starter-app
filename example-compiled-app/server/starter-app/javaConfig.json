@@ -1,50 +1,14 @@
 {
   "jvms": {
-    "WINDOWS": {
-      "x32": {
-        "jre_default": {
-          "repositories": [
-            "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
-          ],
-          "resources": [
-            {
-              "sha1": "4cfead64b05b4852a0289bc5460bf70c7c3a511b",
-              "size": 0,
-              "path": "jvms/windows/x32/jre_default/jre-8u111-windows-i586.json",
-              "relativeUrl": "jvms/windows/x32/jre_default/jre-8u111-windows-i586.json",
-              "executable": false
-            }
-          ],
-          "remoteServerSHA1": false
-        }
-      },
-      "x64": {
-        "jre_default": {
-          "repositories": [
-            "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
-          ],
-          "resources": [
-            {
-              "sha1": "fdd244604575ae1b273f5b0e17b18a6f8cc28ffe",
-              "size": 0,
-              "path": "jvms/windows/x64/jre_default/jre-8u281-windows-x64.json",
-              "relativeUrl": "jvms/windows/x64/jre_default/jre-8u281-windows-x64.json",
-              "executable": false
-            }
-          ],
-          "remoteServerSHA1": false
-        }
-      }
-    },
     "MACOSX": {
       "x64": {
         "jre_default": {
           "repositories": [
-            "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
+            "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
           ],
           "resources": [
             {
-              "sha1": "d2a26ce9644304d07c0c233603959142c2d2614a",
+              "sha1": "bd57fde4517a2f4eaa2e1f3f96469c55fb1994bc",
               "size": 0,
               "path": "jvms/macosx/x64/jre_default/jdk1.8.0_301.jdk.json",
               "relativeUrl": "jvms/macosx/x64/jre_default/jdk1.8.0_301.jdk.json",
@@ -55,35 +19,71 @@
         }
       }
     },
-    "LINUX": {
-      "x32": {
+    "WINDOWS": {
+      "x64": {
         "jre_default": {
           "repositories": [
-            "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
+            "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
           ],
           "resources": [
             {
-              "sha1": "d8646b3d0ffc40169e43f70bfffce3f4bd69e83f",
+              "sha1": "f135f09f0aa0f7e2f841827e21cf6e112c62999e",
               "size": 0,
-              "path": "jvms/linux/x32/jre_default/jre-8u281-linux-i586.json",
-              "relativeUrl": "jvms/linux/x32/jre_default/jre-8u281-linux-i586.json",
+              "path": "jvms/windows/x64/jre_default/jre-8u281-windows-x64.json",
+              "relativeUrl": "jvms/windows/x64/jre_default/jre-8u281-windows-x64.json",
               "executable": false
             }
           ],
           "remoteServerSHA1": false
         }
       },
-      "x64": {
+      "x32": {
         "jre_default": {
           "repositories": [
-            "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
+            "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
           ],
           "resources": [
             {
-              "sha1": "88959ca6b65e0172e802c136ce0e3ab2eb47f68e",
+              "sha1": "61fc6222309c61e9af063086f48a7d6203fdc122",
+              "size": 0,
+              "path": "jvms/windows/x32/jre_default/jre-8u111-windows-i586.json",
+              "relativeUrl": "jvms/windows/x32/jre_default/jre-8u111-windows-i586.json",
+              "executable": false
+            }
+          ],
+          "remoteServerSHA1": false
+        }
+      }
+    },
+    "LINUX": {
+      "x64": {
+        "jre_default": {
+          "repositories": [
+            "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
+          ],
+          "resources": [
+            {
+              "sha1": "ab90be4f5bf1485e005b7ed4a2a0aa22c9944a65",
               "size": 0,
               "path": "jvms/linux/x64/jre_default/jre-8u281-linux-x64.json",
               "relativeUrl": "jvms/linux/x64/jre_default/jre-8u281-linux-x64.json",
+              "executable": false
+            }
+          ],
+          "remoteServerSHA1": false
+        }
+      },
+      "x32": {
+        "jre_default": {
+          "repositories": [
+            "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
+          ],
+          "resources": [
+            {
+              "sha1": "aac565ccad1d53187f38bc95164d631410860c34",
+              "size": 0,
+              "path": "jvms/linux/x32/jre_default/jre-8u281-linux-i586.json",
+              "relativeUrl": "jvms/linux/x32/jre_default/jre-8u281-linux-i586.json",
               "executable": false
             }
           ],

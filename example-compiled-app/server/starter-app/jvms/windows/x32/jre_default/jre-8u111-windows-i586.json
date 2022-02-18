@@ -1,13 +1,13 @@
 {
   "repositories": [
-    "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/"
+    "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
   ],
   "resources": [
     {
       "sha1": "82bb25303cf6835ac4b076575f27e8486dab9511",
       "size": 5548,
       "path": "jre_default/jre-8u111-windows-i586/lib/content-types.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/content-types.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/content-types.properties",
       "executable": false,
       "link": ""
     },
@@ -15,7 +15,7 @@
       "sha1": "9106985c327c84b1780a336a46ef6ec1a3ea5f50",
       "size": 10489,
       "path": "jre_default/jre-8u111-windows-i586/lib/fontconfig.properties.src",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/fontconfig.properties.src",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/fontconfig.properties.src",
       "executable": false,
       "link": ""
     },
@@ -23,7 +23,7 @@
       "sha1": "90d1c5582be5bd5942ff51773cc9a5f96e6bb4c3",
       "size": 3678,
       "path": "jre_default/jre-8u111-windows-i586/lib/fontconfig.bfc",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/fontconfig.bfc",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/fontconfig.bfc",
       "executable": false,
       "link": ""
     },
@@ -31,7 +31,7 @@
       "sha1": "2d5ed3b53072b184d67b1a4e26aec2df908ddc55",
       "size": 3928,
       "path": "jre_default/jre-8u111-windows-i586/lib/flavormap.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/flavormap.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/flavormap.properties",
       "executable": false,
       "link": ""
     },
@@ -39,7 +39,7 @@
       "sha1": "6a9e6b275e09076fbb97ce860eb3164b164b8a75",
       "size": 63607149,
       "path": "jre_default/jre-8u111-windows-i586/lib/rt.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/rt.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/rt.jar",
       "executable": false,
       "link": ""
     },
@@ -47,7 +47,7 @@
       "sha1": "56ed1c661eeede17b4fae8c9de7b5edbad387abc",
       "size": 2796,
       "path": "jre_default/jre-8u111-windows-i586/lib/psfont.properties.ja",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/psfont.properties.ja",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/psfont.properties.ja",
       "executable": false,
       "link": ""
     },
@@ -55,7 +55,7 @@
       "sha1": "ea8b077bdc74ec02dc67fc78b721ef1bd09e8955",
       "size": 1010725,
       "path": "jre_default/jre-8u111-windows-i586/lib/plugin.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/plugin.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/plugin.jar",
       "executable": false,
       "link": ""
     },
@@ -63,7 +63,7 @@
       "sha1": "fbd61d52534cdd0c15df332114d469c65d001e33",
       "size": 4226,
       "path": "jre_default/jre-8u111-windows-i586/lib/jvm.hprof.txt",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/jvm.hprof.txt",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/jvm.hprof.txt",
       "executable": false,
       "link": ""
     },
@@ -71,7 +71,7 @@
       "sha1": "3be2febe28723b1033ccdaa110eaf59bbd6d1f96",
       "size": 2126,
       "path": "jre_default/jre-8u111-windows-i586/lib/meta-index",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/meta-index",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/meta-index",
       "executable": false,
       "link": ""
     },
@@ -79,7 +79,7 @@
       "sha1": "aa327a22a49967f4d74afeee6726f505f209692f",
       "size": 10393,
       "path": "jre_default/jre-8u111-windows-i586/lib/psfontj2d.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/psfontj2d.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/psfontj2d.properties",
       "executable": false,
       "link": ""
     },
@@ -87,7 +87,7 @@
       "sha1": "b11994ee87cd3c15401dac76a1c718b5ccc1ab65",
       "size": 33932,
       "path": "jre_default/jre-8u111-windows-i586/lib/jfxswt.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/jfxswt.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/jfxswt.jar",
       "executable": false,
       "link": ""
     },
@@ -95,7 +95,7 @@
       "sha1": "89da8094484891f9ec1fa40c6c8b61f94c5869d0",
       "size": 2455,
       "path": "jre_default/jre-8u111-windows-i586/lib/logging.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/logging.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/logging.properties",
       "executable": false,
       "link": ""
     },
@@ -103,7 +103,7 @@
       "sha1": "21200eaad898ba4a2a8834a032efb6616fabb930",
       "size": 3998,
       "path": "jre_default/jre-8u111-windows-i586/lib/management/jmxremote.access",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/management/jmxremote.access",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/management/jmxremote.access",
       "executable": false,
       "link": ""
     },
@@ -111,7 +111,7 @@
       "sha1": "c1e0f01408bf20fbbb8b4810520c725f70050db5",
       "size": 2856,
       "path": "jre_default/jre-8u111-windows-i586/lib/management/jmxremote.password.template",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/management/jmxremote.password.template",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/management/jmxremote.password.template",
       "executable": false,
       "link": ""
     },
@@ -119,7 +119,7 @@
       "sha1": "e0451d8d7d9e84d7b1c39ec7d00993307a5cbbf1",
       "size": 14630,
       "path": "jre_default/jre-8u111-windows-i586/lib/management/management.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/management/management.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/management/management.properties",
       "executable": false,
       "link": ""
     },
@@ -127,7 +127,7 @@
       "sha1": "2e9f9ac287274532eb1f0d1afcefd7f3e97cc794",
       "size": 3376,
       "path": "jre_default/jre-8u111-windows-i586/lib/management/snmp.acl.template",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/management/snmp.acl.template",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/management/snmp.acl.template",
       "executable": false,
       "link": ""
     },
@@ -135,7 +135,7 @@
       "sha1": "bda4b15a3efa590b459f76c48b9a9c6237016c03",
       "size": 42036,
       "path": "jre_default/jre-8u111-windows-i586/lib/ext/sunec.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/ext/sunec.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/ext/sunec.jar",
       "executable": false,
       "link": ""
     },
@@ -143,7 +143,7 @@
       "sha1": "a8bb53a505d7002def70c7a8788b9a2ea8a1d7bc",
       "size": 1511,
       "path": "jre_default/jre-8u111-windows-i586/lib/ext/meta-index",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/ext/meta-index",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/ext/meta-index",
       "executable": false,
       "link": ""
     },
@@ -151,7 +151,7 @@
       "sha1": "49ed4a4a55d2521a69cd02cf324eefebca2ac14f",
       "size": 188012,
       "path": "jre_default/jre-8u111-windows-i586/lib/ext/access-bridge.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/ext/access-bridge.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/ext/access-bridge.jar",
       "executable": false,
       "link": ""
     },
@@ -159,7 +159,7 @@
       "sha1": "76ba0e08c6b3df9fb1551f00189323dac8fc818c",
       "size": 32699,
       "path": "jre_default/jre-8u111-windows-i586/lib/ext/sunmscapi.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/ext/sunmscapi.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/ext/sunmscapi.jar",
       "executable": false,
       "link": ""
     },
@@ -167,7 +167,7 @@
       "sha1": "54182c904a48364fc572e3a2631df14823c29cef",
       "size": 279427,
       "path": "jre_default/jre-8u111-windows-i586/lib/ext/sunjce_provider.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/ext/sunjce_provider.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/ext/sunjce_provider.jar",
       "executable": false,
       "link": ""
     },
@@ -175,7 +175,7 @@
       "sha1": "e3dfa1beb5daef45a85b5767a336d4c470b4fcbf",
       "size": 44516,
       "path": "jre_default/jre-8u111-windows-i586/lib/ext/jaccess.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/ext/jaccess.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/ext/jaccess.jar",
       "executable": false,
       "link": ""
     },
@@ -183,7 +183,7 @@
       "sha1": "e2fd06f3143199015e4db1941fa4e2fdac59c5c1",
       "size": 18195550,
       "path": "jre_default/jre-8u111-windows-i586/lib/ext/jfxrt.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/ext/jfxrt.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/ext/jfxrt.jar",
       "executable": false,
       "link": ""
     },
@@ -191,7 +191,7 @@
       "sha1": "9a7e455ba426e98a4721879c4115fc5156a9afc2",
       "size": 188021,
       "path": "jre_default/jre-8u111-windows-i586/lib/ext/access-bridge-32.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/ext/access-bridge-32.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/ext/access-bridge-32.jar",
       "executable": false,
       "link": ""
     },
@@ -199,7 +199,7 @@
       "sha1": "141519ed7b3409a07f08355ebaf9d08e4ecae047",
       "size": 1178872,
       "path": "jre_default/jre-8u111-windows-i586/lib/ext/localedata.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/ext/localedata.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/ext/localedata.jar",
       "executable": false,
       "link": ""
     },
@@ -207,7 +207,7 @@
       "sha1": "66f3d191da4e3df51c41488f2fd6825dedc882da",
       "size": 68923,
       "path": "jre_default/jre-8u111-windows-i586/lib/ext/zipfs.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/ext/zipfs.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/ext/zipfs.jar",
       "executable": false,
       "link": ""
     },
@@ -215,7 +215,7 @@
       "sha1": "504dc87601d078bb121e2f2fbe14219d48668280",
       "size": 8286,
       "path": "jre_default/jre-8u111-windows-i586/lib/ext/dnsns.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/ext/dnsns.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/ext/dnsns.jar",
       "executable": false,
       "link": ""
     },
@@ -223,7 +223,7 @@
       "sha1": "3f881e3b34693a96cd3d9e20d6aeabae98757359",
       "size": 250826,
       "path": "jre_default/jre-8u111-windows-i586/lib/ext/sunpkcs11.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/ext/sunpkcs11.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/ext/sunpkcs11.jar",
       "executable": false,
       "link": ""
     },
@@ -231,7 +231,7 @@
       "sha1": "a6a4f6f5ff578422369b7b502c113b2d55b10a81",
       "size": 3860502,
       "path": "jre_default/jre-8u111-windows-i586/lib/ext/cldrdata.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/ext/cldrdata.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/ext/cldrdata.jar",
       "executable": false,
       "link": ""
     },
@@ -239,7 +239,7 @@
       "sha1": "21bb6218d627b406c1267f01e3a7fca698e4b55c",
       "size": 2019023,
       "path": "jre_default/jre-8u111-windows-i586/lib/ext/nashorn.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/ext/nashorn.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/ext/nashorn.jar",
       "executable": false,
       "link": ""
     },
@@ -247,7 +247,7 @@
       "sha1": "489643ecd63f20958935825d6da913a2479dba41",
       "size": 2284288,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy.jar",
       "executable": false,
       "link": ""
     },
@@ -255,7 +255,7 @@
       "sha1": "37e5777b57abb384e81bc52c45e9f2b08186dc1c",
       "size": 634758,
       "path": "jre_default/jre-8u111-windows-i586/lib/jsse.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/jsse.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/jsse.jar",
       "executable": false,
       "link": ""
     },
@@ -263,7 +263,7 @@
       "sha1": "5d7d08a595f76322c51ae43ea966fbba6b69eebe",
       "size": 20065,
       "path": "jre_default/jre-8u111-windows-i586/lib/jfr/profile.jfc",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/jfr/profile.jfc",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/jfr/profile.jfc",
       "executable": false,
       "link": ""
     },
@@ -271,7 +271,7 @@
       "sha1": "1a64b68d0e7d43f8149faba94440be54f4f24527",
       "size": 20109,
       "path": "jre_default/jre-8u111-windows-i586/lib/jfr/default.jfc",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/jfr/default.jfc",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/jfr/default.jfc",
       "executable": false,
       "link": ""
     },
@@ -279,7 +279,7 @@
       "sha1": "eaaf57bfb00a0a351bb1a0383fced1cd9a1a569b",
       "size": 381,
       "path": "jre_default/jre-8u111-windows-i586/lib/management-agent.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/management-agent.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/management-agent.jar",
       "executable": false,
       "link": ""
     },
@@ -287,7 +287,7 @@
       "sha1": "42ebb0988124433b8f2a6e5d9a74ed41240bcfc6",
       "size": 1378,
       "path": "jre_default/jre-8u111-windows-i586/lib/calendars.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/calendars.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/calendars.properties",
       "executable": false,
       "link": ""
     },
@@ -295,7 +295,7 @@
       "sha1": "23258bcf6b835292dc44ee02d9703c6defe79226",
       "size": 3490933,
       "path": "jre_default/jre-8u111-windows-i586/lib/resources.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/resources.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/resources.jar",
       "executable": false,
       "link": ""
     },
@@ -303,7 +303,7 @@
       "sha1": "10c53c9fe9970d41a84cb45c883ea6c386482199",
       "size": 623,
       "path": "jre_default/jre-8u111-windows-i586/lib/i386/jvm.cfg",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/i386/jvm.cfg",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/i386/jvm.cfg",
       "executable": false,
       "link": ""
     },
@@ -311,7 +311,7 @@
       "sha1": "eb91253590526f7be7415839ccbf702683639c8c",
       "size": 8400,
       "path": "jre_default/jre-8u111-windows-i586/lib/tzmappings",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/tzmappings",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/tzmappings",
       "executable": false,
       "link": ""
     },
@@ -319,7 +319,7 @@
       "sha1": "1f481a2ba519eed76bb5ae48964c572d1ac314b3",
       "size": 560043,
       "path": "jre_default/jre-8u111-windows-i586/lib/jfr.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/jfr.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/jfr.jar",
       "executable": false,
       "link": ""
     },
@@ -327,7 +327,7 @@
       "sha1": "199dccaa94e9129a3649a09f8667b552803e1d0e",
       "size": 84355,
       "path": "jre_default/jre-8u111-windows-i586/lib/classlist",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/classlist",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/classlist",
       "executable": false,
       "link": ""
     },
@@ -335,7 +335,7 @@
       "sha1": "84aa425100740722e91f4725caf849e7863d12ba",
       "size": 13962,
       "path": "jre_default/jre-8u111-windows-i586/lib/hijrah-config-umalqura.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/hijrah-config-umalqura.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/hijrah-config-umalqura.properties",
       "executable": false,
       "link": ""
     },
@@ -343,7 +343,7 @@
       "sha1": "5887ea74cdbd7b555cd83bfa6ab7c17ce86485a3",
       "size": 103918,
       "path": "jre_default/jre-8u111-windows-i586/lib/tzdb.dat",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/tzdb.dat",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/tzdb.dat",
       "executable": false,
       "link": ""
     },
@@ -351,7 +351,7 @@
       "sha1": "633bf28e3fc60585c22176c68343101d29252ce7",
       "size": 56,
       "path": "jre_default/jre-8u111-windows-i586/lib/javafx.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/javafx.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/javafx.properties",
       "executable": false,
       "link": ""
     },
@@ -359,7 +359,7 @@
       "sha1": "6a2865e52918aa2a49fc215777dab8ac89d87b06",
       "size": 3091908,
       "path": "jre_default/jre-8u111-windows-i586/lib/charsets.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/charsets.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/charsets.jar",
       "executable": false,
       "link": ""
     },
@@ -367,7 +367,7 @@
       "sha1": "713acb9eff5f0b14a109e6c2771f62eac9b57d7c",
       "size": 1280,
       "path": "jre_default/jre-8u111-windows-i586/lib/images/cursors/cursors.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/images/cursors/cursors.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/images/cursors/cursors.properties",
       "executable": false,
       "link": ""
     },
@@ -375,7 +375,7 @@
       "sha1": "259edc45b4569427e8319895a444f4295d54348f",
       "size": 153,
       "path": "jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_CopyNoDrop32x32.gif",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_CopyNoDrop32x32.gif",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_CopyNoDrop32x32.gif",
       "executable": false,
       "link": ""
     },
@@ -383,7 +383,7 @@
       "sha1": "ae813939f9a52e7b59927f531ce8757636ff8082",
       "size": 165,
       "path": "jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_CopyDrop32x32.gif",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_CopyDrop32x32.gif",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_CopyDrop32x32.gif",
       "executable": false,
       "link": ""
     },
@@ -391,7 +391,7 @@
       "sha1": "4b3843cbd4f112a90d112a37957684c843d68e83",
       "size": 168,
       "path": "jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_LinkDrop32x32.gif",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_LinkDrop32x32.gif",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_LinkDrop32x32.gif",
       "executable": false,
       "link": ""
     },
@@ -399,7 +399,7 @@
       "sha1": "1333f489ac0506d7dc98656a515feeb6e87e27f9",
       "size": 147,
       "path": "jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_MoveDrop32x32.gif",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_MoveDrop32x32.gif",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_MoveDrop32x32.gif",
       "executable": false,
       "link": ""
     },
@@ -407,7 +407,7 @@
       "sha1": "259edc45b4569427e8319895a444f4295d54348f",
       "size": 153,
       "path": "jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_MoveNoDrop32x32.gif",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_MoveNoDrop32x32.gif",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_MoveNoDrop32x32.gif",
       "executable": false,
       "link": ""
     },
@@ -415,7 +415,7 @@
       "sha1": "259edc45b4569427e8319895a444f4295d54348f",
       "size": 153,
       "path": "jre_default/jre-8u111-windows-i586/lib/images/cursors/invalid32x32.gif",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/images/cursors/invalid32x32.gif",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/images/cursors/invalid32x32.gif",
       "executable": false,
       "link": ""
     },
@@ -423,7 +423,7 @@
       "sha1": "259edc45b4569427e8319895a444f4295d54348f",
       "size": 153,
       "path": "jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_LinkNoDrop32x32.gif",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_LinkNoDrop32x32.gif",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/images/cursors/win32_LinkNoDrop32x32.gif",
       "executable": false,
       "link": ""
     },
@@ -431,7 +431,7 @@
       "sha1": "6587f43b93527dd17abcd5699eb9682b6f08c09b",
       "size": 4464,
       "path": "jre_default/jre-8u111-windows-i586/lib/net.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/net.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/net.properties",
       "executable": false,
       "link": ""
     },
@@ -439,7 +439,7 @@
       "sha1": "4384ca5e4d32f7dd86d8baddd1e690730d74e694",
       "size": 98,
       "path": "jre_default/jre-8u111-windows-i586/lib/security/javaws.policy",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/security/javaws.policy",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/security/javaws.policy",
       "executable": false,
       "link": ""
     },
@@ -447,7 +447,7 @@
       "sha1": "c0112209a567b3b523cfed7041709f9440227968",
       "size": 2466,
       "path": "jre_default/jre-8u111-windows-i586/lib/security/java.policy",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/security/java.policy",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/security/java.policy",
       "executable": false,
       "link": ""
     },
@@ -455,7 +455,7 @@
       "sha1": "7d69ea3b385bc067738520f1b5c549e1084be285",
       "size": 3026,
       "path": "jre_default/jre-8u111-windows-i586/lib/security/US_export_policy.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/security/US_export_policy.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/security/US_export_policy.jar",
       "executable": false,
       "link": ""
     },
@@ -463,7 +463,7 @@
       "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
       "size": 0,
       "path": "jre_default/jre-8u111-windows-i586/lib/security/trusted.libraries",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/security/trusted.libraries",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/security/trusted.libraries",
       "executable": false,
       "link": ""
     },
@@ -471,7 +471,7 @@
       "sha1": "d4ffb3857eab403955ce9d156e46d056061e6a5a",
       "size": 4054,
       "path": "jre_default/jre-8u111-windows-i586/lib/security/blacklist",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/security/blacklist",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/security/blacklist",
       "executable": false,
       "link": ""
     },
@@ -479,7 +479,7 @@
       "sha1": "8870bef548310b648ef044db40c5ec609f896f0b",
       "size": 1253,
       "path": "jre_default/jre-8u111-windows-i586/lib/security/blacklisted.certs",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/security/blacklisted.certs",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/security/blacklisted.certs",
       "executable": false,
       "link": ""
     },
@@ -487,7 +487,7 @@
       "sha1": "2a6b5fbc476ea3a5ddfb4bf1f6cdf0c4da843bb1",
       "size": 112860,
       "path": "jre_default/jre-8u111-windows-i586/lib/security/cacerts",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/security/cacerts",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/security/cacerts",
       "executable": false,
       "link": ""
     },
@@ -495,7 +495,7 @@
       "sha1": "238b8826e110f58acb2e1959773b0a577cd4d569",
       "size": 3527,
       "path": "jre_default/jre-8u111-windows-i586/lib/security/local_policy.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/security/local_policy.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/security/local_policy.jar",
       "executable": false,
       "link": ""
     },
@@ -503,7 +503,7 @@
       "sha1": "ecaaf769b61a3a577726d697f1228cc0a23b7a3c",
       "size": 28204,
       "path": "jre_default/jre-8u111-windows-i586/lib/security/java.security",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/security/java.security",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/security/java.security",
       "executable": false,
       "link": ""
     },
@@ -511,7 +511,7 @@
       "sha1": "b5b95dd1ddcd3a433db14976e3b7f92664043536",
       "size": 4122,
       "path": "jre_default/jre-8u111-windows-i586/lib/currency.data",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/currency.data",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/currency.data",
       "executable": false,
       "link": ""
     },
@@ -519,7 +519,7 @@
       "sha1": "1b0334b79db481c3a59be6915d5118d760c97baa",
       "size": 3600,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_es.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/messages_es.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_es.properties",
       "executable": false,
       "link": ""
     },
@@ -527,7 +527,7 @@
       "sha1": "1c2b96673dddd3596890ef4fc22017d484a1f652",
       "size": 4072,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_zh_CN.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/messages_zh_CN.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_zh_CN.properties",
       "executable": false,
       "link": ""
     },
@@ -535,7 +535,7 @@
       "sha1": "37a57aad121c14c25e149206179728fa62203bf0",
       "size": 3752,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_zh_HK.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/messages_zh_HK.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_zh_HK.properties",
       "executable": false,
       "link": ""
     },
@@ -543,7 +543,7 @@
       "sha1": "20e7aec75f6d036d504277542e507eb7dc24aae8",
       "size": 8590,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/splash.gif",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/splash.gif",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/splash.gif",
       "executable": false,
       "link": ""
     },
@@ -551,7 +551,7 @@
       "sha1": "d989fe1b8f7904888d5102294ebefd28d932ecdb",
       "size": 3306,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_de.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/messages_de.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_de.properties",
       "executable": false,
       "link": ""
     },
@@ -559,7 +559,7 @@
       "sha1": "69bd2d03c2064f8679de5b4e430ea61b567c69c5",
       "size": 3409,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_fr.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/messages_fr.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_fr.properties",
       "executable": false,
       "link": ""
     },
@@ -567,7 +567,7 @@
       "sha1": "24e4951743521ab9a11381c77bd0cdb1ed30f5b5",
       "size": 3285,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_pt_BR.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/messages_pt_BR.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_pt_BR.properties",
       "executable": false,
       "link": ""
     },
@@ -575,7 +575,7 @@
       "sha1": "bf9e055b5ab138ad6d49769e2b7630b7938848d6",
       "size": 5712,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_ko.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/messages_ko.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_ko.properties",
       "executable": false,
       "link": ""
     },
@@ -583,7 +583,7 @@
       "sha1": "0ae4a5bda2a6d628fac51462390b503c99509fdc",
       "size": 15276,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/splash@2x.gif",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/splash@2x.gif",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/splash@2x.gif",
       "executable": false,
       "link": ""
     },
@@ -591,7 +591,7 @@
       "sha1": "37a57aad121c14c25e149206179728fa62203bf0",
       "size": 3752,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_zh_TW.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/messages_zh_TW.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_zh_TW.properties",
       "executable": false,
       "link": ""
     },
@@ -599,7 +599,7 @@
       "sha1": "ca3e18b5aea928a8465656c86970d9584d85ef7f",
       "size": 3409,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_sv.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/messages_sv.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_sv.properties",
       "executable": false,
       "link": ""
     },
@@ -607,7 +607,7 @@
       "sha1": "dbe49949308f28540a42ae6cd2ad58afbf615592",
       "size": 3223,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_it.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/messages_it.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_it.properties",
       "executable": false,
       "link": ""
     },
@@ -615,7 +615,7 @@
       "sha1": "f83e3db90728acba7e805e759e40ea5b6081d2c5",
       "size": 14156,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/ffjcext.zip",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/ffjcext.zip",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/ffjcext.zip",
       "executable": false,
       "link": ""
     },
@@ -623,7 +623,7 @@
       "sha1": "751170a7cdefcb1226604ac3f8196e06a04fd7ac",
       "size": 6349,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_ja.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/messages_ja.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/messages_ja.properties",
       "executable": false,
       "link": ""
     },
@@ -631,7 +631,7 @@
       "sha1": "d2bff9bbf7920ca743b81a0ee23b0719b4d057ca",
       "size": 12250,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/splash_11@2x-lic.gif",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/splash_11@2x-lic.gif",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/splash_11@2x-lic.gif",
       "executable": false,
       "link": ""
     },
@@ -639,7 +639,7 @@
       "sha1": "dc52841c708e3c1eb2a044088a43396d1291bb5e",
       "size": 2860,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/messages.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/messages.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/messages.properties",
       "executable": false,
       "link": ""
     },
@@ -647,7 +647,7 @@
       "sha1": "8def364e07f40142822df84b5bb4f50846cb5e4e",
       "size": 7805,
       "path": "jre_default/jre-8u111-windows-i586/lib/deploy/splash_11-lic.gif",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/deploy/splash_11-lic.gif",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/deploy/splash_11-lic.gif",
       "executable": false,
       "link": ""
     },
@@ -655,7 +655,7 @@
       "sha1": "27c9b302d2d47aae04fc1f4ef9127a2835a77853",
       "size": 149,
       "path": "jre_default/jre-8u111-windows-i586/lib/accessibility.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/accessibility.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/accessibility.properties",
       "executable": false,
       "link": ""
     },
@@ -663,7 +663,7 @@
       "sha1": "7913274c2f73bafcf888f09ff60990b100214ede",
       "size": 1044,
       "path": "jre_default/jre-8u111-windows-i586/lib/cmm/LINEAR_RGB.pf",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/cmm/LINEAR_RGB.pf",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/cmm/LINEAR_RGB.pf",
       "executable": false,
       "link": ""
     },
@@ -671,7 +671,7 @@
       "sha1": "4f7eed05b8f0eea7bcdc8f8f7aaeb1925ce7b144",
       "size": 274474,
       "path": "jre_default/jre-8u111-windows-i586/lib/cmm/PYCC.pf",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/cmm/PYCC.pf",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/cmm/PYCC.pf",
       "executable": false,
       "link": ""
     },
@@ -679,7 +679,7 @@
       "sha1": "27f93961d66b8230d0cdb8b166bc8b4153d5bc2d",
       "size": 632,
       "path": "jre_default/jre-8u111-windows-i586/lib/cmm/GRAY.pf",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/cmm/GRAY.pf",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/cmm/GRAY.pf",
       "executable": false,
       "link": ""
     },
@@ -687,7 +687,7 @@
       "sha1": "b7779924c70554647b87c2a86159ca7781e929f8",
       "size": 51236,
       "path": "jre_default/jre-8u111-windows-i586/lib/cmm/CIEXYZ.pf",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/cmm/CIEXYZ.pf",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/cmm/CIEXYZ.pf",
       "executable": false,
       "link": ""
     },
@@ -695,7 +695,7 @@
       "sha1": "9eaea0911d89d63e39e95f2e2116eaec7e0bb91e",
       "size": 3144,
       "path": "jre_default/jre-8u111-windows-i586/lib/cmm/sRGB.pf",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/cmm/sRGB.pf",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/cmm/sRGB.pf",
       "executable": false,
       "link": ""
     },
@@ -703,7 +703,7 @@
       "sha1": "1fd1f757febf3e5f5fbb7fbf7a56587a40d57de7",
       "size": 75124,
       "path": "jre_default/jre-8u111-windows-i586/lib/fonts/LucidaBrightDemiItalic.ttf",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/fonts/LucidaBrightDemiItalic.ttf",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/fonts/LucidaBrightDemiItalic.ttf",
       "executable": false,
       "link": ""
     },
@@ -711,7 +711,7 @@
       "sha1": "a5da2eb49448f461470387c939f0e69119310e0b",
       "size": 234068,
       "path": "jre_default/jre-8u111-windows-i586/lib/fonts/LucidaTypewriterBold.ttf",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/fonts/LucidaTypewriterBold.ttf",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/fonts/LucidaTypewriterBold.ttf",
       "executable": false,
       "link": ""
     },
@@ -719,7 +719,7 @@
       "sha1": "aa5c037865c563726ecd63d61ca26443589be425",
       "size": 80856,
       "path": "jre_default/jre-8u111-windows-i586/lib/fonts/LucidaBrightItalic.ttf",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/fonts/LucidaBrightItalic.ttf",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/fonts/LucidaBrightItalic.ttf",
       "executable": false,
       "link": ""
     },
@@ -727,7 +727,7 @@
       "sha1": "92b79fefc35e96190250c602a8fed85276b32a95",
       "size": 317896,
       "path": "jre_default/jre-8u111-windows-i586/lib/fonts/LucidaSansDemiBold.ttf",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/fonts/LucidaSansDemiBold.ttf",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/fonts/LucidaSansDemiBold.ttf",
       "executable": false,
       "link": ""
     },
@@ -735,7 +735,7 @@
       "sha1": "5d7ed564791c900a8786936930ba99385653139c",
       "size": 344908,
       "path": "jre_default/jre-8u111-windows-i586/lib/fonts/LucidaBrightRegular.ttf",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/fonts/LucidaBrightRegular.ttf",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/fonts/LucidaBrightRegular.ttf",
       "executable": false,
       "link": ""
     },
@@ -743,7 +743,7 @@
       "sha1": "c144dcafe4faf2e79cfd74d8134a631f30234db1",
       "size": 242700,
       "path": "jre_default/jre-8u111-windows-i586/lib/fonts/LucidaTypewriterRegular.ttf",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/fonts/LucidaTypewriterRegular.ttf",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/fonts/LucidaTypewriterRegular.ttf",
       "executable": false,
       "link": ""
     },
@@ -751,7 +751,7 @@
       "sha1": "39cc8bcb8d4a71d4657fc92ef0b9f4e3e9e67add",
       "size": 698236,
       "path": "jre_default/jre-8u111-windows-i586/lib/fonts/LucidaSansRegular.ttf",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/fonts/LucidaSansRegular.ttf",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/fonts/LucidaSansRegular.ttf",
       "executable": false,
       "link": ""
     },
@@ -759,7 +759,7 @@
       "sha1": "b5c97f985639e19a3b712193ee48b55dda581fd1",
       "size": 75144,
       "path": "jre_default/jre-8u111-windows-i586/lib/fonts/LucidaBrightDemiBold.ttf",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/fonts/LucidaBrightDemiBold.ttf",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/fonts/LucidaBrightDemiBold.ttf",
       "executable": false,
       "link": ""
     },
@@ -767,7 +767,7 @@
       "sha1": "1442d5cf863145bd0ab0fcef5be3cb10adf79b31",
       "size": 475438,
       "path": "jre_default/jre-8u111-windows-i586/lib/javaws.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/javaws.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/javaws.jar",
       "executable": false,
       "link": ""
     },
@@ -775,7 +775,7 @@
       "sha1": "9afceb218059d981d0fa9f07aad3c5097cf41b0c",
       "size": 1210,
       "path": "jre_default/jre-8u111-windows-i586/lib/sound.properties",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/sound.properties",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/sound.properties",
       "executable": false,
       "link": ""
     },
@@ -783,7 +783,7 @@
       "sha1": "d958adac5f1edefa22045a1409ccdeff154779c1",
       "size": 116446,
       "path": "jre_default/jre-8u111-windows-i586/lib/jce.jar",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/lib/jce.jar",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/lib/jce.jar",
       "executable": false,
       "link": ""
     },
@@ -791,7 +791,7 @@
       "sha1": "3e86865deec0814c958bcf7fb87f790bccc0e8bd",
       "size": 40,
       "path": "jre_default/jre-8u111-windows-i586/LICENSE",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/LICENSE",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/LICENSE",
       "executable": false,
       "link": ""
     },
@@ -799,7 +799,7 @@
       "sha1": "1bedbad23d8af504ee68406e1fdaad77978a2632",
       "size": 44228,
       "path": "jre_default/jre-8u111-windows-i586/release.json",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/release.json",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/release.json",
       "executable": false,
       "link": ""
     },
@@ -807,7 +807,7 @@
       "sha1": "a816fb5dd09e32d80e1ecf47a458569e3868b975",
       "size": 177094,
       "path": "jre_default/jre-8u111-windows-i586/THIRDPARTYLICENSEREADME.txt",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/THIRDPARTYLICENSEREADME.txt",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/THIRDPARTYLICENSEREADME.txt",
       "executable": false,
       "link": ""
     },
@@ -815,7 +815,7 @@
       "sha1": "d13cac18fec0c71d4a5cb550f6fa93fc60c39e45",
       "size": 110114,
       "path": "jre_default/jre-8u111-windows-i586/THIRDPARTYLICENSEREADME-JAVAFX.txt",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/THIRDPARTYLICENSEREADME-JAVAFX.txt",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/THIRDPARTYLICENSEREADME-JAVAFX.txt",
       "executable": false,
       "link": ""
     },
@@ -823,7 +823,7 @@
       "sha1": "439975f9fa5ec3decc24e97163f77ef7b2db2da7",
       "size": 14912,
       "path": "jre_default/jre-8u111-windows-i586/bin/JAWTAccessBridge-32.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/JAWTAccessBridge-32.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/JAWTAccessBridge-32.dll",
       "executable": false,
       "link": ""
     },
@@ -831,7 +831,7 @@
       "sha1": "9c49a19effa38d19ce27a4e8a1d661cc8157d710",
       "size": 191040,
       "path": "jre_default/jre-8u111-windows-i586/bin/java.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/java.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/java.exe",
       "executable": true,
       "link": ""
     },
@@ -839,7 +839,7 @@
       "sha1": "4b439792403bc7353ab5f5c1768472c59d9017ec",
       "size": 51264,
       "path": "jre_default/jre-8u111-windows-i586/bin/nio.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/nio.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/nio.dll",
       "executable": false,
       "link": ""
     },
@@ -847,7 +847,7 @@
       "sha1": "eba90f7d0860442fd26dc64186f928b248e04338",
       "size": 269888,
       "path": "jre_default/jre-8u111-windows-i586/bin/javaws.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/javaws.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/javaws.exe",
       "executable": false,
       "link": ""
     },
@@ -855,7 +855,7 @@
       "sha1": "8fb20f2a44b4e04f5692c47ebf0d596a97343366",
       "size": 191552,
       "path": "jre_default/jre-8u111-windows-i586/bin/javaw.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/javaw.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/javaw.exe",
       "executable": false,
       "link": ""
     },
@@ -863,7 +863,7 @@
       "sha1": "56d5fb63acc2ac1cc7e837701eaf41998320516d",
       "size": 23616,
       "path": "jre_default/jre-8u111-windows-i586/bin/java_crw_demo.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/java_crw_demo.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/java_crw_demo.dll",
       "executable": false,
       "link": ""
     },
@@ -871,7 +871,7 @@
       "sha1": "24a54f9f2db1282095511588165c7a53b3c1ac5e",
       "size": 115264,
       "path": "jre_default/jre-8u111-windows-i586/bin/jfxmedia.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jfxmedia.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jfxmedia.dll",
       "executable": false,
       "link": ""
     },
@@ -879,7 +879,7 @@
       "sha1": "8029d5fbd358dea3bed6e9ed720886b9f88b8bd4",
       "size": 172096,
       "path": "jre_default/jre-8u111-windows-i586/bin/plugin2/npjp2.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/plugin2/npjp2.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/plugin2/npjp2.dll",
       "executable": false,
       "link": ""
     },
@@ -887,7 +887,7 @@
       "sha1": "0b51fb415ec89848f339f8989d323bea722bfd70",
       "size": 773968,
       "path": "jre_default/jre-8u111-windows-i586/bin/plugin2/msvcr100.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/plugin2/msvcr100.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/plugin2/msvcr100.dll",
       "executable": false,
       "link": ""
     },
@@ -895,7 +895,7 @@
       "sha1": "bb57db3420cfdc250364921d8d18e54486f5c8d7",
       "size": 69696,
       "path": "jre_default/jre-8u111-windows-i586/bin/zip.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/zip.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/zip.dll",
       "executable": false,
       "link": ""
     },
@@ -903,7 +903,7 @@
       "sha1": "020b28361141696dc088e369ca0f85bcfa766b0a",
       "size": 14912,
       "path": "jre_default/jre-8u111-windows-i586/bin/resource.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/resource.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/resource.dll",
       "executable": false,
       "link": ""
     },
@@ -911,7 +911,7 @@
       "sha1": "7cab2ca5550c3867b30959787cbe5b95d4a9e6e8",
       "size": 52800,
       "path": "jre_default/jre-8u111-windows-i586/bin/prism_common.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/prism_common.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/prism_common.dll",
       "executable": false,
       "link": ""
     },
@@ -919,7 +919,7 @@
       "sha1": "af02b0735d233d41aa3c62a92fd9c1486574e4a6",
       "size": 473152,
       "path": "jre_default/jre-8u111-windows-i586/bin/ssv.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/ssv.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/ssv.dll",
       "executable": false,
       "link": ""
     },
@@ -927,7 +927,7 @@
       "sha1": "5d2c9d2619804fe7ce85bd96f18b7ed4ed9020ad",
       "size": 158784,
       "path": "jre_default/jre-8u111-windows-i586/bin/jli.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jli.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jli.dll",
       "executable": false,
       "link": ""
     },
@@ -935,7 +935,7 @@
       "sha1": "c922b31506a847d69a970386d327ef4b731915a0",
       "size": 142912,
       "path": "jre_default/jre-8u111-windows-i586/bin/dcpr.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/dcpr.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/dcpr.dll",
       "executable": false,
       "link": ""
     },
@@ -943,7 +943,7 @@
       "sha1": "0b51fb415ec89848f339f8989d323bea722bfd70",
       "size": 773968,
       "path": "jre_default/jre-8u111-windows-i586/bin/msvcr100.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/msvcr100.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/msvcr100.dll",
       "executable": false,
       "link": ""
     },
@@ -951,7 +951,7 @@
       "sha1": "32d68030ed9f607f078b10208f720036fdd03778",
       "size": 223296,
       "path": "jre_default/jre-8u111-windows-i586/bin/fontmanager.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/fontmanager.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/fontmanager.dll",
       "executable": false,
       "link": ""
     },
@@ -959,7 +959,7 @@
       "sha1": "21c62a36e4910d075c31ae7f6093b9e68b117459",
       "size": 65600,
       "path": "jre_default/jre-8u111-windows-i586/bin/unpack.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/unpack.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/unpack.dll",
       "executable": false,
       "link": ""
     },
@@ -967,7 +967,7 @@
       "sha1": "4d1579f871a2087cb75b29f9341f4c18e841f299",
       "size": 115776,
       "path": "jre_default/jre-8u111-windows-i586/bin/instrument.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/instrument.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/instrument.dll",
       "executable": false,
       "link": ""
     },
@@ -975,7 +975,7 @@
       "sha1": "25030f314e129a7324a97fbf5cd151ffdf6360aa",
       "size": 14912,
       "path": "jre_default/jre-8u111-windows-i586/bin/JAWTAccessBridge.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/JAWTAccessBridge.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/JAWTAccessBridge.dll",
       "executable": false,
       "link": ""
     },
@@ -983,7 +983,7 @@
       "sha1": "b882b03cf67631c9037f138f1dadc221d57d0818",
       "size": 27712,
       "path": "jre_default/jre-8u111-windows-i586/bin/jsoundds.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jsoundds.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jsoundds.dll",
       "executable": false,
       "link": ""
     },
@@ -991,7 +991,7 @@
       "sha1": "e269165d145ded1884a07fbf7ec6ba1105609b4c",
       "size": 453184,
       "path": "jre_default/jre-8u111-windows-i586/bin/deploy.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/deploy.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/deploy.dll",
       "executable": false,
       "link": ""
     },
@@ -999,7 +999,7 @@
       "sha1": "efd1e306c1092c17f6944cc6bf9a1bfad4d14613",
       "size": 455328,
       "path": "jre_default/jre-8u111-windows-i586/bin/msvcp120.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/msvcp120.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/msvcp120.dll",
       "executable": false,
       "link": ""
     },
@@ -1007,7 +1007,7 @@
       "sha1": "478679c6c3497fd63203b0ec899b32002edc0c88",
       "size": 16448,
       "path": "jre_default/jre-8u111-windows-i586/bin/orbd.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/orbd.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/orbd.exe",
       "executable": false,
       "link": ""
     },
@@ -1015,7 +1015,7 @@
       "sha1": "764dde771ce5fa5a5bcb087512491fa80288f052",
       "size": 64064,
       "path": "jre_default/jre-8u111-windows-i586/bin/decora_sse.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/decora_sse.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/decora_sse.dll",
       "executable": false,
       "link": ""
     },
@@ -1023,7 +1023,7 @@
       "sha1": "ba87ca8257fd4ea2abd79db7040a6e1102537cf6",
       "size": 15936,
       "path": "jre_default/jre-8u111-windows-i586/bin/pack200.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/pack200.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/pack200.exe",
       "executable": false,
       "link": ""
     },
@@ -1031,7 +1031,7 @@
       "sha1": "da2dbad39ad48da7bf91328759f9a9ec8d74e370",
       "size": 79936,
       "path": "jre_default/jre-8u111-windows-i586/bin/net.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/net.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/net.dll",
       "executable": false,
       "link": ""
     },
@@ -1039,7 +1039,7 @@
       "sha1": "f05c39d0ffc761e2621283aef0efb6169593af24",
       "size": 574528,
       "path": "jre_default/jre-8u111-windows-i586/bin/mlib_image.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/mlib_image.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/mlib_image.dll",
       "executable": false,
       "link": ""
     },
@@ -1047,7 +1047,7 @@
       "sha1": "82563dbd6f3f2448a6469853fe23fa0abdfcf48c",
       "size": 16448,
       "path": "jre_default/jre-8u111-windows-i586/bin/jsdt.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jsdt.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jsdt.dll",
       "executable": false,
       "link": ""
     },
@@ -1055,7 +1055,7 @@
       "sha1": "6eb9f929413285666652ffe978b5da8690b0e7bb",
       "size": 19520,
       "path": "jre_default/jre-8u111-windows-i586/bin/jaas_nt.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jaas_nt.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jaas_nt.dll",
       "executable": false,
       "link": ""
     },
@@ -1063,7 +1063,7 @@
       "sha1": "845c69f30be3ba620127c961f830964ec4a8ecd0",
       "size": 185920,
       "path": "jre_default/jre-8u111-windows-i586/bin/lcms.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/lcms.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/lcms.dll",
       "executable": false,
       "link": ""
     },
@@ -1071,7 +1071,7 @@
       "sha1": "65b69f65cce6c0015ffac271cc0906e35a738cb3",
       "size": 21568,
       "path": "jre_default/jre-8u111-windows-i586/bin/w2k_lsa_auth.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/w2k_lsa_auth.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/w2k_lsa_auth.dll",
       "executable": false,
       "link": ""
     },
@@ -1079,7 +1079,7 @@
       "sha1": "238b369dfc7eb8f0dc6a85cdd080ed4b78388ca8",
       "size": 1423,
       "path": "jre_default/jre-8u111-windows-i586/bin/client/Xusage.txt",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/client/Xusage.txt",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/client/Xusage.txt",
       "executable": false,
       "link": ""
     },
@@ -1087,7 +1087,7 @@
       "sha1": "0712d5ccb9f3cc82960b793a8612952070f8bdeb",
       "size": 3862592,
       "path": "jre_default/jre-8u111-windows-i586/bin/client/jvm.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/client/jvm.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/client/jvm.dll",
       "executable": false,
       "link": ""
     },
@@ -1095,7 +1095,7 @@
       "sha1": "ba98f5fdcdf11855e3af122e7900a62607ab73e0",
       "size": 826432,
       "path": "jre_default/jre-8u111-windows-i586/bin/dtplugin/deployJava1.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/dtplugin/deployJava1.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/dtplugin/deployJava1.dll",
       "executable": false,
       "link": ""
     },
@@ -1103,7 +1103,7 @@
       "sha1": "4d6e66403d7e6ae923d875666c0ff434771a9a66",
       "size": 908352,
       "path": "jre_default/jre-8u111-windows-i586/bin/dtplugin/npdeployJava1.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/dtplugin/npdeployJava1.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/dtplugin/npdeployJava1.dll",
       "executable": false,
       "link": ""
     },
@@ -1111,7 +1111,7 @@
       "sha1": "32d5917bebbc019a1c74014b84b408eae7f3dd2e",
       "size": 200768,
       "path": "jre_default/jre-8u111-windows-i586/bin/glass.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/glass.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/glass.dll",
       "executable": false,
       "link": ""
     },
@@ -1119,7 +1119,7 @@
       "sha1": "7f0347ef9cdb3dd35f0be76057bcaec113889351",
       "size": 30784,
       "path": "jre_default/jre-8u111-windows-i586/bin/jabswitch.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jabswitch.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jabswitch.exe",
       "executable": false,
       "link": ""
     },
@@ -1127,7 +1127,7 @@
       "sha1": "9fe78ca4e56b3b2e4cce0396a9d7ac56c7f4c998",
       "size": 207424,
       "path": "jre_default/jre-8u111-windows-i586/bin/jp2iexp.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jp2iexp.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jp2iexp.dll",
       "executable": false,
       "link": ""
     },
@@ -1135,7 +1135,7 @@
       "sha1": "c3cea510f253b50deee19cddf6c7d0d5464d56d2",
       "size": 30784,
       "path": "jre_default/jre-8u111-windows-i586/bin/jsound.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jsound.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jsound.dll",
       "executable": false,
       "link": ""
     },
@@ -1143,7 +1143,7 @@
       "sha1": "e5aed3e0c685281bd02057f009c9776d42f02795",
       "size": 39488,
       "path": "jre_default/jre-8u111-windows-i586/bin/verify.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/verify.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/verify.dll",
       "executable": false,
       "link": ""
     },
@@ -1151,7 +1151,7 @@
       "sha1": "e4a60f32641837186d67b0bd5faea02c3c045056",
       "size": 127552,
       "path": "jre_default/jre-8u111-windows-i586/bin/JavaAccessBridge.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/JavaAccessBridge.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/JavaAccessBridge.dll",
       "executable": false,
       "link": ""
     },
@@ -1159,7 +1159,7 @@
       "sha1": "89390a07bfbd3907c13ad600ef646b158539ecc8",
       "size": 152640,
       "path": "jre_default/jre-8u111-windows-i586/bin/fxplugins.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/fxplugins.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/fxplugins.dll",
       "executable": false,
       "link": ""
     },
@@ -1167,7 +1167,7 @@
       "sha1": "6420433d7d2dde4fdc1a653b5d93f5be7344acee",
       "size": 51264,
       "path": "jre_default/jre-8u111-windows-i586/bin/j2pkcs11.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/j2pkcs11.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/j2pkcs11.dll",
       "executable": false,
       "link": ""
     },
@@ -1175,7 +1175,7 @@
       "sha1": "f7476f5ef0eb5dd1b25fc2192552b5da12092b7f",
       "size": 86592,
       "path": "jre_default/jre-8u111-windows-i586/bin/prism_sw.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/prism_sw.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/prism_sw.dll",
       "executable": false,
       "link": ""
     },
@@ -1183,7 +1183,7 @@
       "sha1": "4df294824c209e758aec9f58a0a061f3dbf17ffc",
       "size": 33344,
       "path": "jre_default/jre-8u111-windows-i586/bin/management.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/management.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/management.dll",
       "executable": false,
       "link": ""
     },
@@ -1191,7 +1191,7 @@
       "sha1": "863f7cf5a52742a666a8eb81e27402af6cbfc028",
       "size": 25152,
       "path": "jre_default/jre-8u111-windows-i586/bin/dt_shmem.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/dt_shmem.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/dt_shmem.dll",
       "executable": false,
       "link": ""
     },
@@ -1199,7 +1199,7 @@
       "sha1": "be041f89905bee5a0d1744105e71a774cf9c0266",
       "size": 97856,
       "path": "jre_default/jre-8u111-windows-i586/bin/WindowsAccessBridge-32.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/WindowsAccessBridge-32.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/WindowsAccessBridge-32.dll",
       "executable": false,
       "link": ""
     },
@@ -1207,7 +1207,7 @@
       "sha1": "e28dfc83e22b314e444032e3032d1399ee10034e",
       "size": 446528,
       "path": "jre_default/jre-8u111-windows-i586/bin/javafx_font_t2k.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/javafx_font_t2k.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/javafx_font_t2k.dll",
       "executable": false,
       "link": ""
     },
@@ -1215,7 +1215,7 @@
       "sha1": "88576ad11db3fa88662d2ac822df50fe813fdc9e",
       "size": 52800,
       "path": "jre_default/jre-8u111-windows-i586/bin/ssvagent.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/ssvagent.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/ssvagent.exe",
       "executable": false,
       "link": ""
     },
@@ -1223,7 +1223,7 @@
       "sha1": "769782e0ad22959f1ad5873079d7e9e459df5b94",
       "size": 160256,
       "path": "jre_default/jre-8u111-windows-i586/bin/javacpl.cpl",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/javacpl.cpl",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/javacpl.cpl",
       "executable": false,
       "link": ""
     },
@@ -1231,7 +1231,7 @@
       "sha1": "387a5b1b3bd7f092ac61cebfeff37dbaf720d966",
       "size": 21568,
       "path": "jre_default/jre-8u111-windows-i586/bin/dt_socket.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/dt_socket.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/dt_socket.dll",
       "executable": false,
       "link": ""
     },
@@ -1239,7 +1239,7 @@
       "sha1": "e3868516c774bcb8a2fb095476d827c289ce0460",
       "size": 132672,
       "path": "jre_default/jre-8u111-windows-i586/bin/hprof.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/hprof.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/hprof.dll",
       "executable": false,
       "link": ""
     },
@@ -1247,7 +1247,7 @@
       "sha1": "b2a71081f24aaec9bf9a6bbab30f73c59583cc55",
       "size": 70208,
       "path": "jre_default/jre-8u111-windows-i586/bin/javacpl.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/javacpl.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/javacpl.exe",
       "executable": false,
       "link": ""
     },
@@ -1255,7 +1255,7 @@
       "sha1": "ad3a1e82ec80c48fd3594d379b049cc63e02451a",
       "size": 13888,
       "path": "jre_default/jre-8u111-windows-i586/bin/jawt.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jawt.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jawt.dll",
       "executable": false,
       "link": ""
     },
@@ -1263,7 +1263,7 @@
       "sha1": "45c007373c381500238585f17b4173dc96961752",
       "size": 116288,
       "path": "jre_default/jre-8u111-windows-i586/bin/prism_d3d.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/prism_d3d.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/prism_d3d.dll",
       "executable": false,
       "link": ""
     },
@@ -1271,7 +1271,7 @@
       "sha1": "b612bddcda879cf47b0b22b0cad2845f745dafb3",
       "size": 15936,
       "path": "jre_default/jre-8u111-windows-i586/bin/java-rmi.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/java-rmi.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/java-rmi.exe",
       "executable": false,
       "link": ""
     },
@@ -1279,7 +1279,7 @@
       "sha1": "707325f533ea8f91cf2b6b3e600452675079f08c",
       "size": 83008,
       "path": "jre_default/jre-8u111-windows-i586/bin/jp2launcher.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jp2launcher.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jp2launcher.exe",
       "executable": false,
       "link": ""
     },
@@ -1287,7 +1287,7 @@
       "sha1": "fa8b7f2341747759dbdde661aa0c98760d5fca36",
       "size": 195136,
       "path": "jre_default/jre-8u111-windows-i586/bin/t2k.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/t2k.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/t2k.dll",
       "executable": false,
       "link": ""
     },
@@ -1295,7 +1295,7 @@
       "sha1": "1145cdf61b88824c4f9e3d95e75ca04ced7a5112",
       "size": 15936,
       "path": "jre_default/jre-8u111-windows-i586/bin/keytool.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/keytool.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/keytool.exe",
       "executable": false,
       "link": ""
     },
@@ -1303,7 +1303,7 @@
       "sha1": "1d1cf4595b546d08be5f56754a5fedd8db793f27",
       "size": 15936,
       "path": "jre_default/jre-8u111-windows-i586/bin/klist.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/klist.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/klist.exe",
       "executable": false,
       "link": ""
     },
@@ -1311,7 +1311,7 @@
       "sha1": "d74241a66ef18b4331d42a91a90a6163a64b59c2",
       "size": 127040,
       "path": "jre_default/jre-8u111-windows-i586/bin/java.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/java.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/java.dll",
       "executable": false,
       "link": ""
     },
@@ -1319,7 +1319,7 @@
       "sha1": "355e55d0cc56a623539037d245008e50886cbcc9",
       "size": 15936,
       "path": "jre_default/jre-8u111-windows-i586/bin/rmid.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/rmid.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/rmid.exe",
       "executable": false,
       "link": ""
     },
@@ -1327,7 +1327,7 @@
       "sha1": "a3f7cc18ab4979d06c732d4462b8ecad67d093c4",
       "size": 177216,
       "path": "jre_default/jre-8u111-windows-i586/bin/splashscreen.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/splashscreen.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/splashscreen.dll",
       "executable": false,
       "link": ""
     },
@@ -1335,7 +1335,7 @@
       "sha1": "1a9c4266dadee118d48006dbefaa771a88853d2e",
       "size": 15936,
       "path": "jre_default/jre-8u111-windows-i586/bin/jjs.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jjs.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jjs.exe",
       "executable": false,
       "link": ""
     },
@@ -1343,7 +1343,7 @@
       "sha1": "a106cd234ef1a39f301a4292a699d6828c82a8e8",
       "size": 16448,
       "path": "jre_default/jre-8u111-windows-i586/bin/tnameserv.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/tnameserv.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/tnameserv.exe",
       "executable": false,
       "link": ""
     },
@@ -1351,7 +1351,7 @@
       "sha1": "c52f3d7abfde1ceffa44ca08d9289189480ec606",
       "size": 123968,
       "path": "jre_default/jre-8u111-windows-i586/bin/sunec.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/sunec.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/sunec.dll",
       "executable": false,
       "link": ""
     },
@@ -1359,7 +1359,7 @@
       "sha1": "9a36e6a002e5852c9aba51bcf99177530905f787",
       "size": 19008,
       "path": "jre_default/jre-8u111-windows-i586/bin/jp2native.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jp2native.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jp2native.dll",
       "executable": false,
       "link": ""
     },
@@ -1367,7 +1367,7 @@
       "sha1": "6ce9873eb9a933ca92dde55739026837b09f3de2",
       "size": 15424,
       "path": "jre_default/jre-8u111-windows-i586/bin/bci.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/bci.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/bci.dll",
       "executable": false,
       "link": ""
     },
@@ -1375,7 +1375,7 @@
       "sha1": "64ac399baae6cd084b8bf975c36ba71d4c0f30fb",
       "size": 22592,
       "path": "jre_default/jre-8u111-windows-i586/bin/jfr.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jfr.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jfr.dll",
       "executable": false,
       "link": ""
     },
@@ -1383,7 +1383,7 @@
       "sha1": "186767ea1e9fe1151d001aa5036a520c780e0c1c",
       "size": 400960,
       "path": "jre_default/jre-8u111-windows-i586/bin/glib-lite.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/glib-lite.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/glib-lite.dll",
       "executable": false,
       "link": ""
     },
@@ -1391,7 +1391,7 @@
       "sha1": "f19e9d8317161edc7d3e963cc0fc46bd5e4a55a1",
       "size": 970912,
       "path": "jre_default/jre-8u111-windows-i586/bin/msvcr120.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/msvcr120.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/msvcr120.dll",
       "executable": false,
       "link": ""
     },
@@ -1399,7 +1399,7 @@
       "sha1": "cd6702a0558bbe0af7ab41a719e3f26fe335cd7e",
       "size": 16448,
       "path": "jre_default/jre-8u111-windows-i586/bin/j2pcsc.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/j2pcsc.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/j2pcsc.dll",
       "executable": false,
       "link": ""
     },
@@ -1407,7 +1407,7 @@
       "sha1": "9fc1ca29fd31494c36f4d3b90f653fde26cd4e46",
       "size": 57408,
       "path": "jre_default/jre-8u111-windows-i586/bin/javafx_font.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/javafx_font.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/javafx_font.dll",
       "executable": false,
       "link": ""
     },
@@ -1415,7 +1415,7 @@
       "sha1": "497e7bdaf53317f494de98e072f769050f788284",
       "size": 178240,
       "path": "jre_default/jre-8u111-windows-i586/bin/kcms.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/kcms.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/kcms.dll",
       "executable": false,
       "link": ""
     },
@@ -1423,7 +1423,7 @@
       "sha1": "7bebd22805f5a14cc497991b33c46c9ca2a313c5",
       "size": 95808,
       "path": "jre_default/jre-8u111-windows-i586/bin/WindowsAccessBridge.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/WindowsAccessBridge.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/WindowsAccessBridge.dll",
       "executable": false,
       "link": ""
     },
@@ -1431,7 +1431,7 @@
       "sha1": "3e1349c2dde224bf98221cce89ec2fd33058fba5",
       "size": 128064,
       "path": "jre_default/jre-8u111-windows-i586/bin/JavaAccessBridge-32.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/JavaAccessBridge-32.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/JavaAccessBridge-32.dll",
       "executable": false,
       "link": ""
     },
@@ -1439,7 +1439,7 @@
       "sha1": "61acb3aadfdf6676e320fd7045592f1b46940cc0",
       "size": 126016,
       "path": "jre_default/jre-8u111-windows-i586/bin/javafx_iio.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/javafx_iio.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/javafx_iio.dll",
       "executable": false,
       "link": ""
     },
@@ -1447,7 +1447,7 @@
       "sha1": "96402361ab5b5232d2a45522715c2650137abc0b",
       "size": 186944,
       "path": "jre_default/jre-8u111-windows-i586/bin/jp2ssv.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jp2ssv.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jp2ssv.dll",
       "executable": false,
       "link": ""
     },
@@ -1455,7 +1455,7 @@
       "sha1": "37b6756b597221cbf56aa924f1be389a62a10089",
       "size": 159296,
       "path": "jre_default/jre-8u111-windows-i586/bin/unpack200.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/unpack200.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/unpack200.exe",
       "executable": false,
       "link": ""
     },
@@ -1463,7 +1463,7 @@
       "sha1": "daa0fc3b264f2104d4afc472fcf852e6de36b3ed",
       "size": 15936,
       "path": "jre_default/jre-8u111-windows-i586/bin/kinit.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/kinit.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/kinit.exe",
       "executable": false,
       "link": ""
     },
@@ -1471,7 +1471,7 @@
       "sha1": "35273168feb8ea56d353f4fdc2c42a16eb21b82c",
       "size": 109120,
       "path": "jre_default/jre-8u111-windows-i586/bin/eula.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/eula.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/eula.dll",
       "executable": false,
       "link": ""
     },
@@ -1479,7 +1479,7 @@
       "sha1": "5032a59873b39081ded27d5a598128f1a21e5ad5",
       "size": 163904,
       "path": "jre_default/jre-8u111-windows-i586/bin/wsdetect.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/wsdetect.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/wsdetect.dll",
       "executable": false,
       "link": ""
     },
@@ -1487,7 +1487,7 @@
       "sha1": "bb07d0194be01e3b1044e312b6208562bd48a4d7",
       "size": 15936,
       "path": "jre_default/jre-8u111-windows-i586/bin/servertool.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/servertool.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/servertool.exe",
       "executable": false,
       "link": ""
     },
@@ -1495,7 +1495,7 @@
       "sha1": "147c1483be81fdb53d4bf46bc5548dfbfd1dfd8a",
       "size": 15936,
       "path": "jre_default/jre-8u111-windows-i586/bin/policytool.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/policytool.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/policytool.exe",
       "executable": false,
       "link": ""
     },
@@ -1503,7 +1503,7 @@
       "sha1": "c0c190ffafa92bbd2874f66c0e033870f10f0741",
       "size": 514624,
       "path": "jre_default/jre-8u111-windows-i586/bin/gstreamer-lite.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/gstreamer-lite.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/gstreamer-lite.dll",
       "executable": false,
       "link": ""
     },
@@ -1511,7 +1511,7 @@
       "sha1": "bb21d412a388c45a178d0f3c2b0caa0877209396",
       "size": 145984,
       "path": "jre_default/jre-8u111-windows-i586/bin/jpeg.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jpeg.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jpeg.dll",
       "executable": false,
       "link": ""
     },
@@ -1519,7 +1519,7 @@
       "sha1": "a2df56678858f70aa5809ef93c66c41c598c47e6",
       "size": 163904,
       "path": "jre_default/jre-8u111-windows-i586/bin/jdwp.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jdwp.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jdwp.dll",
       "executable": false,
       "link": ""
     },
@@ -1527,7 +1527,7 @@
       "sha1": "b5e1de3ae0e35ccdd57f463cd7057b13ff7c4936",
       "size": 15936,
       "path": "jre_default/jre-8u111-windows-i586/bin/ktab.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/ktab.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/ktab.exe",
       "executable": false,
       "link": ""
     },
@@ -1535,7 +1535,7 @@
       "sha1": "d1d6443ed9e5a3d4c522bce26ecd84480724b014",
       "size": 1182784,
       "path": "jre_default/jre-8u111-windows-i586/bin/awt.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/awt.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/awt.dll",
       "executable": false,
       "link": ""
     },
@@ -1543,7 +1543,7 @@
       "sha1": "0b2bfe3dad62b3f142c56205c62f2f3061157e6e",
       "size": 33944128,
       "path": "jre_default/jre-8u111-windows-i586/bin/jfxwebkit.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/jfxwebkit.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/jfxwebkit.dll",
       "executable": false,
       "link": ""
     },
@@ -1551,7 +1551,7 @@
       "sha1": "e804914475cf22dfa1609c59f731586aa5ea3111",
       "size": 15936,
       "path": "jre_default/jre-8u111-windows-i586/bin/rmiregistry.exe",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/rmiregistry.exe",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/rmiregistry.exe",
       "executable": false,
       "link": ""
     },
@@ -1559,7 +1559,7 @@
       "sha1": "40815ad1a83e3e7105e497559f03131ec3c36299",
       "size": 25664,
       "path": "jre_default/jre-8u111-windows-i586/bin/sunmscapi.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/sunmscapi.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/sunmscapi.dll",
       "executable": false,
       "link": ""
     },
@@ -1567,7 +1567,7 @@
       "sha1": "86b9835af3cacd110b6a655ba53ec9c6a85709e8",
       "size": 17472,
       "path": "jre_default/jre-8u111-windows-i586/bin/npt.dll",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/bin/npt.dll",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/bin/npt.dll",
       "executable": false,
       "link": ""
     },
@@ -1575,7 +1575,7 @@
       "sha1": "f90331df1e5badeadc501d8dd70714c62a920204",
       "size": 46,
       "path": "jre_default/jre-8u111-windows-i586/README.txt",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/README.txt",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/README.txt",
       "executable": false,
       "link": ""
     },
@@ -1583,7 +1583,7 @@
       "sha1": "d83e20c8b124738924387a58fbc382fb31df2bfd",
       "size": 527,
       "path": "jre_default/jre-8u111-windows-i586/release",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/release",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/release",
       "executable": false,
       "link": ""
     },
@@ -1591,7 +1591,7 @@
       "sha1": "60b225822bec1d47df7a2c2bf2ac304bcfcdb650",
       "size": 955,
       "path": "jre_default/jre-8u111-windows-i586/Welcome.html",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/Welcome.html",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/Welcome.html",
       "executable": false,
       "link": ""
     },
@@ -1599,7 +1599,7 @@
       "sha1": "ef7c9aefb22bab5861a957ac0720650e4b25c6c8",
       "size": 3244,
       "path": "jre_default/jre-8u111-windows-i586/COPYRIGHT",
-      "relativeUrl": "starter-app/jre_default/jre-8u111-windows-i586/COPYRIGHT",
+      "relativeUrl": "jre_default/jre-8u111-windows-i586/COPYRIGHT",
       "executable": false,
       "link": ""
     }
