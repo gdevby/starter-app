@@ -8,7 +8,7 @@
     ""
   ],
   "jvmArguments": [
-    "-Xmx512m",
+    "-Xmx4G",
     "-Dfile.encoding\u003dUTF8",
     "-Djava.net.preferIPv4Stack\u003dtrue"
   ],
