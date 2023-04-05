@@ -8,7 +8,7 @@
     ""
   ],
   "jvmArguments": [
-    "-Xmx4G",
+    "-Xmx512m",
     "-Dfile.encoding\u003dUTF8",
     "-Djava.net.preferIPv4Stack\u003dtrue"
   ],
@@ -34,8 +34,8 @@
     ],
     "resources": [
       {
-        "sha1": "f0343e726ddda7625198599e253bcb784b8a7794",
-        "size": 1917,
+        "sha1": "586fbcdedca19ec1a8f643cbab8a648c949dcd6b",
+        "size": 1833,
         "path": "resources.json",
         "relativeUrl": "1.0/resources.json",
         "executable": false,
@@ -50,8 +50,8 @@
     ],
     "resources": [
       {
-        "sha1": "06034d68848dd4ac683f1d92e564ae3b8c646e48",
-        "size": 983,
+        "sha1": "401526d950b29366098deb759d06660d21be49f8",
+        "size": 947,
         "path": "dependencies.json",
         "relativeUrl": "1.0/dependencies.json",
         "executable": false,
@@ -66,8 +66,8 @@
     ],
     "resources": [
       {
-        "sha1": "19633dca228c5b345d815cb2f42a88b1eeacb5bd",
-        "size": 3115,
+        "sha1": "9f6cc935b06509f87d17c5e837e452f065fc138f",
+        "size": 3136,
         "path": "javaConfig.json",
         "relativeUrl": "javaConfig.json",
         "executable": false,

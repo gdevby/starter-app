@@ -8,11 +8,12 @@
           ],
           "resources": [
             {
-              "sha1": "091b36170a1665969b93b9abac99723428104e91",
-              "size": 0,
-              "path": "jres_configuration_default/macosx/x64/jre_default/jdk1.8.0_301.jdk.json",
-              "relativeUrl": "jres_configuration_default/macosx/x64/jre_default/jdk1.8.0_301.jdk.json",
-              "executable": false
+              "sha1": "65065347586334ad42ce2af1e5e9ba8b8feabcd0",
+              "size": 79687221,
+              "path": "jre-8u301-macosx-x64.tar.gz",
+              "relativeUrl": "jres_default/macosx/x64/jre-8u301-macosx-x64.tar.gz",
+              "executable": false,
+              "link": ""
             }
           ],
           "remoteServerSHA1": false
@@ -20,23 +21,6 @@
       }
     },
     "WINDOWS": {
-      "x64": {
-        "jre_default": {
-          "repositories": [
-            "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
-          ],
-          "resources": [
-            {
-              "sha1": "7caa23add1f23b5f2657511e89b5f64e7cb8c934",
-              "size": 0,
-              "path": "jres_configuration_default/windows/x64/jre_default/jre-8u281-windows-x64.json",
-              "relativeUrl": "jres_configuration_default/windows/x64/jre_default/jre-8u281-windows-x64.json",
-              "executable": false
-            }
-          ],
-          "remoteServerSHA1": false
-        }
-      },
       "x32": {
         "jre_default": {
           "repositories": [
@@ -44,11 +28,30 @@
           ],
           "resources": [
             {
-              "sha1": "90467389be11bcd61354688908639c919c5caa6c",
-              "size": 0,
-              "path": "jres_configuration_default/windows/x32/jre_default/jre-8u111-windows-i586.json",
-              "relativeUrl": "jres_configuration_default/windows/x32/jre_default/jre-8u111-windows-i586.json",
-              "executable": false
+              "sha1": "ab9ec36dcc69eb84175df090dd5c2d7f21c04ce8",
+              "size": 62318020,
+              "path": "jre-8u111-windows-i586.zip",
+              "relativeUrl": "jres_default/windows/x32/jre-8u111-windows-i586.zip",
+              "executable": false,
+              "link": ""
+            }
+          ],
+          "remoteServerSHA1": false
+        }
+      },
+      "x64": {
+        "jre_default": {
+          "repositories": [
+            "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
+          ],
+          "resources": [
+            {
+              "sha1": "4d2421bfbe171883f25336ba1c10d199cba13741",
+              "size": 77766717,
+              "path": "jre-8u281-windows-x64.zip",
+              "relativeUrl": "jres_default/windows/x64/jre-8u281-windows-x64.zip",
+              "executable": false,
+              "link": ""
             }
           ],
           "remoteServerSHA1": false
@@ -56,23 +59,6 @@
       }
     },
     "LINUX": {
-      "x64": {
-        "jre_default": {
-          "repositories": [
-            "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
-          ],
-          "resources": [
-            {
-              "sha1": "df2dd7a559bf76a33f243ec62a3838f1a645da7d",
-              "size": 0,
-              "path": "jres_configuration_default/linux/x64/jre_default/jre-8u281-linux-x64.json",
-              "relativeUrl": "jres_configuration_default/linux/x64/jre_default/jre-8u281-linux-x64.json",
-              "executable": false
-            }
-          ],
-          "remoteServerSHA1": false
-        }
-      },
       "x32": {
         "jre_default": {
           "repositories": [
@@ -80,11 +66,30 @@
           ],
           "resources": [
             {
-              "sha1": "577c8c8d74318bc822e02d9c82ceacb89f5a9a84",
-              "size": 0,
-              "path": "jres_configuration_default/linux/x32/jre_default/jre-8u281-linux-i586.json",
-              "relativeUrl": "jres_configuration_default/linux/x32/jre_default/jre-8u281-linux-i586.json",
-              "executable": false
+              "sha1": "ead85a9120e679acffea3d5964bdbcc032abfb29",
+              "size": 90676695,
+              "path": "jre-8u281-linux-i586.tar.gz",
+              "relativeUrl": "jres_default/linux/x32/jre-8u281-linux-i586.tar.gz",
+              "executable": false,
+              "link": ""
+            }
+          ],
+          "remoteServerSHA1": false
+        }
+      },
+      "x64": {
+        "jre_default": {
+          "repositories": [
+            "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
+          ],
+          "resources": [
+            {
+              "sha1": "c2d8c9e31520fc7eb1452d6ec36fcb051daceb5c",
+              "size": 90668930,
+              "path": "jre-8u281-linux-x64.tar.gz",
+              "relativeUrl": "jres_default/linux/x64/jre-8u281-linux-x64.tar.gz",
+              "executable": false,
+              "link": ""
             }
           ],
           "remoteServerSHA1": false
