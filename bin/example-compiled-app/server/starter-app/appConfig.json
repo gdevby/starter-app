@@ -1,0 +1,79 @@
+{
+  "comment": "Config file for desktop-starter example",
+  "appName": "starter-app",
+  "appVersion": "1.0",
+  "mainClass": "desktop.starter.app.Main",
+  "appArguments": [
+    "",
+    ""
+  ],
+  "jvmArguments": [
+    "-Xmx512m",
+    "-Dfile.encoding\u003dUTF8",
+    "-Djava.net.preferIPv4Stack\u003dtrue"
+  ],
+  "appFileRepo": {
+    "repositories": [
+      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
+    ],
+    "resources": [
+      {
+        "sha1": "01b537c93ef8d3f9f6df9aa21d8619d3c03c56ed",
+        "size": 4942,
+        "path": "starter-app-1.0.jar",
+        "relativeUrl": "1.0/starter-app-1.0.jar",
+        "executable": false,
+        "link": ""
+      }
+    ],
+    "remoteServerSHA1": false
+  },
+  "appResources": {
+    "repositories": [
+      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
+    ],
+    "resources": [
+      {
+        "sha1": "586fbcdedca19ec1a8f643cbab8a648c949dcd6b",
+        "size": 1833,
+        "path": "resources.json",
+        "relativeUrl": "1.0/resources.json",
+        "executable": false,
+        "link": ""
+      }
+    ],
+    "remoteServerSHA1": false
+  },
+  "appDependencies": {
+    "repositories": [
+      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
+    ],
+    "resources": [
+      {
+        "sha1": "401526d950b29366098deb759d06660d21be49f8",
+        "size": 947,
+        "path": "dependencies.json",
+        "relativeUrl": "1.0/dependencies.json",
+        "executable": false,
+        "link": ""
+      }
+    ],
+    "remoteServerSHA1": false
+  },
+  "javaRepo": {
+    "repositories": [
+      "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
+    ],
+    "resources": [
+      {
+        "sha1": "9f6cc935b06509f87d17c5e837e452f065fc138f",
+        "size": 3136,
+        "path": "javaConfig.json",
+        "relativeUrl": "javaConfig.json",
+        "executable": false,
+        "link": ""
+      }
+    ],
+    "remoteServerSHA1": false
+  }
+}

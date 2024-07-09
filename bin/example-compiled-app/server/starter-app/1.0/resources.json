@@ -1,0 +1,64 @@
+{
+  "repositories": [
+    "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
+  ],
+  "resources": [
+    {
+      "sha1": "2e7db910ba8644012820abda77f856bc9cfa0093",
+      "size": 883,
+      "path": "resources/sample.fxml",
+      "relativeUrl": "1.0/resources/sample.fxml",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "5de523d0d9ec6e3e49015bfa4b59972e71def6a3",
+      "size": 1884,
+      "path": "resources/Login.css",
+      "relativeUrl": "1.0/resources/Login.css",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "2669de47b62b634b4a104940b241cc5174fbb004",
+      "size": 179,
+      "path": "resources/bundles/lang_en.properties",
+      "relativeUrl": "1.0/resources/bundles/lang_en.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "100c4e37aabed49d11a7ffb586fb4e046efbdb37",
+      "size": 528,
+      "path": "resources/bundles/lang_ru.properties",
+      "relativeUrl": "1.0/resources/bundles/lang_ru.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "9115372765a5842388232d5e3008b126665d6de8",
+      "size": 11,
+      "path": "resources/bundles/lang.properties",
+      "relativeUrl": "1.0/resources/bundles/lang.properties",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "355c4dfda1d2a965e62ceb539178a54930e50ea2",
+      "size": 588,
+      "path": "resources/logback.xml",
+      "relativeUrl": "1.0/resources/logback.xml",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "5a3189562d8f3901949bc3322fc89d6fb966cbb3",
+      "size": 52308,
+      "path": "resources/background.jpg",
+      "relativeUrl": "1.0/resources/background.jpg",
+      "executable": false,
+      "link": ""
+    }
+  ],
+  "remoteServerSHA1": false
+}

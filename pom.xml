@@ -8,11 +8,49 @@
 	<artifactId>starter-app</artifactId>
 	<version>1.0</version>
 	<properties>
+				        <java.17.options>--add-opens=jdk.management/com.sun.management.internal=ALL-UNNAMED
+            --add-opens=java.base/jdk.internal.misc=ALL-UNNAMED
+            --add-opens=java.base/sun.nio.ch=ALL-UNNAMED
+            --add-opens=java.management/com.sun.jmx.mbeanserver=ALL-UNNAMED
+            --add-opens=jdk.internal.jvmstat/sun.jvmstat.monitor=ALL-UNNAMED
+            --add-opens=java.base/sun.reflect.generics.reflectiveObjects=ALL-UNNAMED
+            --add-opens=java.base/java.io=ALL-UNNAMED
+            --add-opens=java.base/java.nio=ALL-UNNAMED
+            --add-opens=java.base/java.util=ALL-UNNAMED
+            --add-opens=java.base/java.lang=ALL-UNNAMED
+            --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+            --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+            --add-opens=java.base/java.time=ALL-UNNAMED
+            --add-opens=java.base/java.util.regex=ALL-UNNAMED
+            --add-opens=java.base/java.time.format=ALL-UNNAMED
+            --add-opens=java.desktop/javax.swing=ALL-UNNAMED
+            --add-opens=java.desktop/java.beans=ALL-UNNAMED
+            --add-opens=javafx.web/com.sun.webkit.network=ALL-UNNAMED
+            --add-opens=javafx.graphics/com.sun.javafx.util=ALL-UNNAMED
+            --add-opens=javafx.base/com.sun.javafx.reflect=ALL-UNNAMED
+            --add-opens=javafx.base/com.sun.javafx.logging=ALL-UNNAMED
+            --add-opens=javafx.base/com.sun.javafx.beans=ALL-UNNAMED</java.17.options>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<java-version>17</java-version>
+		<java-version>21</java-version>
 		<slf4j.version>2.0.13</slf4j.version>
+		<javafx.version>21.0.3</javafx.version>
 	</properties>
 	<dependencies>
+				<dependency>
+			<groupId>org.openjfx</groupId>
+			<artifactId>javafx-swing</artifactId>
+			<version>${javafx.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.openjfx</groupId>
+			<artifactId>javafx-fxml</artifactId>
+			<version>${javafx.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.openjfx</groupId>
+			<artifactId>javafx-web</artifactId>
+			<version>${javafx.version}</version>
+		</dependency>
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
