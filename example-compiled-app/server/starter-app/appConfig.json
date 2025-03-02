@@ -66,8 +66,8 @@
     ],
     "resources": [
       {
-        "sha1": "9f6cc935b06509f87d17c5e837e452f065fc138f",
-        "size": 3136,
+        "sha1": "47d363d4c720b703cad569bf50fe42950b4d78d4",
+        "size": 3390,
         "path": "javaConfig.json",
         "relativeUrl": "javaConfig.json",
         "executable": false,
