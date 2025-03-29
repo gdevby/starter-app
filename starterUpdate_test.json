@@ -1,0 +1,15 @@
+{
+"urls": ["https://raw.githubusercontent.com/","http://localhost/"],
+"map":{
+  "WINDOWS":{
+	"sha1": "82158210c830e7603d5e46441a80aeab68dd6001",
+	"relativeUrl": "windows/starter-core-1.24.jar",
+        "path": "windows/starter-core-1.24.jar "
+  },
+  "LINUX":{
+	"sha1": "82158210c830e7603d5e46441a80aeab68dd6001",
+	"relativeUrl": "linux/starter-core-1.24.jar",
+        "path": "linux/starter-core-1.24.jar "
+  }
+}
+}
