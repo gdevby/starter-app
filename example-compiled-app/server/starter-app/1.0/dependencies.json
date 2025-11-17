@@ -1,29 +1,93 @@
 {
   "repositories": [
-    "https://raw.githubusercontent.com/gdevby/starter-app/master/example-compiled-app/server/starter-app/"
+    "https://raw.githubusercontent.com/gdevby/starter-app/java_21/example-compiled-app/server/starter-app/"
   ],
   "resources": [
     {
-      "sha1": "864344400c3d4d92dfeb0a305dc87d953677c03c",
-      "size": 471901,
-      "path": "dependencies/logback-core-1.2.3.jar",
-      "relativeUrl": "1.0/dependencies/logback-core-1.2.3.jar",
+      "sha1": "c000208028c983b9ccf85b57c74e0e74f85849f0",
+      "size": 753858,
+      "path": "dependencies/javafx-base-21.0.8-win.jar",
+      "relativeUrl": "1.0/dependencies/javafx-base-21.0.8-win.jar",
       "executable": false,
       "link": ""
     },
     {
-      "sha1": "7c4f3c474fb2c041d8028740440937705ebb473a",
-      "size": 290339,
-      "path": "dependencies/logback-classic-1.2.3.jar",
-      "relativeUrl": "1.0/dependencies/logback-classic-1.2.3.jar",
+      "sha1": "a8f65a8a8f2302ead13b03aeeb46a4a3c118e60c",
+      "size": 302,
+      "path": "dependencies/javafx-base-21.0.8.jar",
+      "relativeUrl": "1.0/dependencies/javafx-base-21.0.8.jar",
       "executable": false,
       "link": ""
     },
     {
-      "sha1": "da76ca59f6a57ee3102f8f9bd9cee742973efa8a",
-      "size": 41203,
-      "path": "dependencies/slf4j-api-1.7.25.jar",
-      "relativeUrl": "1.0/dependencies/slf4j-api-1.7.25.jar",
+      "sha1": "ed4a6cb56461d8536e339abf8d7f771e4acf9054",
+      "size": 2585171,
+      "path": "dependencies/javafx-controls-21.0.8-win.jar",
+      "relativeUrl": "1.0/dependencies/javafx-controls-21.0.8-win.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "eb50ac07d66f8c7bd79e06edf7ab8f100bbb3666",
+      "size": 306,
+      "path": "dependencies/javafx-controls-21.0.8.jar",
+      "relativeUrl": "1.0/dependencies/javafx-controls-21.0.8.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "9d59631457b5036d4654251b179fcd2a08a22abc",
+      "size": 130177,
+      "path": "dependencies/javafx-fxml-21.0.8-win.jar",
+      "relativeUrl": "1.0/dependencies/javafx-fxml-21.0.8-win.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "74d9b69c4021149278b1971bab0ce4facb7731de",
+      "size": 302,
+      "path": "dependencies/javafx-fxml-21.0.8.jar",
+      "relativeUrl": "1.0/dependencies/javafx-fxml-21.0.8.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "f3aba10d2c9f767e41831aeed6e1cd5418299c03",
+      "size": 5942320,
+      "path": "dependencies/javafx-graphics-21.0.8-win.jar",
+      "relativeUrl": "1.0/dependencies/javafx-graphics-21.0.8-win.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "e61e229a9816c271a15ad3b67e45a9b126ffa8cc",
+      "size": 306,
+      "path": "dependencies/javafx-graphics-21.0.8.jar",
+      "relativeUrl": "1.0/dependencies/javafx-graphics-21.0.8.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "d90276fff414f06cb375f2057f6778cd63c6082f",
+      "size": 280928,
+      "path": "dependencies/logback-classic-1.1.3.jar",
+      "relativeUrl": "1.0/dependencies/logback-classic-1.1.3.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "e3c02049f2dbbc764681b40094ecf0dcbc99b157",
+      "size": 455041,
+      "path": "dependencies/logback-core-1.1.3.jar",
+      "relativeUrl": "1.0/dependencies/logback-core-1.1.3.jar",
+      "executable": false,
+      "link": ""
+    },
+    {
+      "sha1": "2b8019b6249bb05d81d3a3094e468753e2b21311",
+      "size": 29257,
+      "path": "dependencies/slf4j-api-1.7.7.jar",
+      "relativeUrl": "1.0/dependencies/slf4j-api-1.7.7.jar",
       "executable": false,
       "link": ""
     }
