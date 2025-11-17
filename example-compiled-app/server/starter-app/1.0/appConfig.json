@@ -38,8 +38,8 @@
     ],
     "resources": [
       {
-        "sha1": "d62d52330c779c270d42144676dff0f3b9e682f1",
-        "size": 1834,
+        "sha1": "216f7f3d3e406307dc9c9990de929084066d1460",
+        "size": 1765,
         "path": "resources.json",
         "relativeUrl": "1.0/resources.json",
         "executable": false,
@@ -54,8 +54,8 @@
     ],
     "resources": [
       {
-        "sha1": "90cd8f7b1598ff099e2b04cbda557ad19fec3235",
-        "size": 3032,
+        "sha1": "e95acb2ab6da5f66f4efd63122d5b2a7986f7d80",
+        "size": 2963,
         "path": "dependencies.json",
         "relativeUrl": "1.0/dependencies.json",
         "executable": false,
@@ -70,8 +70,8 @@
     ],
     "resources": [
       {
-        "sha1": "32062d46de5314031e4a3f03d9a8024abfa3e1de",
-        "size": 3414,
+        "sha1": "7fc1e59d9dfbc66e1324f577f4672455dd2abcc8",
+        "size": 3069,
         "path": "javaConfig.json",
         "relativeUrl": "javaConfig.json",
         "executable": false,
