@@ -52,8 +52,8 @@
       "link": ""
     },
     {
-      "sha1": "a7c8b9095d6cf71d2455d68e838165344e8ca47d",
-      "size": 909,
+      "sha1": "2e7db910ba8644012820abda77f856bc9cfa0093",
+      "size": 883,
       "path": "resources/sample.fxml",
       "relativeUrl": "1.0/resources/sample.fxml",
       "executable": false,
