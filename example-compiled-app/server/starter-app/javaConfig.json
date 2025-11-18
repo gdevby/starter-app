@@ -5,7 +5,7 @@
         "jre_default": {
           "jreDirectoryName": "jre-21.0.8-linux-x64",
           "repositories": [
-            "https://raw.githubusercontent.com/gdevby/starter-app/java_21/example-compiled-app/server/starter-app/"
+            "https://media.githubusercontent.com/media/gdevby/starter-app/java_21/example-compiled-app/server/starter-app/"
           ],
           "resources": [
             {
@@ -45,7 +45,7 @@
         "jre_default": {
           "jreDirectoryName": "./jre-21.0.8-macosx-x64",
           "repositories": [
-            "https://raw.githubusercontent.com/gdevby/starter-app/java_21/example-compiled-app/server/starter-app/"
+            "https://media.githubusercontent.com/media/gdevby/starter-app/java_21/example-compiled-app/server/starter-app/"
           ],
           "resources": [
             {
@@ -66,7 +66,7 @@
         "jre_default": {
           "jreDirectoryName": "jre-21.0.8-windows-x64",
           "repositories": [
-            "https://raw.githubusercontent.com/gdevby/starter-app/java_21/example-compiled-app/server/starter-app/"
+            "https://media.githubusercontent.com/media/gdevby/starter-app/java_21/example-compiled-app/server/starter-app/"
           ],
           "resources": [
             {
