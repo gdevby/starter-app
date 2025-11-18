@@ -36,8 +36,8 @@
       "link": ""
     },
     {
-      "sha1": "d9b2246b170f4de1f61d1b5ead3b6ebe61c67a8d",
-      "size": 604,
+      "sha1": "355c4dfda1d2a965e62ceb539178a54930e50ea2",
+      "size": 588,
       "path": "resources/logback.xml",
       "relativeUrl": "1.0/resources/logback.xml",
       "executable": false,
