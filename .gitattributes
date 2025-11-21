@@ -6,3 +6,4 @@ example-compiled-app/jres_default/windows/x64/jre-21.0.8-windows-x64.zip filter=
 example-compiled-app/server/starter-app/jres_default/linux/x64/jre-21.0.8-linux-x64.tar.gz filter=lfs diff=lfs merge=lfs -text
 example-compiled-app/server/starter-app/jres_default/macosx/x64/jre-21.0.8-macosx-x64.tar.gz filter=lfs diff=lfs merge=lfs -text
 example-compiled-app/server/starter-app/jres_default/windows/x64/jre-21.0.8-windows-x64.zip filter=lfs diff=lfs merge=lfs -text
+example-compiled-app/os_installer/starter.deb filter=lfs diff=lfs merge=lfs -text
